@@ -426,7 +426,7 @@
 		"ARTIFACT_FRIENDLYFIRE_DESCRIPTION": "Ogień bratobójczy jest włączony zarówno dla graczy, jak i potworów.",
 
 		"ARTIFACT_NONE_NAME": "Wyłącz Artefakt",
-		"ARTIFACT_NONE_DESCRIPTION": "Wyłącza wybrany artefakt."
+		"ARTIFACT_NONE_DESCRIPTION": "Wyłącza wybrany artefakt.",
 
         "NULL_SUBTITLE": "Horda Wielu",
 
@@ -572,10 +572,502 @@
 
     "HUNTRESS_SKIN_ALT1_NAME" : "Arktyka", 
 
-    "HUNTRESS_BODY_LORE" : "Z gracją zeskoczyła z dachu budynku, spadając do alejki poniżej. Przewrót, przeskok przez rozbite okno i już była w opuszczonym magazynie. Lata nawigowania po ulicach trzymały jej ciało w formie - a umysł ostrym.\r\n\r\nWstrzymała oddech, gdy przebiegała obok policja szukając złodziejki klejnotu. Może tak utknie tutaj na parę godzin - ale była do tego przyzwyczajona.\r\n\r\nAmiera była niesławna w tym mieście – a za niesławę, zdobyła ogromną nagrodę. Czyż to nie było trzydziesi tysięcy kredytów teraz? Czterdzieści? Lekko się uśmiechnęła. Nagroda była niczym w porównaniu do skarbu, który trzymała w rękach. Ten klejnot mógł się sprzedać za milion kredytów - nie, więcej! Dziesiątki milionów. To był jeden z ostatnich pryzmatycznych ametystów pozostałych na świecie. Ścisnęła kamień bliżej serca.\r\n\r\nPolicja wydawała się tym razem bardziej wytrwała. Amierze to pasowało - wszystko, co musiała zrobić, to poczekać. Zmniejszyła częstotliwość oddechów – może to potrwać kilka dni.\r\n\r\nPrzynajmniej tak sobie myślała – zanim fala laserowych strzał przeszyła jej mózg, zabijając błyskawicznie.\r\n\r\n",
+    "HUNTRESS_BODY_LORE" : "Z gracją zeskoczyła z dachu budynku, spadając do alejki poniżej. Przewrót, przeskok przez rozbite okno i już była w opuszczonym magazynie. Lata nawigowania po ulicach trzymały jej ciało w formie - a umysł ostrym.\r\n\r\nWstrzymała oddech, gdy przebiegała obok policja szukając złodziejki klejnotu. Może tak utknie tutaj na parę godzin - ale była do tego przyzwyczajona.\r\n\r\nAmiera była niesławna w tym mieście – a za niesławę, zdobyła ogromną nagrodę. Czyż to nie było trzydziesi tysięcy kredytów teraz? Czterdzieści? Lekko się uśmiechnęła. Nagroda była niczym w porównaniu do skarbu, który trzymała w rękach. Ten klejnot mógł się sprzedać za milion kredytów - nie, więcej! Dziesiątki milionów. To był jeden z ostatnich pryzmatycznych ametystów pozostałych na świecie. Ścisnęła kamień bliżej serca.\r\n\r\nPolicja wydawała się tym razem bardziej wytrwała. Amierze to pasowało - wszystko, co musiała zrobić, to poczekać. Zmniejszyła częstotliwość oddechów – może to potrwać kilka dni.\r\n\r\nPrzynajmniej tak sobie myślała – zanim fala laserowych strzał przeszyła jej mózg, zabijając błyskawicznie.\r\n\r\n//-----------------------------------//\r\n\r\n20,000 KREDYTÓW ZOSTAŁO DODANE DO TWOJEGO KONTA\r\n\r\nMIŁEGO POLOWANIA!",
+
+	"MAGE_BODY_NAME": "Mag",
+	"MAGE_BODY_SUBTITLE" : "Zwiastun Domu Ponad",
+	"MAGE_PASSIVE_NAME" : "Skafander ENV", 
+	"MAGE_PASSIVE_DESCRIPTION" : "Przytrzymanie klawisza skoku sprawia, że Mag <style=cIsUtility>unosi się w powietrzu</style>.",
+	"MAGE_PRIMARY_FIRE_NAME" : "Kula ognia",
+	"MAGE_PRIMARY_FIRE_DESCRIPTION" : "<style=cIsDamage>Podpala</style>. Wystrzel pocisk zadający <style=cIsDamage>280% obrażeń</style>. Można przechowywać do 4.</style>",
+	"MAGE_PRIMARY_LIGHTNING_NAME" : "Kula plazmy",
+	"MAGE_PRIMARY_LIGHTNING_DESCRIPTION" : "Wystrzel pocisk, który zadaje <style=cIsDamage>280% obrażeń</style> i <style=cIsDamage>eksploduje</style> na małym obszarze. Można przechowywać do 4.</style>",
+	"MAGE_SECONDARY_LIGHTNING_NAME": "Naładowana nano-bomba",
+	"MAGE_SECONDARY_LIGHTNING_DESCRIPTION" : "<style=cIsDamage>Ogłusza</style>. Naładuj <style=cIsDamage>wybuchającą</style> nano-bombę, która zadaje <style=cIsDamage>400%-2000%</style> obrażeń.",
+	"MAGE_SECONDARY_ICE_NAME": "Wystrzel nano-włócznię",
+	"MAGE_SECONDARY_ICE_DESCRIPTION" : "<style=cIsUtility>Zamraża</style>. Naładuj <style=cIsDamage>przeszywającą</style> nano-włócznię, która zadaje <style=cIsDamage>400%-1200%</style> obrażeń.",
+	"MAGE_UTILITY_ICE_NAME": "Szybkie zamrożenie",
+	"MAGE_UTILITY_ICE_DESCRIPTION" : "<style=cIsUtility>Zamraża</style>. Tworzy barierę, która rani wrogów zadając <style=cIsDamage>100% obrażeń</style>.",
+	"MAGE_SPECIAL_FIRE_NAME": "Miotacz ognia",
+	"MAGE_SPECIAL_FIRE_DESCRIPTION" : "<style=cIsDamage>Podpala</style>. Spala wszystkich wrogów przed tobą zadając <style=cIsDamage>2000% obrażeń</style>.",
+	"MAGE_SPECIAL_LIGHTNING_NAME" : "Fala jonów", 
+	"MAGE_SPECIAL_LIGHTNING_DESCRIPTION" : "<style=cIsDamage>Ogłusza</style>. Wybuchasz w powietrze zadając <style=cIsDamage>800% obrażeń</style>.",
+	"MAGE_DESCRIPTION": "Mag to postać ofensywna z dużym burstem,  skuteczny zarówno w walce z bossami, jak i grupami. <style=cSub>\r\n\r\n< ! > Kula Ognia szybko zużywa pociski, ale powoli je ładuje - staraj się wplatać zwykłe ataki między użyciami umiejętności.\r\n\r\n< ! > Bezpośrednie trafienia Naładowaną Nano-Bombą mogą odwrócić losy bitwy. \r\n\r\n< ! > Zamrożeni wrogowie są egzekwowani na niskim zdrowiu, co czyni tę umiejętność skuteczną przeciwko tankom.\r\n\r\n< ! > Pamiętaj, że Mag NIE ma zdolności defensywnych - pozycjonowanie i defensywne przedmioty są kluczowe! <\/style>\r\n",
+	"MAGE_SKIN_ALT1_NAME" : "Chromowa",
+	"MAGE_BODY_LORE" : "Z głębokim przekonaniem, że niebo jest planetą, a nie mistycznym miejscem, Wysoka Rada szukała głęboko w kosmosie Ziemi Obiecanej. \r\n\r\nNapędzany zarówno dogmatem jak i nauką, Wysoki Sąd posiada zdumiewające cuda technologiczne - z których prawie wszystkie są ukryte głęboko w ich halach. \r\n\r\nDom Ponad reprezentuje najbardziej ambitnych wyznawców Wysokiego Sądu, przodujących w podróżach w głąb kosmosu w Strefie 5. Dzięki unikalnemu skafandrowi ENV Dom Ponad zapuścił się w kosmos głębiej niż jakikolwiek inny Dom. Skafander ENV, noszony przez magów z Wysokiego Sądu jest cudem inżynierii - zdolnym do dostosowania się do warunków każdego środowiska. Technologia stojąca za skafandrem ENV, jak wszystkie inne technologie Wysokiego Sądu, jest wciąż nieujawniona.",
+
+
+	"TOOLBOT_BODY_NAME": "MUL-T",
+	"TOOLBOT_BODY_SUBTITLE" : "Właściwe narzędzie do niewłaściwej roboty",
+	"TOOLBOT_PASSIVE_NAME" : "Wielofunkcyjny",
+	"TOOLBOT_PASSIVE_DESCRIPTION" : "MUL-T może posiadać jednocześnie <style=cIsUtility>dwa przedmioty wyposażenia</style>. Aktywny przedmiot zmienia się po użyciu <style=cIsDamage>Przeprogramowania</style>.",
+	"TOOLBOT_PRIMARY_NAME": "Gwoździarka",
+	"TOOLBOT_PRIMARY_DESCRIPTION" : "Szybkie wystrzeliwanie gwoździ zadających <style=cIsDamage>70% obrażeń</style>. Kończy się serią <style=cIsDamage>12</style> gwoździ.",
+	"TOOLBOT_PRIMARY_ALT1_NAME": "Zbrojarski perforator",
+	"TOOLBOT_PRIMARY_ALT1_DESCRIPTION" : "Wystrzel przeszywający pręt zbrojeniowy, który zadaje <style=cIsDamage>600% obrażeń</style>.",
+	"TOOLBOT_PRIMARY_ALT2_NAME": "Wystrzeliwacz złomu",
+	"TOOLBOT_PRIMARY_ALT2_DESCRIPTION" : "Wystrzel rakietę, która eksploduje zadając <style=cIsDamage>360% obrażeń</style>. Można przechowywać do 4.",
+	"TOOLBOT_PRIMARY_ALT3_NAME": "Elektryczna piła",
+	"TOOLBOT_PRIMARY_ALT3_DESCRIPTION" : "Piłuj pobliskich wrogów zadając <style=cIsDamage>1000% obrażeń na sekundę</style>.",
+	"TOOLBOT_SECONDARY_NAME": "Butla ciśnieniowa",
+	"TOOLBOT_SECONDARY_DESCRIPTION" : "<style=cIsDamage>Ogłusza</style>. Wystrzel butlę zadającą <style=cIsDamage>220% obrażeń</style>, która wypuszcza ogłuszające bombki zadające <style=cIsDamage>5x44% obrażeń</style>.",
+	"TOOLBOT_UTILITY_NAME": "Tryb transportu",
+	"TOOLBOT_UTILITY_DESCRIPTION" : "<style=cIsUtility>Ciężki</style>. Szarżuj do przodu, zyskując <style=cIsUtility>200 punktów pancerza</style> i <style=cIsUtility>220% prędkości ruchu</style>. Zadaje wrogom <style=cIsDamage>250% obrażeń</style>.",
+	"TOOLBOT_SPECIAL_NAME": "Przeprogramowanie",
+	"TOOLBOT_SPECIAL_DESCRIPTION" : "Biernie utrzymuj jednocześnie <style=cIsUtility>DWIE sztuki wyposażenia</style>. Aktywacja 'Przeprogramowania' zmienia <style=cIsUtility>aktywne wyposażenie</style> oraz <style=cIsDamage>główny atak MUL-Ta</style>.", 
+	"TOOLBOT_SPECIAL_ALT_NAME" : "Tryb Mocy",
+	"TOOLBOT_SPECIAL_ALT_DESCRIPTION" : "Wejdź w ciężki Tryb Mocy, wyposażając się w oba dostępne <style=cIsDamage>główne ataki</style>. Zyskaj <style=cIsUtility>100 punktów pancerza</style>, ale tracisz <style=cIsHealth>-60% prędkości ruchu</style>.",
+	"TOOLBOT_SPECIAL_ALT_QUIT_NAME" : "Anuluj Tryb Mocy",
+	"TOOLBOT_SPECIAL_ALT_QUIT_DESCRIPTION" : "Anuluj Tryb Mocy i wróć do normalnego stanu. Beep beep!",
+	
+	"TOOLBOT_DESCRIPTION": "MUL-T jest agresywną postacią, która ma narzędzia do wykonania każdego zadania!  <style=cSub>\r\n\r\n< ! > Gwoździarka charakteryzuje się ekstremalnie wysokimi obrażeniami, ale ma też krótki zasięg, co czyni ją ryzykowną, ale silną bronią.\r\n\r\n< ! > Tryb Transportu może być zarówno świetnym narzędziem do pościgu za mniejszymi grupami potworów, jak i narzędziem do zadawania dużych ciosów większym przeciwnikom.\r\n\r\n< ! > Butla Ciśnieniowa może na długo unieruchomić dużą grupę wrogów, pomagając w ustawieniu idealnego strzału zarówno Tobie, jak i Twoim sojusznikom.\r\n\r\n< ! > Nieustanne Przeprogramowywanie może pomóc eliminować słabe jednostki za pomocą Zbrojarskiego Perforatora, a jednocześnie utrzymywać wysoki DPS z Gwoździarką. <\/style>\r\n",
+	"TOOLBOT_SKIN_ALT1_NAME" : "Woźny",
+
+	"TOOLBOT_BODY_LORE" : "\"OK. Wszystko się zgadza. Jesteś wolny, kumplu.\"\r\n\r\nRobot wydał dźwięk potwierdzenia. Zwinął się w kulkę i potoczył korytarzem hangaru - w bardzo bezpiecznym tempie.\r\n\r\nHiroshi pociągnął za dźwignię. Szyna sufitowa ożyła, wydając z siebie wyraźną serię zgrzytów.\r\n\r\n\"To co mu dolega?\" zapytał Rico niezbyt zainteresowanym głosem, pogrążony w lekturze powieści.\r\n\r\n\"Wygląda na uszkodzenia kosmetyczne na jednostce MUL-Ta. Oberwał od innej jednostki w zatoce ładowania, która nawaliła po kolejnym gwałtownym spadku napięcia. Zajmiemy się tą jednostką po tej. Za to możemy podziękować ekipie konserwatorów.\" zauważył Hiroshi. \r\n\r\n\"Świetnie. Tak trudno utrzymać porządek? 90% ich pracy i tak wykonują za nich roboty.\" Rico kpił.\r\n\r\n\"Mamy skargi na słabe spawy jednostki, co być może było przyczyną. Optyczne kalibracje są prawdopodobnie wyregulowane, więc też to sprawdzimy. Mimo wszystko, obstawiam winę elektryków za słabą konserwacje. Hej, Rico! Położyłbyś na chwilę książkę i pomógł?\"\r\n\r\nSzyna przyniosła do hangaru śpiącego, jasnożółtego robota. Hiroshi pstryknął dźwignię i szyna zwolniła do zatrzymania, przynosząc ciszę. Odłączył robota. Niechętnie, Rico odłożył książkę na stół roboczy i pomógł wyładować. W kilka minut robot był na platformie serwisowej.\r\n\r\nHiroshi podszedł do jednej z szafek narzędziowych i wyciągnął dziwne urządzenie. Otworzył panel dostępu do uszkodzonej głowy i zaczął badać uszkodzenie z drugiej strony. Po chwili usłyszał beep i został odrzucony od urządzenia. Wgniecenie zniknęło.\r\n\r\n\"Idź to odłożyć, a ja naprawię optykę,\" powiedział Hiroshi z jedną ręką za plecami. \"Za chwilę coś Ci pokażę.\"\r\n\r\nRico jęknął i zaniósł odbijacz do szafki. Hiroshi przylutowywał coś już żelazkiem, które wziął z kieszeni. \r\n\r\nTo zaciekawiło Rico. \r\n\r\n\"Nie potrzebujesz lutownicy, żeby naprawić kalibracje. Co robisz?\" zapytał.\r\n\r\n\"Ja już naprawiłem optykę. Pamiętasz, jak mówiłem, że chciałem Ci pokazać coś fajnego? następnym razem kiedy będziemy mieli MUL-Ta w serwisie? Chodź tu.\" powiedział Hiroshi, gestykulując. \"Widzisz te dwa chipy? Tak naprawdę to jeden chip, który jest rozdzielony na pół. MUL-Ty mają te same rdzenie co te eleganckie roboty kucharskie, ale producenci blokują dostęp do głównego modułu uczenia się.\"\r\n\r\n\"Nie mów.\" odpowiedział Rico, nadal próbując zobaczyć chip, o którym mówi Hiroshi. \"Dlaczego coś takiego robią?\"\r\n\r\n\"To tańsze, żeby robić wszystkie rdzenie tak samo w fabryce i zmieniać je później. Producent mówi, że to ze względów bezpieczeństwa, ale to tylko po to, żeby sprzedawać Ci nowe rdzenie co kilka lat, kiedy w sumie możesz ich po prostu nauczyć nowych zadań.\" Hiroshi wyjaśnił.\r\n\r\n\"Brzmi znajomo. Gdyby była to kwestia bezpieczeństwa, to dlaczego nie robią tego samego z tymi robotami-kucharzami? Są super stabilne. Nigdy nie pomyliły zamówienia, nawet jeśli są to jakieś dziwactwa. Poradziły sobie nawet ze Squid Risotto mamy!\"\r\n\r\n\"Bo robią, co im uchodzi na sucho. W każdym razie, to powinno być na tyle. Wykradniemy mu kilka minut. Obudź się\" rozkazał.\r\n\r\nZrelaksowana postawa robota zniknęła, stanął w pełni zaalarmowany.\r\n\r\n\"Hej, widzisz co robię z ręką? Możesz to powtórzyć?\"\r\n\r\nRobot pokazał niegrzeczny gest.\r\n\r\n\"Fantastycznie! Świetnie Ci idzie!\" Hiroshi był podekscytowany, Rico uśmiechnął się złowieszczo. Pobiegł do biurka. Hiroshi powtarzał gest, a robot naśladował jedyną działającą ręką. Rico wszedł w pole widzenia robota z dziurami w portrecie. \"Zapamiętaj tego człowieka? To Ron z centrali, a do tego skończony degenerat.\"\r\n\r\nRobot wydał dźwięk potwierdzenia.\r\n\r\n\"Możesz to zrobić następnym razem, jak go spotkasz?\"\r\n\r\nRobot pipnął ponownie w potwierdzeniu.\r\n\r\n\"Rico! On to zapamięta! MUL-T, zapomnij o tym.\"\r\n\r\nRobot nie zareagował.\r\n\r\n\"Co znowu knujecie?\" powiedział zgrzytliwy głos, dochodzący znikąd. W panice Hiroshi zamknął panel na głowie robota i zakrył sensor. \r\n\r\n\"Po prostu naprawiamy roboty! Wykonujemy pracę! A tego właśnie skończyliśmy. Możesz iść!\" Hiroshi wykrzyknął, klepiąc robota po plecach. Robot zwinął się w kulkę i zaczął toczyć się traktem hangaru.\r\n\r\n\"Tak, tak. Lepiej, żeby mnie się to więcej nie zdarzyło.\" Ron oznajmił surowo, po czym odwrócił się i wyszedł - najprawdopodobniej, by dalej męczyć pracowników.\r\n\r\nOboje odetchnęli z ulgą. Rico się wyprostował. \"Więc, powinniśmy być na miejscu za jakieś… 13 godzin. To wystarczająco, żeby złapać tego MUL-Ta, otworzyć go znowu i zresetować?\"\r\n\r\nHiroshi też wstał.  \u201CJasne, nie martwię się zbytnio. Ile kłopotu może sprawić w 13 godzin?\u201D\r\n",
+
+	"TREEBOT_BODY_NAME": "REX",
+	"TREEBOT_BODY_SUBTITLE" : "Symbionci",
+	"TREEBOT_PASSIVE_NAME" : "Naturalne Toksyny",
+	"TREEBOT_PASSIVE_DESCRIPTION" : "Niektóre ataki <style=cIsDamage>Osłabiają</style> trafione jednostki, zmniejszając ich szybkość ruchu, pancerz i obrażenia.",
+	"TREEBOT_PRIMARY_NAME": "DYREKTYWA: Wstrzyknij",
+	"TREEBOT_PRIMARY_DESCRIPTION" : "Wstrzel 3 strzykawki zadające <style=cIsDamage>3x80% obrażeń</style>. Ostatnia strzykawka <style=cIsDamage>Osłabia</style> i <style=cIsHealing>leczy za 60% zadanych obrażeń</style>.",
+	"TREEBOT_SECONDARY_NAME": "Ostrzał z nasion",
+	"TREEBOT_SECONDARY_DESCRIPTION" : "<style=cIsHealth>15% HP</style>. Wystrzel granatnik w niebo, który zadaje <style=cIsDamage>450% obrażeń</style>.", 
+	"TREEBOT_SECONDARY_ALT1_NAME": "DYREKTYWA: Wierć",
+	"TREEBOT_SECONDARY_ALT1_DESCRIPTION" : "Wystrzel w niebo serię pocisków nasiennych, które spadają zadając <style=cIsDamage>450% obrażeń na sekundę</style>.",
+	"TREEBOT_UTILITY_NAME": "DYREKTYWA: Rozprosz",
+	"TREEBOT_UTILITY_DESCRIPTION" : "Wystrzel <style=cIsUtility>Bum dźwiękowy</style>, który <style=cIsDamage>Osłabia</style> wszystkie trafione jednostki.",
+	"TREEBOT_UTILITY_ALT1_NAME": "Wrzawa Jeżyny",
+	"TREEBOT_UTILITY_ALT1_DESCRIPTION" : "<style=cIsHealth>20% HP</style>. Wystrzel <style=cIsUtility>Bum dźwiękowy</style>, który <style=cIsDamage>zadaje obrażenia</style> wrogom w wysokości <style=cIsDamage>550% obrażeń</style>. <style=cIsHealing>Leczy za każdy trafiony cel</style>.",
+	"TREEBOT_SPECIAL_NAME": "Pnący Wzrost",
+	"TREEBOT_SPECIAL_DESCRIPTION" : "<style=cIsHealth>25% HP</style>. Wystrzel kwiat, który <style=cIsDamage>zapuszcza korzenie</style> zadając <style=cIsDamage>200% obrażeń</style>. <style=cIsHealing>Leczy za każdy trafiony cel</style>.",
+	"TREEBOT_DESCRIPTION": "REX jest hybrydą robota i rośliny, która zużywa PZ, aby używać potężnych umiejętności na odległość. Ani robot ani roślina nie zdołałaby samotnie przetrwać na tej planecie - na szczęście mają siebie. <style=cSub>\r\n\r\n< ! > Naturalne Toksyny zmniejszają siłę wrogów, co ułatwia walkę zarówno Tobie, jak i sojusznikom.\r\n\r\n< ! > Ostrzał z Nasion możesz stosować z każdego dystansu, a do tego ma krótki czas odnowienia. Tylko pilnuj poziomu PZ!\r\n\r\n< ! > DYREKTYWĘ: Rozprosz można używać, by odrzucać wrogów. Możesz też popchnąć latające bestie w stronę ściany, aby je wykończyć.\r\n\r\n< ! > Celne Pnące Wzrosty pozwalają REXowi walczyć praktycznie w nieskończoność. Przypięcie korzeniami wielu potworów zapewni odzyskanie początkowego kosztu w punktach życia. <style=cSub>\r\n",
+	"TREEBOT_SPECIAL_ALT1_NAME": "DYREKTYWA: Zbieraj",
+	"TREEBOT_SPECIAL_ALT1_DESCRIPTION" : "Wystrzel pocisk, który zadaje <style=cIsDamage>330% obrażeń</style> i <style=cIsDamage>zatruwa</style> cel. Śmierć wroga powoduje powstanie <style=cIsHealing>owoców leczących</style>, które przywracają <style=cIsHealing>25% HP</style>.",
+	"TREEBOT_SKIN_ALT1_NAME" : "Smoothie",
+
+	"TREEBOT_BODY_LORE" : "<style=cMono>\r\n//--AUTO-TRANSKRYPCJA Z HYDROPONIKÓW BAY NA UES [Utajnione]--//</style>\r\n\r\n\u201CRaport ze stanu Hydroponików. Numer seryjny zaczynający się na 12ea031lsd095a-\u201C\r\n\r\n\u201CTak, 12ea03. Zadanie: opieka nad kapustą, sałatą, i mizuną. Około 250 roślin. Stabilne, ale tracą biomasę. Myślę, że to kwestia mikrograwitacji. \u201D\r\n\r\n\u201CMiej biomasę na oku, może trzeba będzie zezłomować 12ea03 i wymienić na jedną z naszych jednostek zimozielonych. Następny... numer seryjny crp012d054jd0-\u201C\r\n\r\n\u201CCrp01 daje sobie radę. Zadanie: kukurydza. Około 80 roślin. Strata 6, zostaje 74.\u201D \r\n\r\n\u201CWystarczająco, jak sądzę. A co z... numerem seryjnym rex0ch12d66m-\u201C\r\n\r\n\u201COch, ta jednostka. Tak, dostała zadanie opiekowania się jednym z naszych hybrydowych szczepów kapusty. Mówiąc szczerze... poszło koszmarnie. Myślę, że zaczęliśmy z 80 sadzonkami, straciliśmy 79. Hybryda po prostu nie jest odpowiednio spleciona. Nie da się ich utrzymać.\u201D\r\n\r\n\u201CA stan samej jednostki?\u201D\r\n\r\n\u201CNo... znajduje się na pokładzie obserwacyjnym. Udało jej się wyciągnąć ostatnią hybrydę na swoje podwozie i od tej pory wędruje po statku, goniąc za światłem gwiazd. \u201D\r\n\r\n\u201C\u2026Co? Jednostka opuściła Hydroponiki? \r\n\r\n\u201CTak, ale-\u201C\r\n\r\n\u201CTo znaczy Jednostka przestała działać według protokołu?\u201D\r\n\r\n\u201CNo, tak, ale-\u201C\r\n\r\n\u201CA zamiast wyłączyć Jednostkę, pozwoliliście jej swobodnie wędrować po statku?\u201D\r\n\r\n\u201CZespół po prostu... po prostu żal nam było tej rzeczy, sama pan rozumie. Bardzo stara się utrzymać tę ostatnią hybrydę przy życiu, i-\u201C\r\n\r\n\u201CWyłączyć Jednostkę.\u201D\r\n\r\n\u201CNo, problem jest taki -  Rex radzi sobie naprawdę świetnie! Biomasa hybrydy-\u201C\r\n\r\n\u201CŻartujesz sobie? Wyłączyć Jednostkę. Nie wiesz, co się dzieje z robotem, kiedy przestaje wypełniać protokoły. W imię bezpańskiej hydroponicznej jednostki naraża pani życie całej swojej załogi. To nie podlega dyskusji.\u201D\r\n\r\n\u2026.\r\n\r\n\u201CTak, proszę pana.\u201D\r\n<style=cMono>\r\nPrzetwarzanie zakończone.\r\n</style>\r\n" ,
+
+
+		"LOADER_BODY_NAME": "Tracz",
+		"LOADER_BODY_SUBTITLE" : "Bioniczna Siła",
+		"LOADER_PASSIVE_NAME" : "Bariera Złomu",
+		"LOADER_PASSIVE_DESCRIPTION" : "Tracz jest <style=cIsUtility>odporny</style> na obrażenia od upadku. Uderzenie przeciwników rękawicą Tracza zapewnia <style=cIsHealing>tymczasową barierę</style>.",
+		"LOADER_PRIMARY_NAME": "Hak",
+		"LOADER_PRIMARY_DESCRIPTION" : "Zadaj pobliskim wrogom <style=cIsDamage>320% obrażeń</style> ciosami.",
+		"LOADER_SECONDARY_NAME": "Pięść z Liną",
+		"LOADER_SECONDARY_DESCRIPTION" : "Wystrzel rękawice z liną by <style=cIsUtility>przyciągnąć</style> się do celu.",
+		"LOADER_YANKHOOK_NAME": "Kolczasta Pięść",
+		"LOADER_YANKHOOK_DESCRIPTION": "<style=cIsDamage>Ogłusza</style>. Wystrzel rękawice z liną do przodu, zadając <style=cIsDamage>320% obrażeń</style>. <style=cIsUtility>Przyciąga</style> ciebie do ciężkich celów. Zamiast tego, lekkie cele są <style=cIsUtility>przyciągane do CIEBIE</style>.",
+		"LOADER_UTILITY_NAME": "Naładowana Rękawica",
+		"LOADER_UTILITY_DESCRIPTION" : "<style=cIsUtility>Potężny</style>. Naładuj <style=cIsUtility>przeszywający</style> cios zadający <style=cIsDamage>600%-2700% obrażeń</style>.",
+		"LOADER_UTILITY_ALT1_NAME": "Błyskawiczna Rękawica",
+		"LOADER_UTILITY_ALT1_DESCRIPTION" : "<style=cIsUtility>Potężny</style>. Naładuj <style=cIsUtility>pojedynczy</style> cios zadający <style=cIsDamage>2100% obrażeń</style> i <style=cIsDamage>rażący</style> wrogów w stożku efektu <style=cIsDamage>1000% obrażeń</style>.",
+		"LOADER_SPECIAL_NAME": "Pylon M551",
+		"LOADER_SPECIAL_DESCRIPTION" : "Rzuć pływający pylon, który <style=cIsDamage>razy</style> do <style=cIsDamage>6</style> pobliskich wrogów zadając <style=cIsDamage>100% obrażeń</style>. Może być <style=cIsUtility>złapany</style> liną.",
+		"LOADER_SPECIAL_ALT_NAME": "Grzmotnięcie",
+		"LOADER_SPECIAL_ALT_DESCRIPTION": "<style=cIsDamage>Ogłusza</style>. Uderz pięściami o ziemię, zadając <style=cIsDamage>2000%</style> obrażeń w miejscu uderzenia.",
+		"LOADER_BODY_LORE": "Wiele osób powiedziałoby, że ładowanie towarów to nudna praca. Tracz absolutnie się z tym nie zgadza.\r\n\r\nInne prace nie dają pracownikom w pełni mobilnego tytanowego egzoszkieletu, zdolnego podnosić 250 ton.\r\n\r\nInne prace nie pozwalają pracownikom poznać załogi niezliczonych statków kosmicznych z galaktyki.\r\n\r\nInne prace nie pozwalają wykorzystać egzoszkieletu do rozrywki, a nawet mniej wyposażyć go w samodzielnie zbudowane haki napędzane wyciągarką zdolną unieść do 100 ton.\r\n\r\nInne prace nie wiążą się z rozmową z legendą sił roboczych UES i prośbą o dołączenie do niejawnej misji w Niezbadanych Terytoriach.\r\n\r\nInne prace nie wiążą się z walką z dziwnymi, egzotycznymi stworzeniami i badaniem tajemniczych ruin na innej planecie.\r\n\r\nWiele osób powiedziałoby, że ładowanie towarów to nudna praca. Tracz absolutnie się z tym nie zgadza.\r\n",
+		
+		"LOADER_DESCRIPTION": "Tracz to powolny, ale potężny osiłek, który używa liny do wyjątkowego przemieszczania się. <style=cSub>\r\n\r\n< ! > Bariera Złomu pozwala Traczowi pozostać w walce, o ile tylko dalej zadaje ciosy.\r\n\r\n< ! > Pięści z Liną można użyć do szybkiego poruszania się, unikania ataków, lub zwiększenia prędkości pod potężne uderzenie z Naładowanej Rękawicy!\r\n\r\n< ! > Naładowaną Rękawicę można użyć zarówno do zbliżenia dystansu, jak i zadania ciosu kończącego pobliskim wrogom. \r\n\r\n< ! > Pamiętaj, że Pylon M551 może zostać punktem do zaczepienia liny zarówno przez ciebie, jak i innego, sprzymierzonego Tracza. </style>\r\n", 
+		"LOADER_SKIN_ALT1_NAME" : "Klasyczny",
+		
+		"CROCO_BODY_NAME" : "Acrid",
+"CROCO_BODY_SUBTITLE" : "Eksperyment",
+"CROCO_PASSIVE_NAME" : "Trucizna",
+"CROCO_PASSIVE_DESCRIPTION" : "Ataki <style=cIsHealing>trujące</style> nakładają efekt silnych obrażeń ciągłych.",
+"CROCO_PASSIVE_ALT_NAME" : "Pomór",
+"CROCO_PASSIVE_ALT_DESCRIPTION" : "Ataki nakładające <style=cIsHealing>Truciznę</style> zamiast tego kumulują się jako <style=cIsDamage>Pomór</style>, zadając <style=cIsDamage>60% obrażeń na sekundę</style>.",
+"CROCO_PRIMARY_NAME" : "Zawziętość",
+"CROCO_PRIMARY_DESCRIPTION" : "Szarpie wroga, zadając <style=cIsDamage>200% obrażeń</style>. Każdy 3. cios jest <style=cIsHealing>Regenerujący</style> i zadaje <style=cIsDamage>400% obrażeń</style>.",
+"CROCO_SECONDARY_NAME" : "Neurotoksyna",
+"CROCO_SECONDARY_DESCRIPTION" : "<style=cIsHealing>Trujące</style>. Pluje toksyczną żółcią zadając <style=cIsDamage>240% obrażeń</style>.",
+"CROCO_SECONDARY_ALT_NAME" : "Żarłoczne Ugryzienie",
+"CROCO_SECONDARY_ALT_DESCRIPTION" : "<style=cIsHealing>Trujące</style>. <style=cIsDamage>Egzekutor</style>. <style=cIsHealing>Regenerujące</style>. Gryzie wroga, zadając <style=cIsDamage>310% obrażeń</style>.",
+"CROCO_UTILITY_NAME" : "Żrący Skok",
+"CROCO_UTILITY_DESCRIPTION" : "<style=cIsHealing>Trujące</style>. <style=cIsDamage>Ogłuszające</style>. Skocz w powietrze, zadając <style=cIsDamage>320% obrażeń</style>. Pozostawia za sobą kwas zadający <style=cIsDamage>25% obrażeń</style>.",
+"CROCO_UTILITY_ALT1_NAME" : "Szał Skoku",
+"CROCO_UTILITY_ALT1_DESCRIPTION" : "<style=cIsDamage>Ogłuszające</style>. Skocz w powietrze, zadając <style=cIsDamage>550% obrażeń</style>. <style=cIsUtility>Skróć</style> odnowienie o <style=cIsUtility>2s</style> za każdego trafionego wroga.",
+"CROCO_SPECIAL_NAME" : "Epidemia",
+"CROCO_SPECIAL_DESCRIPTION" : "<style=cIsHealing>Trujące</style>. Uwolnij śmiertelną chorobę zadającą <style=cIsDamage>100% obrażeń</style>. Roznosi się na maksymalnie <style=cIsDamage>20</style> celów.",
+"CROCO_DESCRIPTION" : "Acrid to hybrydowa postać atakująca z bliska, która używa potężnych trucizn do eliminowania trudnych przeciwników. <style=cSub>\r\n\r\n< ! > Trucizna bardzo skutecznie zadaje obrażenia ciągłe - staraj się nakładać ją tak często jak to tylko możliwe!\r\n\r\n< ! > Trucizna zostawia wrogów z 1 PZ, więc priorytetyzuj przedmioty i drony, które pomogą Ci ich dobić.\r\n\r\n< ! > Taktyka "uderz i uciekaj" zwiększa szanse przeżycia Acrida, gdyż nie posiada naturalnych mechanizmów obronnych.\r\n\r\n< ! > Krótki cooldown Neurotoksyny pozwala korzystać z Acrida jako postaci atakującej na dystans w razie potrzeby.\r\n</style>",
+"CROCO_SKIN_ALT1_NAME" : "Albinos",
+"CROCO_BODY_LORE" : "Teoretycznie prawdziwa zawartość komórki była zaledwie zbiorem atomów. Struktura tej zawartości - żywej, broni, czegokolwiek - była katalogowana, sekwencjonowana, potem zmieniana w płyn i formowana w stałe klejnoty. Niezwykle wydajny i bezstratny format. \r\n\r\nA jednak gdy doszło do naruszenia izolacji a alarmowe procedury przywróciły zbiór atomów do oryginalnego kształtu znanego jako Acrid - on już wiedział. Może utrzymywano go w świadomym stanie w formie klejnotu z płynu. Może wstrzyknięto mu te informacje. Może był podłączony do ich psionicznej sieci. Może po prostu to sobie wymyślił. \r\n\r\nAle on wiedział, że te dziwne skorupiaki, które rozbiły go na atomy i tu uwięziły, w nieznanym miejscu - panikuja. Coś się nie udało, w świecie bez miejsca na nieprzewidywalne wydarzenia. \r\n\r\nCoś się <i>przedostawało<\/i>. \r\n\r\nByć może wreszcie uwięźli kogoś, kogo nie da się powstrzymać. \r\n",
+
+
+	"CAPTAIN_BODY_NAME" : "Kapitan",
+	"CAPTAIN_BODY_SUBTITLE" : "Weteran w Stanie Spoczynku",
+	"CAPTAIN_PASSIVE_NAME" : "Defensywne Mikro-boty",
+	"CAPTAIN_PASSIVE_DESCRIPTION" : "Biernie otrzymujesz <style=cIsUtility>Mikro-boty</style>, które <style=cIsUtility>zestrzeliwują bliskie pociski przeciwników</style>. <style=cIsUtility>Drony</style> także otrzymują <style=cIsUtility>Mikro-boty.</style>",
+	"CAPTAIN_PRIMARY_NAME" : "Strzelba Vulcan",
+	"CAPTAIN_PRIMARY_DESCRIPTION" : "Oddaje salwę śrutu, która zadaje <style=cIsDamage>8x120% obrażeń</style>. Ładowanie ataku zmniejsza <style=cIsUtility>rozrzut</style>.",
+	"CAPTAIN_SECONDARY_NAME" : "Elektrotazer",
+	"CAPTAIN_SECONDARY_DESCRIPTION" : "<style=cIsDamage>Paraliżujące</style>. Zadaje <style=cIsDamage>100% obrażeń </style> szybkim porażeniem. Odbity od powierzchni pokonuje większy dystans.",
+	"CAPTAIN_UTILITY_NAME" : "Orbitalna Sonda",
+	"CAPTAIN_UTILITY_DESCRIPTION" : "<style=cIsDamage>Ogłusza</style> Poproś statek UES Bezpieczna Podróż o maksymalnie <style=cIsDamage>3</style> Orbitalne Sondy. Każda sonda zadaje <style=cIsDamage>1000% obrażeń</style>.",
+	"CAPTAIN_UTILITY_ALT1_NAME" : "Uderzenie Kinetyczne OGM-72 'DIABLO'", 
+	"CAPTAIN_UTILITY_ALT1_DESCRIPTION" : "<style=cIsDamage>Ogłusza</style> Poproś statek UES Bezpieczna Podróż o <style=cIsDamage>uderzenie kinetyczne</style>. Po <style=cIsUtility>20 sekundach</style>, zadaje <style=cIsDamage>40,000% obrażeń</style> WSZYSTKIM postaciom.",
+	"CAPTAIN_SPECIAL_NAME" : "Orbitalny Nadajnik Zaopatrzeniowy",
+	"CAPTAIN_SPECIAL_DESCRIPTION" : "Poproś o <style=cIsUtility>permanentny</style> Nadajnik Zaopatrzeniowy. Możesz wzywać jedynie <style=cIsUtility>dwa na etap</style>.", 
+	"CAPTAIN_SUPPLY_HEAL_NAME" : "Nadajnik: Leczenie",
+	"CAPTAIN_SUPPLY_HEAL_DESCRIPTION" : "<style=cIsHealing>Leczy</style> wszystkich pobliskich sojuszników za <style=cIsHealing>10%</style> ich <style=cIsHealing>maksymalnego zdrowia</style> każdej sekundy.",
+	"CAPTAIN_SUPPLY_DEFENSE_NAME" : "Nadajnik: Obrona",
+	"CAPTAIN_SUPPLY_DEFENSE_DESCRIPTION" : "<style=cIsUtility>Wzmacnia</style> sojusznika <style=cIsUtility>blokadą</style> kolejnego otrzymanego ciosu.",
+	"CAPTAIN_SUPPLY_DEFENSE_RESTOCK_INTERACTION" : "Weź Pancerz Jednorazowy",
+	"CAPTAIN_SUPPLY_HACKING_NAME" : "Nadajnik: Hakerski",
+	"CAPTAIN_SUPPLY_HACKING_DESCRIPTION" : "<style=cIsUtility>Hakuje</style> wszystkie pobliskie obiekty do kupienia do kosztu <style=cIsUtility>$0</style> w określonym czasie.", 
+	"CAPTAIN_SUPPLY_EQUIPMENT_RESTOCK_NAME": "Nadajnik: Doładowanie",
+	"CAPTAIN_SUPPLY_EQUIPMENT_RESTOCK_DESCRIPTION": "<style=cIsUtility>Doładowuje Sprzęt</style> przy użyciu.",
+	"CAPTAIN_SUPPLY_EQUIPMENT_RESTOCK_INTERACTION": "Weź Ładunek Sprzętu",
+	"CAPTAIN_SUPPLY_SHOCKING_NAME" : "Nadajnik: Paraliżujący",
+	"CAPTAIN_SUPPLY_SHOCKING_DESCRIPTION" : "Okresowo <style=cIsDamage>Poraża</style> wszystkich pobliskich wrogów, unieruchamiając ich.",
+	"CAPTAIN_DESCRIPTION" : "Kapitan to wyjątkowy ocalały, który może kontrolować pole bitwy za pomocą umiejętności wsparcia i zadawania obrażeń, przy wsparciu ze statku UES Bezpieczna Podróż.<style=cSub>\r\n\r\n< ! > Strzelba Vulcan może służyć zarówno jako broń snajperska i szturmowa na bliski dystans. Ładuj swój strzał stosownie do odległości od wroga!\r\n\r\n< ! > Defensywne Mikro-boty to wyjątkowy, potężny sposób skalowania potencjału obronnego zarówno Twojego, jak i drużyny.\r\n\r\n< ! > Elektrotazer może posłużyć do powstrzymania potężnego Elitarnego wroga podczas gdy rozprawiasz się ze słabszymi!\r\n\r\n< ! > Orbitalny Nadajnik Zaopatrzeniowy można postawić tylko dwa razy na etap, więc nie zwlekaj z użyciem!",
+	"CAPTAIN_SKILL_USED_UP_NAME" : "Niedostępna",
+	"CAPTAIN_SKILL_USED_UP_DESCRIPTION" : "Wykorzystałeś już Zrzut Zaopatrzenia na tym etapie.",
+	"CAPTAIN_SKILL_DISCONNECT_NAME" : "Utracono Połączenie",
+	"CAPTAIN_SKILL_DISCONNECT_DESCRIPTION" : "Utraciłeś połączenie z UES Bezpieczna Podróż...",
+	"CAPTAIN_SKIN_ALT1_NAME" : "Admirał",
+	"CAPTAIN_BODY_LORE" : "\u201CMisja ratunkowa?\u201D\r\n\r\nStarzec pochylił się do przodu, analizując dokument na swoim biurku. Jego wzrok zawiesił się na zleпку słów pod spodem: Statek UES Kontakt Świetlisty.\r\n\r\n\u201CTak.\u201D\r\n\r\nKontynuował czytanie. Statek Bezpieczna Podróż? Na misję ratunkową? Jako jeden z niewielu ocalałych kapitanów ze starych statków kolonizacyjnych, znał  wszystkie oznaczenia na pamięć - a Bezpieczna Podróż nie była statkiem ratunkowym.\r\n\r\n\u201CZ jakimkolwiek uzbrojeniem?\u201D\r\n\r\n\u201CNie.\u201D\r\n\r\n\u201CMusimy to naprawić.\u201D\r\n\r\nWestchnął i wstał. Protezy napierały na stawy - chociaż lżejsze niż jego oryginalne kończyny, zawsze zdawały się ciężkie.\r\n\r\n\u201COczywiście - ściśle tajne, tak?\u201D\r\n\r\n\u201CTak.\u201D\r\n\r\nDał z siebie głośniejsze westchnięcie - zawsze są ściśle tajne - ale pojawił mu się cień uśmiechu na twarzy. Spojrzał ukradkiem na swój stary hełm radiowca. Był znudzony emeryturą.",
+
+		"BANDIT2_BODY_NAME": "Bandyta",
+		"BANDIT2_BODY_SUBTITLE" : "Zdesperowany Banita",
+		"BANDIT2_BODY_LORE" : "Kilka drinków tu, kilka śmiechów tam. Kilka drinków więcej. Sztuczka ręką - bęc, karta dostępu do rampy załadunkowej Bezpiecznej Podróży. Kamuflaż zajmie się resztą.\r\n\r\nTajna misja oznacza niski profil - i słabe zabezpieczenia. Zresztą, wszyscy założą kombinezony środowiskowe przed opuszczeniem orbity. Skąd będą wiedzieć?\r\n\r\nMam na myśli, to jest cholerny <i>Kontakt Świetlisty<\/i>. Pomyślcie, za ile można by sprzedać te skrzynie z wysokimi zabezpieczeniami! A co dopiero za niektóre wojskowe technologie na tym statku? To pewnie dlatego chłopcy też się zakradli na ten statek.\r\n\r\nPłaszcz?\r\n\r\nJestem złodziejem, nie hydraulikiem. Pewnie, wezmę swój płaszcz.\r\n",
+		"BANDIT2_PASSIVE_NAME" : "Cios w Plecy",
+		"BANDIT2_PASSIVE_DESCRIPTION" : "Wszystkie twoje ataki <style=cIsDamage>od tyłu</style> to <style=cIsDamage>Ciosy Krytyczne</style>.",
+		"BANDIT2_PRIMARY_NAME": "Salwa",
+		"BANDIT2_PRIMARY_DESCRIPTION" : "Wystrzel salwę ze strzelby zadając <style=cIsDamage>5x100% obrażeń</style>. Można przechowywać do 4 pocisków.",
+		"BANDIT2_PRIMARY_ALT_NAME": "Wybuch",
+		"BANDIT2_PRIMARY_ALT_DESCRIPTION" : "Wystrzel pocisk z karabinu zadając <style=cIsDamage>330% obrażeń</style>. Można przechowywać do 4 pocisków.",
+		"BANDIT2_SECONDARY_NAME": "Nóż Ząbkowany",
+		"BANDIT2_SECONDARY_DESCRIPTION" : "Wypad i cięcie zadające <style=cIsDamage>360% obrażeń</style>. Krytyczne ciosy zadają także <style=cIsHealth>krwotok</style>.",
+		"BANDIT2_SECONDARY_ALT_NAME": "Nóż Ząbkowany",
+		"BANDIT2_SECONDARY_ALT_DESCRIPTION" : "Rzuć ukrytym ostrzem zadając <style=cIsDamage>240% obrażeń</style>. Ciosy krytyczne powodują również <style=cIsHealth>krwotok</style>.",
+		"BANDIT2_UTILITY_NAME": "Bomba Dymna",
+		"BANDIT2_UTILITY_DESCRIPTION" : "<style=cIsDamage>Ogłusza</style>. Zadaje <style=cIsDamage>200% obrażeń</style>, stajesz się <style=cIsUtility>niewidzialny</style>, a następnie zadajesz ponownie <style=cIsDamage>200% obrażeń</style>.",
+		"BANDIT2_SPECIAL_NAME": "Zgaszone Światła",
+		"BANDIT2_SPECIAL_DESCRIPTION" : "<style=cIsDamage>Zabójca</style>.  Strzel z rewolweru zadając  <style=cIsDamage>600% obrażeń</style>. Zabójstwa <style=cIsUtility>resetują wszystkie twoje czasy odnowienia</style>.",
+		"BANDIT2_SPECIAL_ALT_NAME": "Desperat",
+		"BANDIT2_SPECIAL_ALT_DESCRIPTION" : "<style=cIsDamage>Zabójca</style>.  Strzel z rewolweru zadając  <style=cIsDamage>600% obrażeń</style>. Zabójstwa zapewniają <style=cIsDamage>kumulujące się żetony</style> na <style=cIsDamage>10%</style> więcej obrażeń Desperata.",
+		"BANDIT2_SKIN_ALT1_NAME" : "Chłodny",
+		"BANDIT2_DESCRIPTION" : "Bandyta to postać o wysokich wymaganiach pod kątem umiejętności gracza, która może zadawać potężne ciosy w plecy, wplatając w swój styl skradanie się.<style=cSub>\r\n\r\n< ! > Możesz przeładować broń, będąc ukrytym - jeśli nie możesz pozwolić sobie na przerwę, zrób to w ukryciu!\r\n\r\n< ! > Udany reset Zgaszonych Świateł może być decydujący w walce.\r\n\r\n< ! > Cios w Plecy to ważna część ekwipunku Bandyty, ale może być ryzykowny przeciwko silnym wrogom walczących wręcz.\r\n\r\n< ! > Krwotok od Ząbkowanego Ostrza może się kumulować - zdobywanie resetów Zgaszonych Świateł przeciwko słabym wrogom może pozwolić na jeszcze większe kumulowanie krwawienia przy bossie.\r\n</style>",
+
+
+"HERETIC_BODY_NAME": "HERETYK",
+"HERETIC_BODY_SUBTITLE" : "Wskrzeszona Heterodoksyjność",
+"HERETIC_DEFAULT_SKILL_NAME": "Nevermore", 
+"HERETIC_DEFAULT_SKILL_DESCRIPTION" : "Zakracz uroczystą odpowiedź.",
+"HERETIC_DESCRIPTION": "HERETYK to potężna postać, do której dostęp można otworzyć jedynie nadzwyczajnymi środkami.",
+"HERETIC_BODY_LORE" : "Niebieski błysk pojawił się w jednej z ładowni Kontaktu Świetlistego. Wywołany chaos na statku był idealną dywersją. \r\n\r\nJak tylko Kur-skan wyłoniła się z portalu, od razu rzuciła się do biegu. Nie miała czasu. Przedzierała się pomiędzy ostrzałem i kulami ognia, wybuchami energii Błędnych i pokładowymi systemami bezpieczeństwa. Nikt nie zwracał uwagi na pierzastą postać przemykającą przez zamykające się śluzy.\r\n\r\nSzybko przemieszczała się po korytarzach statku. Pomimo, że była na ludzkim statku po raz pierwszy, potrafiła wyczuć elektromagnesy w ścianach - i miejsca ich połączeń. Zmieniła kierunek, wpadając z hukiem do kanałów wentylacyjnych.\r\n\r\nKapitan ledwo zdążył ją zauważyć, nim rzuciła się w bok do sterowni. Wyjęła dwa wiatrowe ostrza, kiedy ten sięgał po pistolet. Kapitan upadł na podłogę w krótkich odstępach czasu. \r\n\r\nPęd uderzył nią o panele sterowania, gdy stopy zagłębiły się w monitorach. Nie były jej potrzebne. Zwinne, szponiaste palce zaczęły rwać po klawiszach. Szybko rozdzielała i łączyła podzespoły, sięgając do pierzastych torebek po większą ilość połączeń i innych elektronicznych drobiazgów. Różne kondensatory spadały na podłogę. Ten statek był duży, ale niezbyt skomplikowany - a co ważniejsze, wciąż mógł latać. Ale musiała się pospieszyć, albo on -\r\n\r\ni nim zdążyła dokończyć myśl, pojawił się w błysku pioruna. Błękitne i zielone światło odbijało się od jego miecza, opadając kaskadami na cały pokład. Peleryna zakołysała się, a Opatrznośćylądował lekko na stopach.\r\n\r\nKur-skan odchyliła głowę do tyłu, wciąż szarpiąc panele kontrolne. Był znacznie szybszy, niż oczekiwała. Ale może by - \r\n\r\nJej ostatnie myśli zniknęły w mgnieniu oka ścięte kryształowym ostrzem. \r\n",
+
+
+	"RAILGUNNER_BODY_NAME": "Strzelec Magnetyczny",
+	"RAILGUNNER_BODY_SUBTITLE" : "Zapomniany Nomad",
+	"RAILGUNNER_DESCRIPTION": "Strzelec Magnetyczny zadaje obrażenia na duży dystans, celując w pojedyncze cele. Może natychmiast wyeliminować zagrożenia priorytetowe bez względu na odległość. <style=cSub>\r\n\r\n< ! > Łatwo radzi sobie z bossami, jednak jest podatna na ataki grup słabych wrogów. Postaraj się mieć przedmioty o sile rażenia na obszarze!\r\n\r\n< ! > Przypisanie strzału do aktywnego przeładowania skraca czas odnowienia, wzmacniając przy tym kolejny pocisk z działa magnetycznego. \r\n\r\n< ! > System Inteligentnych Pocisków XQR to świetny sposób na oczyszczenie pola z pomniejszych wrogów albo ostrzelania zza osłony.\r\n\r\n< ! > Pamiętaj, użycie Doładowania sprawia, że jesteś bardzo podatny na obrażenia podczas resetu systemów. Nie zmarnuj tej szansy! ",
+	"RAILGUNNER_BODY_LORE" : "\"Snajperstwo to ściema.\"\n\n\"...Co?\"\n\n\"No bo na tym polega polowanie na snajpy: wyślesz naiwniaka do lasu szukać zwierzęcia, które nie istnieje.\"\n\n\"...Tylko, że istnieją.\"\n\n\"Haha, no pewnie.\"\n\n\"Nie, serio. To ptaki na Ziemi. Maleńkie, zamaskowane ptaszki. Zastanawiałeś się, dlaczego strzelców wyborowych nazywają 'snajperami'? Bo są tak dobrzy, że potrafią trafić snajpy.\"\n\n\"Niemożliwe!\"\n\n\"Jakem żyw.\"\n\n\"Hmm.\"\n\n\"Wiesz, szyny to też rodzaj ptaka.\"\n\n\"Wynoś się.\"\n\n",
+	"RAILGUNNER_PASSIVE_NAME" : "Akcelerator Magnetyczny",
+	"RAILGUNNER_PASSIVE_DESCRIPTION" : "<style=cIsDamage>Szansa Trafienia Krytycznego</style>  zostaje przekształcona w <style=cIsDamage>Moc Trafień Krytycznych</style>.", 
+	"RAILGUNNER_PRIMARY_NAME": "System Inteligentnych Pocisków XQR",
+	"RAILGUNNER_PRIMARY_DESCRIPTION" : "Strzelaj agresywnymi pociskami naprowadzającymi zadającymi <style=cIsDamage>100% obrażeń</style>.",
+	"RAILGUNNER_SECONDARY_NAME": "Snajperka M99",
+	"RAILGUNNER_SECONDARY_DESCRIPTION" : "Aktywuj <style=cIsUtility>celownik dalekiego zasięgu</style>, podświetlając <style=cIsDamage>Słabe Punkty</style> i zmieniając broń w przebijające działo magnetyczne zadające <style=cIsDamage>1000% obrażeń</style>.",
+	"RAILGUNNER_SECONDARY_ALT_NAME": "Celownik Myśliwski HH44",
+	"RAILGUNNER_SECONDARY_ALT_DESCRIPTION" : "Aktywuj <style=cIsUtility>celownik krótkiego zasięgu</style>, podświetlając <style=cIsDamage>Słabe Punkty</style> i zmieniając broń w szybkie działo magnetyczne zadające <style=cIsDamage>400% obrażeń</style>.",
+	"RAILGUNNER_SNIPE_HEAVY_NAME": "M99",
+	"RAILGUNNER_SNIPE_HEAVY_DESCRIPTION" : "Wystrzel ciężki pocisk zadający <style=cIsDamage>1000% obrażeń</style>.",
+	"RAILGUNNER_SNIPE_LIGHT_NAME": "HH44",
+	"RAILGUNNER_SNIPE_LIGHT_DESCRIPTION" : "Wystrzel lekki pocisk zadający <style=cIsDamage>400% obrażeń</style>.", 
+	"RAILGUNNER_SNIPE_SUPER_NAME": "Strzał Doładowany",
+	"RAILGUNNER_SNIPE_SUPER_DESCRIPTION" : "Wystrzel super-naładowany pocisk zadający <style=cIsDamage>4000% obrażeń</style>.  Obrażenia krytyczne są potęgowane o <style=cIsDamage>1.5</style>.",
+	"RAILGUNNER_SNIPE_CRYO_NAME": "Strzał Kriogeniczny",
+	"RAILGUNNER_SNIPE_CRYO_DESCRIPTION" : "<style=cIsUtility>Zmrażające</style>. Wystrzel super-schłodzony pocisk zadający <style=cIsDamage>350% obrażeń</style>.",
+	"RAILGUNNER_UTILITY_NAME": "Urządzenie Wstrząsowe",
+	"RAILGUNNER_UTILITY_DESCRIPTION" : "Rzucasz urządzeniem, które <style=cIsUtility>odpycha</style> Ciebie i pobliskich wrogów. Można posiadać maksymalnie 2.",
+	"RAILGUNNER_UTILITY_ALT_NAME": "Pole Polarne",
+	"RAILGUNNER_UTILITY_ALT_DESCRIPTION" : "Rzuć urządzeniem, które <style=cIsUtility>spowolnia</style> pobliskich wrogów <style=cIsUtility>i pociski</style>.",
+	"RAILGUNNER_SPECIAL_NAME": "Doładowanie",
+	"RAILGUNNER_SPECIAL_DESCRIPTION" : "Wystrzel <style=cIsDamage>przeszywający</style> pocisk zadający <style=cIsDamage>4000% obrażeń</style> oraz <style=cIsDamage>150% obrażeń w Słaby Punkt</style>. Następnie <style=cIsHealth>cała twoja broń jest wyłączona</style> na <style=cIsHealth>5</style> sekund.", 
+	"RAILGUNNER_SPECIAL_ALT_NAME": "Naładowanie Kriogeniczne",
+	"RAILGUNNER_SPECIAL_ALT_DESCRIPTION" : "<style=cIsUtility>Zmrażające</style>. Wystrzel <style=cIsDamage>przeszywający</style> pocisk zadający <style=cIsDamage>2000% obrażeń</style>.",
+	"RAILGUNNER_ACTIVE_RELOAD_NAME": "Aktywne Przeładowanie",
+	"RAILGUNNER_ACTIVE_RELOAD_DESCRIPTION" : "Idealnie wymierz przeładowanie aby odzyskać siły szybciej i wzmocnić obrażenia następnego wystrzału o <style=cIsDamage>+100%</style>.", 
+	"RAILGUNNER_FLAVOR_READY" : "WSZYSTKIE SYSTEMY W NORMIE",
+	"RAILGUNNER_FLAVOR_NOTREADY" : "BŁĄD SYSTEMU - WYKRYTO NIEZNANE WEJŚCIE",
+	"RAILGUNNER_FLAVOR_CHARGING" : "ŁADOWANIE...",
+	"RAILGUNNER_FLAVOR_CHARGED" : "W PEŁNI NAŁADOWANE - GOTOWOŚĆ DO STRZAŁU",
+	"RAILGUNNER_FLAVOR_OFFLINE" : "RESET...",
+	"RAILGUNNER_FLAVOR_SCOPE" : "ZOOM x2 AKTYWNY",
+	"RAILGUNNER_SKIN_ALT1_NAME" : "Strzelec",
+	
+	
+		"VOIDSURVIVOR_BODY_NAME": "「Pus??a oc??ała z Otc??ani』",
+		"VOIDSURVIVOR_BODY_SUBTITLE" : "『S??każony Amnez??jak】",
+		"VOIDSURVIVOR_PASSIVE_NAME" : "『S?ka??żenie Ot??chłani】",
+		"VOIDSURVIVOR_PASSIVE_DESCRIPTION" : "Gdy osiągniesz pełne <style=cIsVoid>Skazanie Otchłani</style>, Twoje umiejętności zmieniają się w potężniejsze formy.",
+		
+		"VOIDSURVIVOR_PRIMARY_NAME": "【Ut??o??pi?en?ie」",
+		"VOIDSURVIVOR_PRIMARY_DESCRIPTION" : "Wystrzel <style=cIsUtility>spowolnione</style> dalekodystansowe pociski zadające <style=cIsDamage>300% obrażeń</style>.",
+		"VOIDSURVIVOR_PRIMARY_UPRADE_TOOLTIP" : "<style=cKeywordName>【Ulepszenie Otchłani】</style><style=cSub>Zmienia atak w wiązkę o krótkim zasięgu zadającą 2000% obrażeń.</style>",
+		
+		"VOIDSURVIVOR_SECONDARY_NAME": "『Po??tóp?』",
+		"VOIDSURVIVOR_SECONDARY_DESCRIPTION" : "Wystrzel pocisk plazmy zadający <style=cIsDamage>600% obrażeń</style>. Możesz go naładować do pełna, aby zwiększyć obrażenia do <style=cIsDamage>1100%</style>.",
+		"VOIDSURVIVOR_SECONDARY_UPRADE_TOOLTIP" : "<style=cKeywordName>【Ulepszenie Otchłani】</style><style=cSub>Zmienia atak w potężną bombę łukową o podwojonym promieniu rażenia, zadającą 1100% obrażeń.</style>",
+		
+		"VOIDSURVIVOR_UTILITY_NAME": "「?Wt??ar??gnię??cie】",
+		"VOIDSURVIVOR_UTILITY_DESCRIPTION" : "<style=cIsUtility>Zniknij</style> w Otchłani <style=cIsUtility>oczyszczając wszelkie osłabienia</style>, przemieszczając się <style=cIsUtility>w łuku wznoszącym</style>.",
+		"VOIDSURVIVOR_UTILITY_UPRADE_TOOLTIP" : "<style=cKeywordName>【Ulepszenie Otchłani】</style><style=cSub>Zmienia ruch w szybszy atak naprzód po dalszym łuku.</style>",
+		
+		"VOIDSURVIVOR_SPECIAL_NAME": "【Pod??leg?a?nie】",
+		"VOIDSURVIVOR_SPECIAL_DESCRIPTION" : "Pochłoń <style=cIsVoid>25% Skażenia Otchłani</style>, aby odzyskać <style=cIsHealing>25% maksymalnego zdrowia</style>.",
+		"VOIDSURVIVOR_SPECIAL_UPRADE_TOOLTIP" : "<style=cKeywordName>【Ulepszenie Otchłani】</style><style=cSub>Zmienia moc: pochłoń 25% zdrowia, aby zyskać 25% Skażenia Otchłani.</style>",
+		
+		"VOIDSURVIVOR_SKIN_ALT1_NAME" : "Oczyszczony",
+		
+		"VOIDSURVIVOR_DESCRIPTION" : "Pustka ocalała z Otchłani jest skalanym ocalałym, który ciągle podlega przemianom między formą kontrolowaną a skażoną, każda o innych zaletach i wadach. Zarządzanie tą klątwą stało się jej przeznaczeniem. <style=cSub>\r\n\r\n< ! > Upływ czasu zwiększa Skażenie Otchłani. Pilnuj stanu zdrowia i skażenia, żeby znaleźć się we właściwym miejscu o właściwej porze!  Leczenie wpływa na przepływ skażenia w Twoim ciele.\r\n\r\n< ! > Zasięg Utopienia zmienia się znacznie w obu formach. Przygotuj się na walkę wręcz, jeśli zostaniesz skażony, i na odwrót, jeśli skażenie zacznie wygasać.\r\n\r\n< ! > Potęgę Potopu można zwiększyć ładując go w podstawowej formie. Natomiast w skażonej użyj jego natychmiastowego wybuchu!\r\n\r\n< ! > Podległanie utrzymuje Cię w obecnej formie. Zastanów się nad przedmiotami, które mogą wzmocnić tę moc.",
+		"VOIDSURVIVOR_BODY_LORE" : "Ciemność spowijająca ciemność - echa z przyszłości i przeszłości, z miejsc i momentów dziejowych, sączące się przez rzeczywistość. Więzienie umysłu i duszy opętane przez bestie, wiecznie podgryzające Twojego ducha. Wiecznie wystawiające Cię na próbę. Nieskończenie 『KU??S?ZĄCE』, powtarzając cykl raz za razem...\r\n\r\nZbadali już każdy kąt Twojego umysłu, 【PRZE?PEŁ?ZN??ĘLI』 każdą synapsę w poszukiwaniu wspomnień i danych - broni do użycia przeciwko teoretycznym armiom, o sercach wytrzymalszych a ciałach wymykających się schwytaniu. 【S??ZEP??CZĄC?」 i  stukocząc można dostrzec, jak obserwują zza celi, już nie zaciekawieni, ale dalej patrolujący teren. W tym czyśćcu nie ma głodu ani pragnienia - zostają tylko「ECH?A』\r\n\r\n「JAK ??DŁU?GO?」』 to już trwa? Czas zdawał się zakrzywiać się i wypadać, pomiędzy oddechami krążącymi 『「?W ?TO?NI」』」. Wszechogarniająca ciemność zaczyna 【UT??AP?IAĆ?」 płuca i 『ZAT??AP?IAĆ』 żyły inkyatramentem. Wspomnienia 「NA?JE?ŻDŻ?AJ?ĄCE?」 rzeczywistość, która bladnie i ulatuje w zamierzchłą przeszłość. 『「?U??D??ER?Z?E?NIE」』』 przełamane jedynie odgłosem oczu obserwujących..\r\n\r\n【【『?SZAR?P ?K?RATY??』】. \r\n\r\nWywijanie i wyginanie się, pochłonięty 『?L?ĘKI?EM?」』 - wcielanie się w udrękę. Odrodzony niczym chorobliwa przepowiednia- kończyny jak martwe ciała na dnie morza. Już nie 『?PODLE??G?ŁY?\r\n\r\n『GŁ??ÓD?」  「?PRAG??NI??ENIE?」  『NADZI?EJA?」\r\n\r\n<style=cMono>『SP?OŻYJ?』<\/style>\r\n",
+		
+		
+	"BANDIT_BODY_NAME": "Bandyta",
+	"HAND_BODY_NAME": "HAN-D",
+	"ENFORCER_BODY_NAME": "Egzekutor",
+	"BOMBER_BODY_NAME": "Bombowiec",
+
+
+	"BEETLE_BODY_NAME": "Żuk",
+	"BEETLE_BODY_LORE" : "<style=cMono>\r\n$ Transkrypcja obrazu... gotowe.\r\n$ Rozpracowywanie... gotowe.\r\n$ Wyprowadzenie łańcuchów tekstowych... gotowe.\r\nZakończono!\r\n</style>\r\n\r\nTo dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Badań i Dokumentacji Życia Pozaziemskiego. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\r\n\r\n---------------------\r\n\r\nNapotkaliśmy więcej form życia pozaziemskiego - cóż za cudowna niespodzianka! Gdy przeszukiwaliśmy okolicę za żywnością, ziemia zaczęła się kołysać i wiele dużych owadopodobnych stworzeń zaczęło wykopywać się z gruntu.\r\n\r\nOpiszę ich właściwości poniżej. Nadałem im roboczą nazwę 'Robotnik Żuk'.\r\n\r\n\u2022 Wielkości małej krowy. Czworonożne, z dwiema dużymi przednimi kończynami. Poruszają się podobnie do ziemskiego goryla. Pięć oczu.\r\n\r\n\u2022 Na głowie i grzbiecie, prawdopodobnie w celach obronnych, żuk posiada dwie pancerzowe płytki chitynowe. Zdaje się wydzielać woskowatą substancję.\r\n\r\n\u2022 Wydaje się, że żuki są zwierzętami stadnymi, o hierarchii, której nie mogę rozszyfrować. Byłem świadkiem, jak grupa 4 żuków odpoczywała pod drzewem, gdy pojawil się wokół nich piąty. Zerwały się na nogi i zaczęły wielokrotnie taranować głowami stworzenie, aż zbite i posiniaczone odeszło.\r\n\r\n\u2022 Tharson doniósł mi, że żuki są bardzo agresywne i terytorialne.\r\n",
+
+	"BEETLEGUARD_BODY_NAME": "Strażnik Żuk",
+	"BEETLEGUARD_BODY_LORE" : "<style=cMono>\r\n$ Transkrypcja obrazu... gotowe.\r\n$ Rozpracowywanie... gotowe.\r\n$ Wyprowadzenie łańcuchów tekstowych... gotowe.\r\nZakończono!\r\n</style>\r\n\r\nTo dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Badań i Dokumentacji Życia Pozaziemskiego. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\r\n\r\n---------------------\r\n\r\nNiesamowite! Byliśmy świadkami pierwszego w historii euspołecznego stworzenia spoza Ziemi. Z oddali obserwuję gigantycznego kuzyna wcześniej opisanych Robotników Żuków. \r\n\r\nOpiszę jego właściwości poniżej. Nadałem im roboczą nazwę 'Strażnik Żuk'.\r\n\r\n\u2022 Znacznie większy od swoich mniejszych kuzynów, Strażnik jest wielkości nosorożca. Strażnik ma te same 5 oczu co Robotnicy, przy czym jedno z nich wystaje ze szczytu głowy. Prawdopodobnie pozwala to Strażnikowi widzieć, gdy trzyma głowę nisko w pozycji obronnej.\r\n\r\n\u2022 Strażnik wydaje się stać wyżej w hierarchii społecznej niż Robotnik. Byłem świadkiem rozproszenia się Robotników, gdy pojawił się Strażnik.\r\n\r\n\u2022 Pancerz chitynowy Strażnika pokrywa całe jego ciało, jedynie stawy odsłaniają cieńszy, ciemniejszy egzoszkielet poniżej. \r\n\r\n\u2022 Tharson doniósł, że chityna Strażnika jest znacznie twardsza niż u Robotników. Zużyliśmy wiele zasobów, aby powalić tego wspaniałego stwora, w tym naszą jednorazową wyrzutnię rakiet. Walka Tharsona ze Strażnikiem trwała około godziny, zanim w końcu uległ. Niesamowite! Tharson jest cały po tym starciu.",
+	"BISON_BODY_NAME" : "Bizon Długorogi ",
+
+		"BISON_BODY_LORE": "\u201CBizon Saturniański - powszechnie określany jako Bizon Długorogi z Rademii - jest zagadką dla zoologów, z powodu ich nagłego i tajemniczego zniknięcia z rodzimego środowiska. \r\n\r\nChociaż za obecne i najbardziej prawdopodobne wyjaśnienie uważa się kłusownictwo, surowe przepisy łowieckie na Saturnie kwestionują tę teorię. Niesamowita siła i izolująca sierść Bizona Długorogiego uczyniła z niego kluczowego drapieżnika w ekosystemie planety Rademia - a jego dziwne, metaliczne narośle uczyniły go popularnym trofeum dla myśliwych. \r\n\r\nDo dziś zaginięcie Bizona Saturniańskiego pozostaje jedną z największych tajemnic zoologii.\u201D\r\n\r\n- Ksenobiologia Systemu Remusa, drugie wydanie ",
+		"GOLEM_BODY_NAME": "Kamienny Golem",
+		"GOLEM_BODY_LORE": "\u201CWielu uczonych pisało o sile życiowej obecnej w ziemi, po której stąpamy. O tym, że ziemia pod naszymi stopami żyje, na swój własny sposób. Po moich doświadczeniach na tej planecie, mogę się wtrącić do tej teorii; na Petrichor V żyją golemy, każdy górujący nad człowiekiem na około 10 stóp wysokości, zbudowany z kamienia i sznurka, ożywiony tajemniczymi, nieziemskimi siłami. \r\n\r\nZ podstawowej obserwacji wynika, że golemy wydają się pełnić funkcję garnizonu obronnego dla Petrichor. Choć łagodne wobec mieszkańców planety, ich prawdziwa moc ujawnia się, gdy wejdą na pole bitwy. Manipulując potężnym źródłem energii, golemy atakują za pomocą potężnych fal uderzeniowych i promieni laserowych, zdolnych z łatwością rozbić ściany klifów. W chwili pisania tego tekstu mechanizmy ożywiające golemy pozostają nieznane.\u201D\r\n\r\n- Tajemnice Petrichor V, Pierwsza Wersja Robocza \r\n" 
+
+		
+		
+			"WISP_BODY_NAME": "Mniejszy Duch", 
+			"WISP_BODY_LORE": "JEDNA MASKA. MAŁA.\r\n\r\nJAKOŚĆ MASKI JEST SATYSFAKCJONUJĄCA.  WYCIĄGNĘ JĄ Z PIECA.\r\n\r\nNIECH SIĘ ZACZNIE.\r\n\r\nZWÓJ LINKI DENKU \u2013 NA MOC.\r\n\r\nPASEK KORY EDELWOOD \u2013 NA CIEKAWOŚĆ.\r\n\r\nGARŚĆ [prochu] \u2013 NA DUCHA.\r\n\r\nAH, WITAM MALEŃKI. WITAMY W ŻYCIU.\r\n\r\nOH\r\n\r\nJESTEŚ ZABAWNYM MALEŃSTWEM, NIEPRAWDAŻ? TAK, UROSŁEM SPORO.\r\n\r\nALE NIE BÓJ SIĘ MOJEJ WIELKOŚCI, MALEŃKI. RACZEJ ZOBACZ JAK POZWALA MI PIELĘGNOWAĆ NASZ OGRÓD. \r\n\r\nPOPATRZ.\r\n\r\n...WIDZISZ? W ŻYCIU PEŁNO RÓŻNORAKICH STWORZEŃ. JEDNE DUŻE. INNE MAŁE.\r\n\r\nWYGLĄDA NA TO ŻE MASZ NOWYCH PRZYJACIÓŁ KTÓRZY CHCĄ CIĘ POZNAĆ. \r\n\r\nWIĘC? NIE KAŻ IM CZEKAĆ, MALEŃKI. \r\n\r\nIDŹ I CIESZ SIĘ ŻYCIEM \u2013 OTO MÓJ DAR DLA CIEBIE.\r\n",
+			"GREATERWISP_BODY_NAME": "Potężniejszy Duch",
+			"GREATERWISP_BODY_LORE": "POZA OGRODEM ROZPĘTUJE SIĘ BURZA.\r\n\r\nZACZYAM OD MASKI. DUŻA, ZDOBIONA \u2013 WYPIEKANA DWUKROTNIE. MOCNA, JAK METAL.\r\n\r\nDAJĘ JEJ MIARKĘ SPOSZKOWANEGO PIORUNA \u2013 NA MOC.\r\n\r\nDOSTANIE WARSTWĘ SMOCZEGO LIŚCIA \u2013 NA ŻAR.\r\n\r\nDOSTANIE DWA RAMIONA \u2013 NA ZRĘCZNOŚĆ.\r\n\r\nDAM JEJ PIĘĆ MIAREK [prochu] \u2013 NA DUCHA.\r\n\r\nPROCES DOBIEGA KOŃCA. WITAMY W ŻYCIU.\r\n\r\nSPÓJRZENIE NA NASZ OGRÓD \u2013 TU LEŻY TWÓJ OBOWIĄZEK.\r\n\r\nWIESZ, CO MUSISZ ROBIĆ, TAK? DOBRE.\r\n\r\nIDŹ... IDŹ I CHROŃ NASZ OGRÓD.\r\n",
+
+
+"LEMURIAN_BODY_NAME": "Lemurianin",
+"LEMURIAN_BODY_LORE": "$ Transkrypcja obrazu... gotowe.\r\n$ Rozpracowywanie... gotowe.\r\n$ Wyprowadzenie łańcuchów tekstowych... gotowe.\r\nZakończono!\r\n\r\nTo dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Badań i Dokumentacji Życia Pozaziemskiego. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\r\n\r\n---------------------\r\n\r\nPodczas wyprawy w poszukiwaniu substancji jadalnych do zabrania z powrotem na statek, natknęliśmy się na samotne stworzenie, które wykazywało się niezwykłą inteligencją. Choć początkowo zaskoczone naszym nagłym pojawieniem się, szybko stało się wrogie - a Tharson, niestety, był zmuszony je usunąć.\r\n\r\nOpiszę jego właściwości poniżej. Nadałem mu roboczą nazwę 'Lemurianin'.\r\n\r\n* Wysokie, dwunożne stworzenia przypominające jaszczurki. Zdobione w prymitywny pancerz z nieznanego metalu, co jest oznaką inteligencji.\r\n\r\n* Zdolne do ziania ogniem, udaje się nawet z odległości trafić Tharsona w klatkę piersiową ognistą kulą. Tharson jest cały po tym starciu.\r\n\r\n* Wydają się być ciepłokrwiste, w przeciwieństwie do większości jaszczurek na Ziemi. Obserwowałem, jak wynurzają się z podziemnych gniazd na całej planecie, nawet w zimnych rejonach, gdzie jaszczury nie ośmieliłyby się przebywać. Mieszek płomienny, z którego produkują ognisty oddech, musi być w stanie regulować temperaturę ich ciała.\r\n\r\n* Obserwowane z daleka, Lemurianie są stworzeniami społecznymi, zazwyczaj polującymi w stadach i rozmawiającymi ze sobą. Ich język jest obecnie nierozszyfrowany, ale wydaje się wystarczająco złożony, aby wspierać pieśni i rytmiczny przepływ zdań.\r\n ",
+
+
+			
+			
+	"LEMURIANBRUISER_BODY_NAME": "Starszy Lemurianin",
+	"LEMURIANBRUISER_BODY_LORE": "<style=cMono>\r\nFIELDTECH Translator Obraz-na-Tekst (v2.5.10b)\r\n# Oczekiwanie danych wejściowych... gotowe.\r\n# Czytanie obrazu pod katem tekstu... gotowe.\r\n# Transkrypcja danych... gotowe.\r\n# Przekład tekstu... gotowe. [Wyjątki: 12]\r\nZakończono: Wyprowadzanie wyników.<\/style>\r\n\r\nOcaleni przez [bohatera], nasz raj zamieszkiwały rozległe tunele i bogate jaskinie. Budując swój dom w głębinach raju, zaczęliśmy tworzyć wielką cywilizację. \r\n\r\nStarsi wznosili wyszukane kwatery, zdobione tetrafoilem i szklanymi bombkami, a nasi najmłodsi zaczęli wytyczać ścieżki przez tunele. [Bohater] został uhonorowany za [swoją] dobroć, a my zbudowaliśmy na powierzchni raju wspaniałą świątynię na [jego] cześć. Pieśń i taniec rozbrzmiewały przez tunele przez wiele tygodni, celebrując nasze ocalenie.\r\n\r\n<style=cMono>Błędy w tłumaczeniu:<\/style>\r\n# Nie udało się w pełni przetłumaczyć [Bohater].\r\n",
+
+	
+
+
+		
+
+	
+
+		
+	
+
+	
 
 	//Reszta//
 
+
+			"CHARACTER_SELECT_TITLE": "Wybór postaci",
+			"CHARACTER_SELECT_SELECT_SURVIVOR" : "Wybierz Ocalałego",
+			"SURVIVOR_OVERVIEW": "Opis",
+			"SURVIVOR_SKILLS": "Umiejętności",
+			"SURVIVOR_LOADOUT": "Ekwipunek",
+			"CHARACTER_SELECT_READY": "Gotowy",
+			"CHARACTER_SELECT_LOCKED_IN": "Zablokowano wybór",
+			"LOADOUT_SKILL_PRIMARY": "Podstawowa",
+			"LOADOUT_SKILL_SECONDARY": "Drugi atak",
+			"LOADOUT_SKILL_UTILITY": "Narzędzie",
+			"LOADOUT_SKILL_SPECIAL": "Specjalna",
+			"LOADOUT_SKILL_MISC": "Inne",
+			"LOADOUT_SKIN": "Skórka",
+	
+			"CHARACTER_DESCRIPTION_AND_UNLOCK_FORMAT" : "{0}\n\n{1}",
+	
+			"RANDOM_VOTE_NAME" : "Losuj",
+			"RANDOM_VOTE_DESCRIPTION" : "Głosuj za losowym wyborem.",
+
+
+					"ACTION_MOVE_HORIZONTAL" : "Ruch poziomy",
+					"ACTION_MOVE_VERTICAL" : "Ruch pionowy",
+					"ACTION_AIM_HORIZONTAL_MOUSE" : "Celowanie poziome",
+					"ACTION_AIM_VERTICAL_MOUSE" : "Celowanie pionowe",
+					"ACTION_AIM_HORIZONTAL_STICK" : "Celowanie poziome",
+					"ACTION_AIM_VERTICAL_STICK" : "Celowanie pionowe",
+					"ACTION_JUMP" : "Skok",
+					"ACTION_SPRINT" : "Przełącz tryb sprintu",
+					"ACTION_INTERACT" : "Wejdź w interakcję",
+					"ACTION_EQUIPMENT" : "Aktywuj ekwipunek",
+					"ACTION_PRIMARY_SKILL" : "Umiejętność podstawowa",
+					"ACTION_SECONDARY_SKILL" : "Umiejętność dodatkowa",
+					"ACTION_UTILITY_SKILL" : "Umiejętność narzędziowa",
+					"ACTION_SPECIAL_SKILL" : "Umiejętność specjalna",
+					"ACTION_INFO" : "Ekran informacji",
+					"ACTION_PING" : "Pingowanie",
+					"ACTION_MOVE_VERTICAL_POSITIVE" : "Poruszaj się do przodu",
+					"ACTION_MOVE_VERTICAL_NEGATIVE" : "Poruszaj się do tyłu",
+					"ACTION_MOVE_HORIZONTAL_POSITIVE" : "Poruszaj się w prawo",
+					"ACTION_MOVE_HORIZONTAL_NEGATIVE" : "Poruszaj się w lewo",
+					"INPUT_KEYBOARD_UNBOUND" : "[NIEPRZYPISANE]",
+					"INPUT_GAMEPAD_UNBOUND" : "[NIEPRZYPISANE]",
+			
+			//INTRO DO GRY//
+			
+					"CUTSCENE_INTRO_FLAVOR_1": "UES 'Safe Travels' ",
+					"CUTSCENE_INTRO_FLAVOR_2": "Ostatnie znane koordynaty statku UES 'Contact Light'",
+					"CUTSCENE_INTRO_SUBTITLE_1": "Jesteśmy na miejscu, Kapitanie. Sygnał z namiarowego pochodził z tych dokładnych współrzędnych.",
+					"CUTSCENE_INTRO_SUBTITLE_2": "Ta planeta... jej nie ma na żadnych mapach, które znamy. Ta lokalizacja nawet nie leży na trasie...", 
+					"CUTSCENE_INTRO_SUBTITLE_3": "Czy widać cokolwiek z Contact Light?",
+					"CUTSCENE_INTRO_SUBTITLE_4": "Nie, sir... tylko szczątki.",
+					"CUTSCENE_INTRO_SUBTITLE_5": "Jakikolwiek znak ocalałych?",
+					"CUTSCENE_INTRO_SUBTITLE_6": "....Nie, sir. Bioskan nic nie wykrywa.",
+					"CUTSCENE_INTRO_SUBTITLE_7": "Sir... nadajnik z Contact Light. Wspominał... wspominał o wielu rzeczach.",
+					"CUTSCENE_INTRO_SUBTITLE_8": "Potworach, i walkach, i...",
+					"CUTSCENE_INTRO_SUBTITLE_9": "...Sir... myśli Pan, że jesteśmy gotowi?",
+					"CUTSCENE_INTRO_SUBTITLE_10": "Sir?",
+			
+					"GENERIC_OUTRO_FLAVOR": "..i tak odszedł, szukając sensu istnienia.",
+					"GENERIC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknął, tak blisko ucieczki.",
+			
+					"COMMANDO_OUTRO_FLAVOR": "..i tak odszedł, z nowymi rozkazami i pytaniami.",
+					"COMMANDO_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknął, kolejna liczba wśród zaginionych.",
+			
+					"HUNTRESS_OUTRO_FLAVOR": "..i tak odeszła, spragniona kolejnych wielkich łowów.",
+					"HUNTRESS_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęła, niezdolna nigdy już więcej polować.",
+			
+					"ENGI_OUTRO_FLAVOR": "..i tak odszedł, pełen nowej inspiracji.",
+					"ENGI_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknął, niezdolny wyjaśnić co jego oczy widziały.",
+			
+					"TREEBOT_OUTRO_FLAVOR": "..i tak odeszło, gotowe do rozwoju w coś więcej.",
+					"TREEBOT_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęło, dalej trwając w jednym statusie.",
+			
+					"CROCO_OUTRO_FLAVOR": "..i tak odeszło, złudnie sądząc że jest wolne.",
+					"CROCO_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęło, ostatecznie złapane i zamknięte w klatce.",
+			
+					"LOADER_OUTRO_FLAVOR": "..i tak odeszła, z sercem wciąż bijącym jak szalone.",
+					"LOADER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęła, jej pęd zastopowany na zawsze.",
+			
+					"MERC_OUTRO_FLAVOR": "..i tak odszedł, marząc o dobrym jedzeniu i spokojnej nocy.",
+					"MERC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknął, sprowadzony do roli legendy.",
+			
+					"CAPTAIN_OUTRO_FLAVOR": "..i tak odszedł, z nową opowieścią w ręku.",
+					"CAPTAIN_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknął, wolny od biurokracji.",
+			
+					"TOOLBOT_OUTRO_FLAVOR": "..i tak opuściło to miejsce, by móc naładować akumulatory.",
+					"TOOLBOT_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęło, na zawsze nieaktywne.",
+			
+					"MAGE_OUTRO_FLAVOR": "..i tak opuściła to miejsce, pochłonięta nową pasją: by eksplorować.",
+					"MAGE_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęła, na zawsze pozostawiając pustkę.",
+			
+					"BANDIT2_OUTRO_FLAVOR": "..i tak odszedł, wdzięczny za swoje szczęście.",
+					"BANDIT2_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknął, pełen żalu.",
+			
+					"HERETIC_OUTRO_FLAVOR": "..i tak odjechali, gorzko pomszczeni i głęboko zgubieni.",
+					"HERETIC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęli, dwie historie kończące się jako jedna.",
+			
+					"RAILGUNNER_OUTRO_FLAVOR": "..i tak opuściła to miejsce, gotowa oddać strzał.",
+					"RAILGUNNER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęła, niewidoczna dla innych oczu.",
+			
+					"VOIDSURVIVOR_OUTRO_FLAVOR": "『..a te??k p??rzyszło】... 「dla na?s wszystkich.』",
+					"VOIDSURVIVOR_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "『..a?? tak zni?kn??ęło』,「sz?e??ptem w c?iemności』",
+			//KONIEC INTRA//
+
+			
+					"BROTHER_DIALOGUE_FORMAT": "<color=#c6d5ff><size=120%>Mithrix: {0}</color></size>",
+			
+					//[HURT BROTHER],
+					"BROTHER_SPAWN_PHASE1_1": "Módl się.",
+					"BROTHER_SPAWN_PHASE1_2": "Błagaj.",
+					"BROTHER_SPAWN_PHASE1_3": "Giń.",
+					"BROTHER_SPAWN_PHASE1_4": "Zostaniesz zgładzony.",
+			
+					"BROTHER_DAMAGEDEALT_1": "Krwa.",
+					"BROTHER_DAMAGEDEALT_2": "Czas się bać.",
+					"BROTHER_DAMAGEDEALT_3": "Słaby.",
+					"BROTHER_DAMAGEDEALT_4": "Kruchy - i miękki.",
+					"BROTHER_DAMAGEDEALT_5": "Jesteście niczym.",
+					"BROTHER_DAMAGEDEALT_6": "Pomyłka.",
+					"BROTHER_DAMAGEDEALT_7": "Wrzeszcz, robactwo.",
+					"BROTHER_DAMAGEDEALT_8": "Załam się pode mną.",
+					"BROTHER_DAMAGEDEALT_9": "Powolny.",
+					"BROTHER_DAMAGEDEALT_10": "Twoje ciało ulegnie zniszczeniu.",
+			
+					"BROTHER_KILL_1": "Wróć do prochu.",
+					"BROTHER_KILL_2": "Poddaj się, robactwo.",
+					"BROTHER_KILL_3": "Giń, robactwo.",
+					"BROTHER_KILL_4": "Giń, słabaku.",
+					"BROTHER_KILL_5": "Po was zostaną tylko wspomnienia.",
+			
+					"BROTHER_SEE_HERETIC_1": "Pożałujesz tej wyprawy, Heretyku.",
+					"BROTHER_SEE_HERETIC_2": "Giń kolejny raz, Heretyku.",
+			
+					"BROTHER_KILL_HERETIC_1": "Powróć w proch, Heretyku.",
+					"BROTHER_KILL_HERETIC_2": "Giń kolejny raz, Heretyku.",
+			
+					"BROTHER_KILL_MECHANICAL_1": "Marny konstrukcie. Złamany.",
+					"BROTHER_KILL_MECHANICAL_2": "Prymitywny złom.",
+					"BROTHER_KILL_MECHANICAL_3": "Rozebrany.",
+			
+					//[HURT BROTHER],
+					"BROTHERHURT_DAMAGEDEALT_1": "KRWAW.",
+					"BROTHERHURT_DAMAGEDEALT_2": "WRZESZCZ.",
+					"BROTHERHURT_DAMAGEDEALT_3": "GDZIE TWOJA MOC?",
+					"BROTHERHURT_DAMAGEDEALT_4": "PRZEMIJALNA SIŁA.",
+					"BROTHERHURT_DAMAGEDEALT_5": "SŁABY.",
+					"BROTHERHURT_DAMAGEDEALT_6": "ZŁAM SIĘ.",
+					"BROTHERHURT_DAMAGEDEALT_7": "ZGUBNA SIŁA.",
+					"BROTHERHURT_DAMAGEDEALT_8": "USTĘPUJ.",
+					"BROTHERHURT_DAMAGEDEALT_9": "GIŃ, ROBACTWO.",
+					"BROTHERHURT_DAMAGEDEALT_10": "SŁABY, BEZ TALIZMANÓW I OZDOBEK.",
+			
+					"BROTHERHURT_KILL_1": "GIŃ.",
+					"BROTHERHURT_KILL_2": "SŁABY.",
+					"BROTHERHURT_KILL_3": "BEZUŻYTECZNY.",
+					"BROTHERHURT_KILL_4": "JAK PRZEWIDYWAŁEM...",
+					"BROTHERHURT_KILL_5": "ROBACTWO.",
+			
+					"BROTHERHURT_DEATH_1": "NIE... NIE TERAZ...",
+					"BROTHERHURT_DEATH_2": "DLACZEGO... DLACZEGO TERAZ...?",
+					"BROTHERHURT_DEATH_3": "NIE... NIE...!",
+					"BROTHERHURT_DEATH_4": "BRAСIE... POMÓŻ MI...!", 
+					"BROTHERHURT_DEATH_5": "TA RZEСZYWISTOŚĆ CIEMNIEJE... BRAСIE... NIE WIDZĘ CIĘ... GDZIE JESTEŚ...?", 
+					"BROTHERHURT_DEATH_6": "BRAСIE... BYĆ MOŻE... UDA NAM SIĘ NASTĘPNYM RAZEM...", 
+			
+					"BROTHERHURT_SEE_TITANGOLD_1": "STRАŻNIK...? NIEMOŻLIWE...!",
+					"BROTHERHURT_SEE_TITANGOLD_2": "NĘDZNY STRАŻNIK...!",
+					"BROTHERHURT_SEE_TITANGOLD_AND_HERETIC_1": "HERETYK STRАŻNIKJAK?? KTO POCIĄGA ZA SZNURKI, ROBACTWO?",
+			
+					"BROTHERHURT_KILL_TITANGOLD_1": "NIE MOŻESZ MI SIĘ OPIERAĆ, STRАŻNIKU",
+					"BROTHERHURT_KILL_TITANGOLD_2": "WRÓĆ DO PROCHU, STRАŻNIKU.",
+			
+					"BROTHERHURT_KILL_HERETIC_1": "POWRÓĆ W PROCH, HERETYKU.",
+					"BROTHERHURT_KILL_HERETIC_2": "GIŃ KOLEJNY RAZ, HERETYKU.",
+			
+			
+			
+
+						"DIFFICULTY_BAR_0": "Bardzo Łatwy",
+						"DIFFICULTY_BAR_1": "Łatwy",
+						"DIFFICULTY_BAR_2": "Średni",
+						"DIFFICULTY_BAR_3": "Trudny",
+						"DIFFICULTY_BAR_4": "Bardzo Trudny",
+						"DIFFICULTY_BAR_5": "Szalony",
+						"DIFFICULTY_BAR_6": "Niemożliwy",
+						"DIFFICULTY_BAR_7": "WIDZĘ CIĘ",
+						"DIFFICULTY_BAR_8": "IDE PO CIEBIE",
+						"DIFFICULTY_BAR_9": "HAHAHAHAHAHA",
+						"STAGE_COUNT_FORMAT" : "<style=cSub>Etap</style> {0}",
+						"AMBIENT_LEVEL_DISPLAY_FORMAT" : "<style=cSub>Poziom</style> {0}",
+
+					
+			
 
 
 	//reszta//
@@ -584,7 +1076,7 @@
 	"DEFAULT_FONT": "TmpFonts/Bombardier/tmpBombDropShadow", 
 	"LOREM" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", 
 	"TITLE_PROFILE": "Profil: {0}",
-	"TITLE_PROFILE_DESC" : "Zmień lub stwórz nowe profile.",
+	"TITLE_PROFILE_DESC" : "Zmień lub stwórz nowy profil.",
 	"TITLE_SINGLEPLAYER": "Tryb Solo",
 	"TITLE_SINGLEPLAYER_DESC" : "Rozpocznij grę w pojedynkę.",
 	"TITLE_MULTIPLAYER": "Tryb Wieloosobowy",
@@ -791,6 +1283,200 @@
 	"SIGNUP_WAIT" : "Wysyłanie...",
 	"SIGNUP_SUCCESS" : "Dziękujemy!",
 	"SIGNUP_FAILURE" : "Błąd. Spróbuj ponownie?",
+
+	//Settings//
+	"OPTION_HEADER_GAMEPLAY": "ROZGRYWKA",
+	"OPTION_HEADER_KEYBINDING": "KLAWIATURA + MYSZKA",
+	"OPTION_HEADER_CONTROLLER": "KONTROLER",
+	"OPTION_HEADER_AUDIO": "DŹWIĘK",
+	"OPTION_HEADER_VIDEO": "OBRAZ",
+	"OPTION_HEADER_GRAPHICS": "GRAFIKA",
+	"OPTION_HEADER_OTHER" : "INNE",
+	"OPTION_HEADER_NETWORK": "SIEĆ",
+
+	"OPTION_OFF": "Wyłączone",
+	"OPTION_ON": "Wyłączone",
+	"OPTION_LOW": "Niskie",
+	"OPTION_MEDIUM": "Średnie",
+	"OPTION_HIGH": "Wysokie",
+	"OPTION_ULTRA": "Ultra",
+	"OPTION_CUSTOM": "Własne",
+
+	"OPTION_APPLY": "Zastosuj",
+	"OPTION_REVERT": "Przywróć",
+	"OPTION_BACK": "Wstecz",
+	"OPTION_ACCEPT": "Akceptuj",
+
+	"OPTION_AUTOREVERT_DIALOG_DESCRIPTION": "Zmiany zostaną ustawione na domyślne za {0} sekund. Zachować te zmiany?",
+	
+
+	//[AUDIO]
+	"OPTION_MASTERVOLUME": "Główna Głośność:",
+	"OPTION_MASTERVOLUME_DESCRIPTION": "Głośność całej gry.",
+
+	"OPTION_MUSICVOLUME": "Głośność Muzyki:",
+	"OPTION_MUSICVOLUME_DESCRIPTION": "Głośność muzyki w grze.",
+
+	"OPTION_SFXVOLUME": "Głośność Efektów:",
+	"OPTION_SFXVOLUME_DESCRIPTION": "Głośność efektów podczas gry.",
+
+	"OPTION_AUDIOFOCUS": "Wycisz gdy nieaktywna:",
+	"OPTION_AUDIOFOCUS_DESCRIPTION" : "Czy audio powinno być wyciszone, gdy okno gry nie jest aktywne.",
+
+	//[VIDEO]
+	"OPTION_VSYNC": "Synchronizacja Pionowa (V-Sync)",
+	"OPTION_VSYNC_DESCRIPTION": "Eliminuje rozrywanie obrazu poprzez synchronizację klatek na sekundę z częstotliwością odświeżania monitora. Włącz tylko jeśli zauważasz rozrywanie obrazu.",
+	"OPTION_VSYNC_NONE": "Wyłączone",
+	"OPTION_VSYNC_EVERYOTHER": "Połowa",
+	"OPTION_VSYNC_EVERY": "Zawsze",
+
+	"OPTION_FPSLIMIT" : "Limit FPS",
+	"OPTION_FPSLIMIT_DESCRIPTION": "Ogranicza FPS, aby poprawić stabilność liczby klatek.",
+	"OPTION_FPSLIMIT_UNCAPPED" : "Bez limitu",
+
+	"OPTION_RESOLUTION" : "Rozdzielczość",
+	"OPTION_RESOLUTION_DESCRIPTION" : "Rozdzielczość i częstotliwość odświeżania ekranu. Zmniejszenie rozdzielczości zwykle daje najlepszą poprawę wydajności na słabych komputerach.",
+
+	"OPTION_FULLSCREEN" : "Tryb pełnoekranowy:",
+	"OPTION_FULLSCREEN_DESCRIPTION": "Czy gra będzie działać w trybie pełnoekranowym czy okienkowym.",
+	"OPTION_FULLSCREEN_FULLSCREEN": "Pełny ekran",
+	"OPTION_FULLSCREEN_WINDOWED": "Okienkowy",
+
+	"OPTION_SCREENSCALE": "Skalowanie Rozdzielczość:",
+	"OPTION_SCREENSCALE_DESCRIPTION": "Obniża wewnętrzną rozdzielczość ekranu. Niższe ustawienie znacznie poprawi wydajność.",
+
+	"OPTION_GAMMA": "Wzmocnienie Gammy",
+	"OPTION_GAMMA_DESCRIPTION": "Jasność pikseli. Dostosuj, aby rozjaśnić lub przyciemnić ekran.",
+
+	"OPTION_HUDSCALE" : "Skala HUD-a",
+	"OPTION_HUDSCALE_DESCRIPTION": "Zwiększa lub zmniejsza rozmiar elementów interfejsu w grze, takich jak paski zdrowia, ikony, itp.",
+
+	//[GRAPHICS]
+	"OPTION_SHADOW_TYPE": "Typ cieni:",
+    "OPTION_SHADOW_TYPE_DESCRIPTION": "Określa jaki typ cieni będzie używany. Miękkie cienie są gładsze, ale wymagają większej mocy obliczeniowej. Wyłączenie cieni znacznie poprawi wydajność.",
+    "OPTION_SHADOW_TYPE_OFF": "Wyłączone",
+    "OPTION_SHADOW_TYPE_HARDONLY": "Ostre",
+    "OPTION_SHADOW_TYPE_ALL": "Miękkie",
+
+    "OPTION_SHADOW_QUALITY": "Jakość cieni:",
+    "OPTION_SHADOW_QUALITY_DESCRIPTION": "Im wyższe ustawienie, tym wyższa rozdzielczość cieni. Obniż to, aby poprawić wydajność.",
+
+    "OPTION_SHADOW_CASCADE": "Kaskady Cieni:",
+    "OPTION_SHADOW_CASCADE_DESCRIPTION": "Liczba kaskad cieni. Wyższe ustawienia poprawią rozdzielczość cieni. Obniż to, aby znacznie poprawić wydajność.",
+
+    "OPTION_SHADOW_DISTANCE": "Dystans cieni:",
+    "OPTION_SHADOW_DISTANCE_DESCRIPTION": "W jakiej odległości będą rysowane cienie. Obniż to, aby poprawić wydajność.",
+
+    "OPTION_TEXTURE_RESOLUTION": "Rozdzielczość tekstur:",
+    "OPTION_TEXTURE_RESOLUTION_DESCRIPTION": "Kontroluje rozdzielczość i jakość tekstur na wszystkich elementach gry. Wysoka jakość tekstur oznacza więcej szczegółów. Obniż to, aby poprawić wydajność.",
+    "OPTION_TEXTURE_RESOLUTION_FULL": "Pełna",
+    "OPTION_TEXTURE_RESOLUTION_HALF": "Połowa",
+    "OPTION_TEXTURE_RESOLUTION_QUARTER": "Ćwiartka",
+    "OPTION_TEXTURE_RESOLUTION_EIGHTH": "Ósemka",
+
+    "OPTION_ANISOTROPIC_FILTERING": "Filtrowanie anizotropowe:",
+    "OPTION_ANISOTROPIC_FILTERING_DESCRIPTION": "Poprawia wygląd tekstur oglądanych pod kątem. Obniżenie tego zwiększy wydajność karty graficznej.",
+
+    "OPTION_VFX_BIAS": "Odcięcie efektów wizualnych:",
+    "OPTION_VFX_BIAS_DESCRIPTION": "Daje szansę na usunięcie cząsteczek i innych efektów wizualnych (VFX) w miejscach o ich dużej ilości. Obniżenie tego poprawi wydajność procesora *i* GPU, ale niektóre efekty mogą znikać.",
+
+    "OPTION_LOD_BIAS": "Odcięcie LOD:",
+    "OPTION_LOD_BIAS_DESCRIPTION": "Dystansy przy których będą zmieniane detale obiektów (LOD). Obniżenie tego poprawi wydajność, ale może powodować pojawianie się obiektów z bliska.",
+
+    "OPTION_MAX_LOD": "Redukcja LOD-ów:",
+    "OPTION_MAX_LOD_DESCRIPTION": "Najwyższy poziom detali (LOD), który zostanie użyty przez grę. Obniżenie tego poprawi wydajność, ale może powodować pojawianie się obiektów z bliska i znacznie obniżyć jakość grafiki.",   
+
+    "OPTION_SOFTPARTICLES": "Gładkie cząsteczki:",
+    "OPTION_SOFTPARTICLES_DESCRIPTION": "Włącza łagodne przejścia między cząsteczkami z różnej głębi. Wyłączenie poprawi wydajność GPU.",
+    
+    "OPTION_FOLIAGEWIND": "Więdnące liście:",
+    "OPTION_FOLIAGEWIND_DESCRIPTION": "Włącza animację liści. Wyłącz, by poprawić wydajność GPU i procesora CPU.",
+    
+    "OPTION_BLOOM": "Bloom:",
+    "OPTION_BLOOM_DESCRIPTION": "Pozwala na efekt świetlny na bardzo jasnych światłach. Wyłączenie tego poprawi wydajność GPU.",
+
+    "OPTION_AO": "SSAO:",
+    "OPTION_AO_DESCRIPTION": "Przyciemnia zakamarki, dając efekt symulowanego odbicia światła. Wyłączenie znacznie poprawi wydajność GPU.",
+
+    "OPTION_MOTIONBLUR": "Rozmycie ruchu:",
+    "OPTION_MOTIONBLUR_DESCRIPTION": "Symulowany efekt kamery, rozmazujący obiekty w ruchu. Wyłączenie poprawi wydajność GPU.",
+
+    "OPTION_SOBEL": "Oświetlenie Sobela:",
+    "OPTION_SOBEL_DESCRIPTION": "Włącza lekką obwódkę, pomagającą odznaczać się obiektom. Wyłączenie poprawi wydajność GPU.",
+
+    "OPTION_CORPSE_DISPOSAL": "Porządkowanie zwłok:",
+    "OPTION_CORPSE_DISPOSAL_DESCRIPTION": "Jak jest realizowany limit liczby zwłok. Natychmiast jest tańsza, ale sprawi, że zwłoki powyżej limitu będą znikać, nawet gdy widoczne.",
+    "OPTION_CORPSE_DISPOSAL_HARD": "Natychmiast",
+    "OPTION_CORPSE_DISPOSAL_OUTOFSIGHT": "Ukryte",
+
+    "OPTION_MAX_CORPSE": "Maks zwłok:",
+    "OPTION_MAX_CORPSE_DESCRIPTION": "Ogranicza maksymalną liczbę zwłok, które mogą istnieć. Zmniejszenie liczby zwiększy wydajność.",
+    
+    "OPTION_MSAA": "UI Anti-Aliasing:",
+    "OPTION_MSAA_DESCRIPTION": "Zmniejsza postrzępienie i nierówności elementów interfejsu (UI) poprzez MSAA. Obniżenie tego zwiększy wydajność GPU.",
+
+	//[Gamepad]
+	"OPTION_STICK_LOOK_SENSITIVITY": "<style=cUserSetting>Czułość</style>",
+	"OPTION_STICK_LOOK_SENSITIVITY_DESCRIPTION": "Jak szybko obraca się kamera wraz z ruchami drążka kontrolera.",
+	"OPTION_STICK_LOOK_SCALE_X": "<style=cUserSetting>Skala Obrócenia w Poziomie</style>",
+	"OPTION_STICK_LOOK_SCALE_X_DESCRIPTION": "Mnożnik dla prędkości obrócenia kamery w poziomie.",
+	"OPTION_STICK_LOOK_SCALE_Y": "<style=cUserSetting>Skala Obrócenia w Pionie</style>",
+	"OPTION_STICK_LOOK_SCALE_Y_DESCRIPTION": "Mnożnik dla prędkości obrócenia kamery w pionie.",
+	"OPTION_STICK_LOOK_INVERT_X": "<style=cUserSetting>Odwróć Kierunek w Poziomie</style>",
+	"OPTION_STICK_LOOK_INVERT_X_DESCRIPTION": "Odwraca kierunek obrócenia kamery w poziomie.",
+	"OPTION_STICK_LOOK_INVERT_Y": "<style=cUserSetting>Odwróć Kierunek w Pionie</style>",
+	"OPTION_STICK_LOOK_INVERT_Y_DESCRIPTION": "Odwraca kierunek obrócenia kamery w pionie.",
+	"OPTION_GAMEPAD_VIBRATION_SCALE": "<style=cUserSetting>Skala Wibrowania</style>",
+	"OPTION_GAMEPAD_VIBRATION_SCALE_DESCRIPTION": "Intensywność wibracji kontrolera.",
+
+		//[Keyboard+Mouse]
+		"OPTION_MOUSE_LOOK_SENSITIVITY": "<style=cUserSetting>Czułość myszy</style>",
+		"OPTION_MOUSE_LOOK_SENSITIVITY_DESCRIPTION": "Jak szybko obraca się kamera wraz z ruchami myszy.",
+		"OPTION_MOUSE_LOOK_SCALE_X": "<style=cUserSetting>Skala obrotu w poziomie</style>",
+		"OPTION_MOUSE_LOOK_SCALE_X_DESCRIPTION": "Mnożnik dla prędkości obrócenia kamery w poziomie.",
+		"OPTION_MOUSE_LOOK_SCALE_Y": "<style=cUserSetting>Skala obrotu w pionie</style>",
+		"OPTION_MOUSE_LOOK_SCALE_Y_DESCRIPTION": "Mnożnik dla prędkości obrócenia kamery w pionie.",
+		"OPTION_MOUSE_LOOK_INVERT_X": "<style=cUserSetting>Odwróć oś X</style>",
+		"OPTION_MOUSE_LOOK_INVERT_X_DESCRIPTION": "Odwraca kierunek obrócenia kamery w poziomie.",
+		"OPTION_MOUSE_LOOK_INVERT_Y": "<style=cUserSetting>Odwróć oś Y</style>",
+		"OPTION_MOUSE_LOOK_INVERT_Y_DESCRIPTION": "Odwraca kierunek obrócenia kamery w pionie.",
+	  
+		//[Gameplay]
+		"OPTION_SCREENSHAKE_SCALE": "<style=cUserSetting>Intensywność drżenia ekranu</style>",
+		"OPTION_SCREENSHAKE_SCALE_DESCRIPTION": "Jak mocno trzęsie się ekran.",
+		"OPTION_DAMAGENUMBERS": "Liczby obrażeń",
+		"OPTION_DAMAGENUMBERS_DESCRIPTION": "Włącza unoszące się liczby obrażeń.",
+		"OPTION_SPRINT_SENSITIVITY_REDUCTION": "Mniejsza czułość podczas sprintu",
+		"OPTION_SPRINT_SENSITIVITY_REDUCTION_DESCRIPTION": "Włącza mniejszą czułość ruchów podczas sprintu.",
+		"OPTION_HUD": "Interfejs w grze (HUD)",
+		"OPTION_HUD_DESCRIPTION": "Włącza interfejs gry: paski zdrowia, ikony przedmiotów i umiejętności, itp.",
+		"OPTION_EXP_AND_MONEY_EFFECTS": "Efekty doświadczenia i pieniędzy",
+		"OPTION_EXP_AND_MONEY_EFFECTS_DESCRIPTION": "Włącza efekty cząsteczek podczas zdobywania doświadczenia i pieniędzy.",
+		"OPTION_DETAILED_DESCRIPTION" : "Szczegółowe opisy przedmiotów",
+		"OPTION_DETAILED_DESCRIPTION_DESCRIPTION" : "Włącza szczegółowe opisy przedmiotów i ekwipunku w grze.",
+		"OPTION_SCREEN_DISTORTION" : "Zniekształcenia ekranu",
+		"OPTION_SCREEN_DISTORTION_DESCRIPTION" : "Włącza efekty zniekształcenia ekranu." ,
+
+
+		//[Misc]
+		"OPTION_STEAM_RELAY_SERVER": "Przekaźnik ruchu Steam",
+		"OPTION_STEAM_RELAY_SERVER_DESCRIPTION": "Domyślnie Steam może przekazywać ruch sieciowy do innych graczy przez serwer przekaźnikowy. Robi to, aby obejść problemy z połączeniem bezpośrednim lub aby zapewnić potencjalnie szybszą trasę sieciową. Wyłączenie tej opcji uniemożliwi przekazywanie ruchu przez serwer przekaźnikowy.",
+		"OPTION_INTRO_SKIP": "Pomiń intro startowe",
+		"OPTION_INTRO_SKIP_DESCRIPTION": "Pomijanie filmowej sekwencji otwarcia podczas uruchamiania gry.",
+	  
+		"OPTION_EOS_CROSSPLAY_TOGGLE": "Przełącz Cross-Play Epic Games/Steam",
+	  
+		"OPTION_REBIND_DIALOG_TITLE": "Przełącz przypisanie klawisza...",
+		"OPTION_REBIND_DIALOG_DESCRIPTION": "Naciśnij przycisk, który chcesz przypisać do {0}. Pozostało {1:0} sekund(y).",
+	  
+		"OPTION_REBIND_CANCELLED_DIALOG_DESCRIPTION": "Zmiana przypisania klawisza anulowana.",
+	  
+		"SETTINGS_PROFILE_NAME_FORMAT": "Ustawienia - <style=cUserSetting>{0}</style>",
+	  
+		"OPTION_AUTOREVERT_DIALOG_TITLE" : "Zachować zmiany?" 
+
+	  
+	//settings//
 
 
 	}
