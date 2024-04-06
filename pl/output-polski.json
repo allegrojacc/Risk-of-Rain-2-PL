@@ -1,0 +1,797 @@
+{
+	"strings": {
+		"ACHIEVEMENT_UNLOCKED_MESSAGE": "<color=#ccd3e0>{0} osiągnął <color=#BDE151>{1}</color></color>",
+		"ACHIEVEMENT_UNLOCKED_MESSAGE_2P": "<color=#ccd3e0>Osiągnąłeś <color=#BDE151>{1}</color></color>",
+
+		"ACHIEVEMENT_LOGCOLLECTOR_NAME": "Książkowy mól",
+		"ACHIEVEMENT_LOGCOLLECTOR_DESCRIPTION": "Zbierz 10 dzienników potworów lub otoczenia.",
+
+		"ACHIEVEMENT_ATTACKSPEED_NAME": "Szybkostrzelność",
+		"ACHIEVEMENT_ATTACKSPEED_DESCRIPTION": "Osiągnij +200% prędkości ataku.",
+
+		"ACHIEVEMENT_STAYALIVE1_NAME": "Samotny ocalały",
+		"ACHIEVEMENT_STAYALIVE1_DESCRIPTION": "Przeżyj 30 kolejnych minut.",
+
+		"ACHIEVEMENT_HARDHITTER_NAME": "Macho",
+		"ACHIEVEMENT_HARDHITTER_DESCRIPTION": "Zadaj 5000 obrażeń jednym strzałem.",
+
+		"ACHIEVEMENT_CARRYLUNARITEMS_NAME": "Wyznawca Księżyca",
+		"ACHIEVEMENT_CARRYLUNARITEMS_DESCRIPTION": "Miej przy sobie 5 przedmiotów księżycowych w jednym przejściu.",
+
+		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_NAME": "Chwalebna Bitwa",
+		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_DESCRIPTION": "Naładuj teleporter mając mniej niż 10% zdrowia.",
+
+		"ACHIEVEMENT_COMPLETEMULTIBOSSSHRINE_NAME": "Przewaga",
+		"ACHIEVEMENT_COMPLETEMULTIBOSSSHRINE_DESCRIPTION": "Pokonaj bossów teleportera po aktywowaniu 2 Sanktuariów Góry.",
+
+		"ACHIEVEMENT_COMPLETETELEPORTER_NAME": "Postęp",
+		"ACHIEVEMENT_COMPLETETELEPORTER_DESCRIPTION": "Ukończ wydarzenie teleportera.",
+
+		"ACHIEVEMENT_COMPLETETHREESTAGES_NAME": "Wojownik",
+		"ACHIEVEMENT_COMPLETETHREESTAGES_DESCRIPTION": "Osiągnij i ukończ trzecie wydarzenie teleportera bez umierania.",
+
+		"ACHIEVEMENT_DIE5TIMES_NAME": "Proces uczenia się",
+		"ACHIEVEMENT_DIE5TIMES_DESCRIPTION": "Umrzyj 5 razy.",
+
+		"ACHIEVEMENT_DISCOVER5EQUIPMENT_NAME": "Eksperymenty",
+		"ACHIEVEMENT_DISCOVER5EQUIPMENT_DESCRIPTION": "Podnieś 5 różnych rodzajów ekwipunku.",
+
+		"ACHIEVEMENT_COMPLETE20STAGES_NAME": "Długa droga",
+		"ACHIEVEMENT_COMPLETE20STAGES_DESCRIPTION": "Ukończ 20 etapów w jednym przejściu.",
+
+		"ACHIEVEMENT_HARDELITEBOSSKILL_NAME": "Zabójca bogów",
+		"ACHIEVEMENT_HARDELITEBOSSKILL_DESCRIPTION": "Pokonaj elitarnego bossa na poziomie trudności Monsun.",
+
+		"ACHIEVEMENT_KILLTOTALENEMIES_NAME": "Rzeź",
+		"ACHIEVEMENT_KILLTOTALENEMIES_DESCRIPTION": "Pokonaj 3000 wrogów.",
+
+		"ACHIEVEMENT_KILLELITEMONSTER_NAME": "Zabójca elit",
+		"ACHIEVEMENT_KILLELITEMONSTER_DESCRIPTION": "Pokonaj elitarnego potwora.",
+
+		"ACHIEVEMENT_REPEATFIRSTTELEPORTER_NAME": "Zweryfikowany",
+		"ACHIEVEMENT_REPEATFIRSTTELEPORTER_DESCRIPTION": "Ukończ pierwsze wydarzenie teleportera 5 razy.",
+
+		"ACHIEVEMENT_MAXHEALINGSHRINE_NAME": "Jedność z lasem",
+		"ACHIEVEMENT_MAXHEALINGSHRINE_DESCRIPTION": "Całkowicie ulepsz Sanktuarium Lasu.",
+
+		"ACHIEVEMENT_TOTALDRONESREPAIRED_NAME": "Mechanik",
+		"ACHIEVEMENT_TOTALDRONESREPAIRED_DESCRIPTION": "Napraw 30 dronów lub wieżyczek.",
+
+		"ACHIEVEMENT_TOTALMONEYCOLLECTED_NAME": "Sfinansowano!",
+		"ACHIEVEMENT_TOTALMONEYCOLLECTED_DESCRIPTION": "Zbierz łącznie 30480 złota.",
+
+		"ACHIEVEMENT_FINDTIMEDCHEST_NAME": "[OCENZUROWANE]",
+		"ACHIEVEMENT_FINDTIMEDCHEST_DESCRIPTION": "Otwórz Zablokowaną Skrzynię w Punkcie Zbornym Delta.",
+
+		"ACHIEVEMENT_SUICIDEHERMITCRABS_NAME": "Demony i kraby",
+		"ACHIEVEMENT_SUICIDEHERMITCRABS_DESCRIPTION": "Zabij 20 pustelników ścigając je w kierunku krawędzi mapy.",
+
+		"ACHIEVEMENT_MAJORMULTIKILL_NAME": "Multi-zabójstwo!",
+		"ACHIEVEMENT_MAJORMULTIKILL_DESCRIPTION": "Zabij 15 wrogów jednocześnie.",
+
+		"ACHIEVEMENT_COMPLETEPRISMATICTRIAL_NAME": "Pryzmatyczna Osobliwość",
+		"ACHIEVEMENT_COMPLETEPRISMATICTRIAL_DESCRIPTION": "Ukończ Pryzmatyczną Próbę.",
+
+		"ACHIEVEMENT_KILLELEMENTALLEMURIANS_NAME": "Śmierć nas rozłączy",
+		"ACHIEVEMENT_KILLELEMENTALLEMURIANS_DESCRIPTION": "Odkryj ukrytą komnatę w Opuszczonym Akwedukcie.",
+
+		"ACHIEVEMENT_FREEMAGE_NAME": "Przerwa",
+		"ACHIEVEMENT_FREEMAGE_DESCRIPTION": "Uwolnij ocalałego zawieszonego w czasie.",
+
+		"ACHIEVEMENT_FINDUNIQUENEWTSTATUES_NAME": "Pasjonat Niumków",
+		"ACHIEVEMENT_FINDUNIQUENEWTSTATUES_DESCRIPTION": "Odkryj i aktywuj 8 unikatowych Ołtarzy Niumków.",
+
+		"ACHIEVEMENT_COMPLETEUNKNOWNENDING_NAME": "Prawdziwy Odpoczynek",
+		"ACHIEVEMENT_COMPLETEUNKNOWNENDING_DESCRIPTION": "Unicestwij się przy Obelisku…",
+
+		"ACHIEVEMENT_COMPLETETELEPORTERWITHOUTINJURY_NAME": "Nienaruszony",
+		"ACHIEVEMENT_COMPLETETELEPORTERWITHOUTINJURY_DESCRIPTION": "Całkowicie naładuj teleporter bez otrzymania obrażeń.",
+
+		"ACHIEVEMENT_MOVESPEED_NAME": "Zalecana duża prędkość",
+		"ACHIEVEMENT_MOVESPEED_DESCRIPTION": "Osiągnij +300% prędkości ruchu (wliczając sprint).",
+
+		"ACHIEVEMENT_DISCOVER10UNIQUETIER1_NAME": "Podstawy",
+		"ACHIEVEMENT_DISCOVER10UNIQUETIER1_DESCRIPTION": "Odkryj 10 unikalnych białych przedmiotów.",
+
+		"ACHIEVEMENT_FAILSHRINECHANCE_NAME": "\"Czy to zbugowane?\"",
+		"ACHIEVEMENT_FAILSHRINECHANCE_DESCRIPTION": "Trzy razy z rzędu nie uda Ci się w Sanktuarium Szansy.",
+
+		"ACHIEVEMENT_LOOPONCE_NAME": "Deja Vu?",
+		"ACHIEVEMENT_LOOPONCE_DESCRIPTION": "Wróć do pierwszego poziomu.",
+
+		"ACHIEVEMENT_REPEATEDLYDUPLICATEITEMS_NAME": "...Może jeszcze jeden.",
+		"ACHIEVEMENT_REPEATEDLYDUPLICATEITEMS_DESCRIPTION": "Powiel ten sam przedmiot 7 razy z rzędu, używając drukarki 3D.",
+
+		"ACHIEVEMENT_KILLBOSSQUICK_NAME": "Podkręcony",
+		"ACHIEVEMENT_KILLBOSSQUICK_DESCRIPTION": "Pokonaj bossa teleportera w mniej niż 15 sekund.",
+
+		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_NAME": "Naturoterapeuta",
+		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_DESCRIPTION": "Osiągnij i ukończ trzeci etap bez uleczenia.",
+
+		"ACHIEVEMENT_FINDDEVILALTAR_NAME": "Jej koncepcje",
+		"ACHIEVEMENT_FINDDEVILALTAR_DESCRIPTION": "Znajdź Ołtarz N'kuhany",
+
+		"ACHIEVEMENT_FINDCLAYDOLLS_NAME": "Księżycowy znak",
+		"ACHIEVEMENT_FINDCLAYDOLLS_DESCRIPTION": "Znajdź 10 glinianych lalek. <sprite name=\"WIP\"> To osiągnięcie jest obecnie nieaktywne. <sprite name=\"WIP\">",
+
+		"ACHIEVEMENT_COMPLETE30STAGESCAREER_NAME": "Perfekcja Inżynierii",
+		"ACHIEVEMENT_COMPLETE30STAGESCAREER_DESCRIPTION": "Ukończ 30 etapów",
+
+		"ACHIEVEMENT_KILLGOLDTITANINONECYCLE_NAME": "Zaciemnienie",
+		"ACHIEVEMENT_KILLGOLDTITANINONECYCLE_DESCRIPTION": "Pokonaj unikalnego strażnika Złoconego Wybrzeża bez dezaktywacji jakichkolwiek latarni.",
+
+		"ACHIEVEMENT_KILLELITESMILESTONE_NAME": "Przycięci",
+		"ACHIEVEMENT_KILLELITESMILESTONE_DESCRIPTION": "Pokonaj 500 elitarnych potworów.",
+
+		"ACHIEVEMENT_MULTICOMBATSHRINE_NAME": "Podżegacz wojenny",
+		"ACHIEVEMENT_MULTICOMBATSHRINE_DESCRIPTION": "Aktywuj 3 Sanktuaria Walki na jednym etapie.",
+
+		"ACHIEVEMENT_USETHREEPORTALS_NAME": "Kosmiczny Odkrywca",
+		"ACHIEVEMENT_USETHREEPORTALS_DESCRIPTION": "Odkryj i wejdź do trzech unikalnych portali.",
+
+		"ACHIEVEMENT_RESCUETREEBOT_NAME": "Elektrownia",
+		"ACHIEVEMENT_RESCUETREEBOT_DESCRIPTION": "Napraw zepsutego robota przy użyciu Zestawu Paliwowego Kapsuły Ratunkowej.",
+
+		"ACHIEVEMENT_COMMANDOKILLOVERLOADINGWORM_NAME": "Komandos: Grzmot",
+		"ACHIEVEMENT_COMMANDOKILLOVERLOADINGWORM_DESCRIPTION": "Jako Komandos zadaj ostateczny cios Przeciążonemu Czerwiowi.",
+
+		"ACHIEVEMENT_TOOLBOTGUARDTELEPORTER_NAME": "MUL-T: Dezynsekcja",
+		"ACHIEVEMENT_TOOLBOTGUARDTELEPORTER_DESCRIPTION": "Jako MUL-T pokonaj dwie Królowe Chrząszczy bez opuszczania strefy teleportera.",
+
+		"ACHIEVEMENT_TOOLBOTKILLIMPBOSSWITHBFG_NAME": "MUL-T: Mam cię!",
+		"ACHIEVEMENT_TOOLBOTKILLIMPBOSSWITHBFG_DESCRIPTION": "Jako MUL-T zadaj ostateczny cios Władcy Diablików przy użyciu Preonowego Akumulatora.",
+
+		"ACHIEVEMENT_TOOLBOTBEATARENALATER_NAME": "MUL-T: Siódmy Dzień",
+		"ACHIEVEMENT_TOOLBOTBEATARENALATER_DESCRIPTION": "Jako MUL-T oczyść Pola Pustki na Etapie 7 lub później.",
+
+		"ACHIEVEMENT_MERCDONTTOUCHGROUND_NAME": "Najemnik: Demon Niebios",
+		"ACHIEVEMENT_MERCDONTTOUCHGROUND_DESCRIPTION": "Jako Najemnik nie dotykaj ziemi przez 30 sekund.",
+
+		"ACHIEVEMENT_MERCCOMPLETETRIALWITHFULLHEALTH_NAME": "Najemnik: Eteryczny",
+		"ACHIEVEMENT_MERCCOMPLETETRIALWITHFULLHEALTH_DESCRIPTION": "Jako Najemnik ukończ Pryzmatyczną Próbę bez spadku zdrowia poniżej 100%.",
+
+		"ACHIEVEMENT_MERCXSKILLSINYSECONDS_NAME": "Najemnik: Błysk Ostrzy",
+		"ACHIEVEMENT_MERCXSKILLSINYSECONDS_DESCRIPTION": "Jako Najemnik użyj 20 zdolności w ciągu 10 sekund.",
+
+		"ACHIEVEMENT_HUNTRESSMAINTAINFULLHEALTHONFROZENWALL_NAME": "Łowczyni: Przenikliwy Wiatr",
+		"ACHIEVEMENT_HUNTRESSMAINTAINFULLHEALTHONFROZENWALL_DESCRIPTION": "Jako Łowczyni rozpocznij i zakończ Punkt Zborny Delta lub Wypalony Las bez spadku zdrowia poniżej 100%.",
+
+		"ACHIEVEMENT_HUNTRESSCOLLECTCROWBARS_NAME": "Łowczyni: Jeden Strzał, Jeden Truposz",
+		"ACHIEVEMENT_HUNTRESSCOLLECTCROWBARS_DESCRIPTION": "Jako Łowczyni zbierz i nieś 12 łomów jednocześnie. ",
+
+		"ACHIEVEMENT_ENGIARMY_NAME": "Inżynier: Więcej Przyjaciół",
+		"ACHIEVEMENT_ENGIARMY_DESCRIPTION": "Jako Inżynier zrekrutuj 12 pomocników jednocześnie.",
+
+		"ACHIEVEMENT_TREEBOTLOWHEALTHTELEPORTER_NAME": "REX: Zaskoczony",
+		"ACHIEVEMENT_TREEBOTLOWHEALTHTELEPORTER_DESCRIPTION": "Jako REX ukończ cały event teleportera mając mniej niż 50% zdrowia.",
+
+		"ACHIEVEMENT_MAGEFASTBOSS_NAME": "Technomantka: Roztrzaskany!",
+		"ACHIEVEMENT_MAGEFASTBOSS_DESCRIPTION": "Jako Technomantka pokonaj bossa teleportera pojedynczym atakiem zadającym w ciągy jednej sekundy.",
+
+		"ACHIEVEMENT_MAGEAIRBORNEMULTIKILL_NAME": "Technomantka: Bombardowanie Orbitalne",
+		"ACHIEVEMENT_MAGEAIRBORNEMULTIKILL_DESCRIPTION": "Jako Technomantka zabij 15 wrogów przed dotknięciem ziemi",
+
+		"ACHIEVEMENT_MAGEMULTIKILL_NAME": "Technomantka: Masakra",
+		"ACHIEVEMENT_MAGEMULTIKILL_DESCRIPTION": "Jako Technomantka zabij jednocześnie 20 wrogów.",
+
+		"ACHIEVEMENT_BURNTODEATH_NAME": "Ciepło Życia",
+		"ACHIEVEMENT_BURNTODEATH_DESCRIPTION": "Zgiń trzykrotnie będąc podpalonym.",
+
+		"ACHIEVEMENT_ENGIKILLBOSSQUICK_NAME": "Inżynier: 100% Kalkulacji",
+		"ACHIEVEMENT_ENGIKILLBOSSQUICK_DESCRIPTION": "Jako Inżynier pokonaj bossa teleportera w mniej niż 5 sekund od jego pojawienia się.",
+
+		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_NAME": "REX: Zatankowany",
+		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_DESCRIPTION": "Jako REX zabij Piechurów Pustki na Porzuconym Akwedukcie wrzucając ich w dół.",
+
+		"ACHIEVEMENT_TREEBOTBIGHEAL_NAME": "REX: Pełnia Życia",
+		"ACHIEVEMENT_TREEBOTBIGHEAL_DESCRIPTION": "Jako REX ulecz się na 1000 jednostek zdrowia na raz.",
+
+		"ACHIEVEMENT_LOADERSPEEDRUN_NAME": "Ładowarka: Przelotna Wizyta",
+		"ACHIEVEMENT_LOADERSPEEDRUN_DESCRIPTION": "Jako Ładowarka dotrzyj i przejdź przez Niebiański Portal w 25 minut lub mniej.",
+
+		"ACHIEVEMENT_LOADERKILLLOADERS_NAME": "Ładowarka: Grzmot",
+		"ACHIEVEMENT_LOADERKILLLOADERS_DESCRIPTION": "Jako Ładowarka zabij trzy inne Ładowarki w Komnacie Skarbców.",
+
+		"ACHIEVEMENT_COMMANDONONLUNARENDURANCE_NAME": "Komandos: Nieskazitelny",
+		"ACHIEVEMENT_COMMANDONONLUNARENDURANCE_DESCRIPTION": "Jako Komandos ukończ 20 etapów podczas jednego przejścia bez zbierania jakichkolwiek przedmiotów księżycowych.",
+
+		"ACHIEVEMENT_COMMANDOCLEARGAMEMONSOON_NAME": "Komandos: Mistrzostwo",
+		"ACHIEVEMENT_COMMANDOCLEARGAMEMONSOON_DESCRIPTION": "Jako Komandos ukończ grę lub zniszcz się w trybie Monsunu",
+
+		"ACHIEVEMENT_TOOLBOTCLEARGAMEMONSOON_NAME": "MUL-T: Mistrzostwo",
+		"ACHIEVEMENT_TOOLBOTCLEARGAMEMONSOON_DESCRIPTION": "Jako MUL-T ukończ grę lub zniszcz się w trybie Monsunu",
+
+		"ACHIEVEMENT_HUNTRESSCLEARGAMEMONSOON_NAME": "Łowczyni: Mistrzostwo",
+		"ACHIEVEMENT_HUNTRESSCLEARGAMEMONSOON_DESCRIPTION": "Jako Łowczyni ukończ grę lub zniszcz się w trybie Monsunu",
+
+		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_NAME": "Technomantka: Mistrzostwo",
+		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_DESCRIPTION": "Jako Technomantka ukończ grę lub zniszcz się w trybie Monsunu",
+
+		"ACHIEVEMENT_MERCCLEARGAMEMONSOON_NAME": "Najemnik: Mistrzostwo",
+		"ACHIEVEMENT_MERCCLEARGAMEMONSOON_DESCRIPTION": "Jako Najemnik ukończ grę lub zniszcz się w trybie Monsunu",
+
+		"ACHIEVEMENT_TREEBOTCLEARGAMEMONSOON_NAME": "REX: Mistrzostwo",
+		"ACHIEVEMENT_TREEBOTCLEARGAMEMONSOON_DESCRIPTION": "Jako REX ukończ grę lub unicestw się podczas trybu Monsun.",
+
+		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_NAME": "Ładowarka: Mistrzostwo",
+		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_DESCRIPTION": "Jako Ładowarka ukończ grę lub unicestw się podczas trybu Monsun.",
+
+		"ACHIEVEMENT_CROCOCLEARGAMEMONSOON_NAME": "Acrid: Mistrzostwo",
+		"ACHIEVEMENT_CROCOCLEARGAMEMONSOON_DESCRIPTION": "Jako Acrid ukończ grę lub unicestw się podczas trybu Monsun.",
+
+		"ACHIEVEMENT_ENGICLEARGAMEMONSOON_NAME": "Inżynier: Mistrzostwo",
+		"ACHIEVEMENT_ENGICLEARGAMEMONSOON_DESCRIPTION": "Jako Inżynier ukończ grę lub unicestw się podczas trybu Monsun.",
+
+		"ACHIEVEMENT_CAPTAINCLEARGAMEMONSOON_NAME": "Kapitan: Mistrzostwo",
+		"ACHIEVEMENT_CAPTAINCLEARGAMEMONSOON_DESCRIPTION": "Jako Kapitan ukończ grę lub unicestw się podczas trybu Monsun.",
+
+		"ACHIEVEMENT_BANDIT2CLEARGAMEMONSOON_NAME": "Bandyta: Mistrzostwo",
+		"ACHIEVEMENT_BANDIT2CLEARGAMEMONSOON_DESCRIPTION": "Jako Bandyta ukończ grę lub unicestw się podczas trybu Monsun.",
+
+		"ACHIEVEMENT_RAILGUNNERCLEARGAMEMONSOON_NAME": "Snajperka: Mistrzostwo",
+		"ACHIEVEMENT_RAILGUNNERCLEARGAMEMONSOON_DESCRIPTION": "Jako Snajperka ukończ grę lub unicestw się podczas trybu Monsun.",
+
+		"ACHIEVEMENT_VOIDSURVIVORCLEARGAMEMONSOON_NAME": "「V??oid Fiend』: Mistrzostwo",
+		"ACHIEVEMENT_VOIDSURVIVORCLEARGAMEMONSOON_DESCRIPTION": "Jako 「V??oid Fiend』 ukończ grę lub unicestw się podczas trybu Monsun.",
+
+		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_NAME": "Łamacz Blokad",
+		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_DESCRIPTION": "Zabij 15 bossów podczas jednego przejścia.",
+
+		"ACHIEVEMENT_DEFEATSUPERROBOBALLBOSS_NAME": "Systemy Naprowadzania Offline",
+		"ACHIEVEMENT_DEFEATSUPERROBOBALLBOSS_DESCRIPTION": "Pokonaj unikalnego strażnika Zewu Syren.",
+
+		"ACHIEVEMENT_BEATARENA_NAME": "...Chcę zostać sam",
+		"ACHIEVEMENT_BEATARENA_DESCRIPTION": "Stabilizuj celę na Polach Pustki.",
+
+		"ACHIEVEMENT_LOADERBIGSLAM_NAME": "Ładowarka: Roztrzaskanie",
+		"ACHIEVEMENT_LOADERBIGSLAM_DESCRIPTION": "Jako Ładowarka wyląduj z naładowaną rękawicą przy prędkości 480+ km/h.",
+
+		"ACHIEVEMENT_CROCOTOTALINFECTIONSMILESTONE_NAME": "Acrid: Pandemia",
+		"ACHIEVEMENT_CROCOTOTALINFECTIONSMILESTONE_DESCRIPTION": "Jako Acrid zadaj zatrucie łącznie 1000 razy.",
+
+		"ACHIEVEMENT_AUTOMATIONACTIVATION_NAME": "Automatyczna Aktywacja",
+		"ACHIEVEMENT_AUTOMATIONACTIVATION_DESCRIPTION": "Aktywuj 6 wieżyczek podczas jednego przejścia.",
+
+		"ACHIEVEMENT_CLEANUPDUTY_NAME": "Obowiązkowe Porządki",
+		"ACHIEVEMENT_CLEANUPDUTY_DESCRIPTION": "Zniszcz 20 latających skał na Niebiańskich Łąkach.",
+
+		"ACHIEVEMENT_NEVERBACKDOWN_NAME": "Ani Kroku w Tył",
+		"ACHIEVEMENT_NEVERBACKDOWN_DESCRIPTION": "Na 4 poziomach z rzędu nie opuszczaj obszaru teleportera aż zostanie w pełni naładowany.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTBOMB_NAME": "Próba Złości",
+		"ACHIEVEMENT_OBTAINARTIFACTBOMB_DESCRIPTION": "Ukończ Próbę Złości.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTCOMMAND_NAME": "Próba Dowództwa",
+		"ACHIEVEMENT_OBTAINARTIFACTCOMMAND_DESCRIPTION": "Ukończ Próbę Dowództwa.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTELITEONLY_NAME": "Próba Honoru",
+		"ACHIEVEMENT_OBTAINARTIFACTELITEONLY_DESCRIPTION": "Ukończ Próbę Honoru.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTENIGMA_NAME": "Próba Enigmy",
+		"ACHIEVEMENT_OBTAINARTIFACTENIGMA_DESCRIPTION": "Ukończ Próbę Enigmy.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTFRIENDLYFIRE_NAME": "Próba Chaosu",
+		"ACHIEVEMENT_OBTAINARTIFACTFRIENDLYFIRE_DESCRIPTION": "Ukończ Próbę Chaosu.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTGLASS_NAME": "Próba Szkła",
+		"ACHIEVEMENT_OBTAINARTIFACTGLASS_DESCRIPTION": "Ukończ Próbę Szkła.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTMIXENEMY_NAME": "Próba Dźwięku",
+		"ACHIEVEMENT_OBTAINARTIFACTMIXENEMY_DESCRIPTION": "Ukończ Próbę Dźwięku.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTMONSTERTEAMGAINSITEMS_NAME": "Próba Ewolucji",
+		"ACHIEVEMENT_OBTAINARTIFACTMONSTERTEAMGAINSITEMS_DESCRIPTION": "Ukończ Próbę Ewolucji.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTRANDOMSURVIVORONRESPAWN_NAME": "Próba Metamorfozy",
+		"ACHIEVEMENT_OBTAINARTIFACTRANDOMSURVIVORONRESPAWN_DESCRIPTION": "Ukończ Próbę Metamorfozy.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTSACRIFICE_NAME": "Próba Ofiary",
+		"ACHIEVEMENT_OBTAINARTIFACTSACRIFICE_DESCRIPTION": "Ukończ Próbę Ofiary.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTSHADOWCLONE_NAME": "Próba Zemsty",
+		"ACHIEVEMENT_OBTAINARTIFACTSHADOWCLONE_DESCRIPTION": "Ukończ Próbę Zemsty.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTSINGLEMONSTERTYPE_NAME": "Próba Braterstwa",
+		"ACHIEVEMENT_OBTAINARTIFACTSINGLEMONSTERTYPE_DESCRIPTION": "Ukończ Próbę Braterstwa.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTSWARMS_NAME": "Próba Roju",
+		"ACHIEVEMENT_OBTAINARTIFACTSWARMS_DESCRIPTION": "Ukończ Próbę Roju.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTTEAMDEATH_NAME": "Próba Śmierci",
+		"ACHIEVEMENT_OBTAINARTIFACTTEAMDEATH_DESCRIPTION": "Ukończ Próbę Śmierci.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTWEAKASSKNEES_NAME": "Próba Kruchości",
+		"ACHIEVEMENT_OBTAINARTIFARTWEAKASSKNEES_DESCRIPTION": "Ukończ Próbę Kruchości.",
+
+		"ACHIEVEMENT_OBTAINARTIFACTWISPONDEATH_NAME": "Próba Duszy",
+		"ACHIEVEMENT_OBTAINARTIFACTWISPONDEATH_DESCRIPTION": "Ukończ Próbę Duszy.",
+
+		"ACHIEVEMENT_COMMANDOFASTFIRSTSTAGECLEAR_NAME": "Komandos: Nadprędkość",
+		"ACHIEVEMENT_COMMANDOFASTFIRSTSTAGECLEAR_DESCRIPTION": "Jako Komandos w pełni naładuj teleporter pierwszego poziomu przed upływem 5 minut.",
+
+		"ACHIEVEMENT_CROCOKILLSCAVENGER_NAME": "Acrid: Niedobre lekarstwo",
+		"ACHIEVEMENT_CROCOKILLSCAVENGER_DESCRIPTION": "Jako Acrid zadaj ostateczny cios Czyścicielowi.",
+
+		"ACHIEVEMENT_HUNTRESSALLGLAIVEBOUNCESKILL_NAME": "Łowczyni: Decydujące Dotknięcie ",
+		"ACHIEVEMENT_HUNTRESSALLGLAIVEBOUNCESKILL_DESCRIPTION": "Jako Łowczyni zadaj śmiertelny cios wszystkimi możliwymi trafieniami pojedynczego glewii.",
+
+		"ACHIEVEMENT_CROCOKILLWEAKENEMIESMILESTONE_NAME": "Acrid: Łatwa Ofiara",
+		"ACHIEVEMENT_CROCOKILLWEAKENEMIESMILESTONE_DESCRIPTION": "Jako Acrid zadaj ostateczny cios łącznie 50 wrogom, którzy mają tylko 1 punkt życia.",
+
+		"ACHIEVEMENT_ENGICLEARTELEPORTERWITHZEROMONSTERS_NAME": "Inżynier: Suma Zerowa",
+		"ACHIEVEMENT_ENGICLEARTELEPORTERWITHZEROMONSTERS_DESCRIPTION": "Jako Inżynier w pełni naładuj teleporter, gdy na poziomie nie ma już żadnych potworów.",
+
+		"ACHIEVEMENT_DIE20TIMES_NAME": "Kocham Umierać!",
+		"ACHIEVEMENT_DIE20TIMES_DESCRIPTION": "Umrzyj 20 razy.",
+
+		"ACHIEVEMENT_COMPLETEMAINENDING_NAME": "Dryfowanie",
+		"ACHIEVEMENT_COMPLETEMAINENDING_DESCRIPTION": "Ucieknij z księżyca.",
+
+		"ACHIEVEMENT_COMPLETEVOIDENDING_NAME": "Wciągnięty w Głębiny",
+		"ACHIEVEMENT_COMPLETEVOIDENDING_DESCRIPTION": "Ucieknij z Planetarium lub ukończ falę 50 w Symulakrum.",
+
+		"ACHIEVEMENT_COMPLETEMAINENDINGHARD_NAME": "Spokój",
+		"ACHIEVEMENT_COMPLETEMAINENDINGHARD_DESCRIPTION": "Ucieknij z księżyca na poziomie trudności Monsun.",
+
+		"ACHIEVEMENT_CAPTAINBUYMEGADRONE_NAME": "Kapitan: Wart Każdego Centa",
+		"ACHIEVEMENT_CAPTAINBUYMEGADRONE_DESCRIPTION": "Jako Kapitan napraw i zrekrutuj prototyp TC-280.",
+
+		"ACHIEVEMENT_CAPTAINVISITSEVERALSTAGES_NAME": "Kapitan: Żądza Przygód",
+		"ACHIEVEMENT_CAPTAINVISITSEVERALSTAGES_DESCRIPTION": "Jako Kapitan odwiedź 10 różnych środowisk podczas jednego przejścia.",
+
+		"ACHIEVEMENT_CAPTAINSUPPLYDROPFINALE_NAME": "Kapitan: Zmiażdżony",
+		"ACHIEVEMENT_CAPTAINSUPPLYDROPFINALE_DESCRIPTION": "Jako Kapitan zabij finałowego bossa używając zasobnika.",
+
+		"ACHIEVEMENT_BANDIT2CONSECUTIVERESET_NAME": "Bandyta: Klasyk",
+		"ACHIEVEMENT_BANDIT2CONSECUTIVERESET_DESCRIPTION": "Jako Bandyta poprawnie użyj 'Zgaś Światła' do zresetowania czasu odnowienia umiejętności 15 razy z rzędu.",
+
+		"ACHIEVEMENT_BANDIT2REVOLVERFINALE_NAME": "Bandyta: Włamanie",
+		"ACHIEVEMENT_BANDIT2REVOLVERFINALE_DESCRIPTION": "Jako Bandyta zabij finałowego bossa używając 'Zgaś Światła'.",
+
+		"ACHIEVEMENT_BANDIT2STACKSUPERBLEED_NAME": "Bandyta: Sadysta",
+		"ACHIEVEMENT_BANDIT2STACKSUPERBLEED_DESCRIPTION": "Jako Bandyta zabij potwora mającego 20 kumulacji Krwotoku.",
+
+		"ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_NAME": "Snajperka: Anihilatorka",
+		"ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_DESCRIPTION": "Jako Snajperka zadaj 1,000,000 obrażeń jednym strzałem.",
+
+		"ACHIEVEMENT_RAILGUNNERCONSECUTIVEWEAKPOINTS_NAME": "Snajperka: Strzelec Wyborowy",
+		"ACHIEVEMENT_RAILGUNNERCONSECUTIVEWEAKPOINTS_DESCRIPTION": "Jako Snajperka wystrzel 30 kolejnych strzałów snajperskich bez spudłowania żadnego słabego punktu.",
+
+		"ACHIEVEMENT_RAILGUNNERAIRBORNEMULTIKILL_NAME": "Snajperka: Sztukmistrzyni",
+		"ACHIEVEMENT_RAILGUNNERAIRBORNEMULTIKILL_DESCRIPTION": "Jako Snajperka zabij jednocześnie 3 wrogów jednym strzałem Superładowania będąc w powietrzu.",
+
+		"ACHIEVEMENT__NAME": "",
+		"ACHIEVEMENT__DESCRIPTION": "",
+
+		"ARTIFACT_GLASS_NAME": "Artefakt Szkła",
+		"ARTIFACT_GLASS_DESCRIPTION": "Sojusznicy zadają 500% obrażeń, ale mają 10% zdrowia.",
+
+		"ARTIFACT_BOMB_NAME": "Artefakt Złości",
+		"ARTIFACT_BOMB_DESCRIPTION": "Wrogowie po śmierci upuszczają kilka wybuchających bomb.",
+
+		"ARTIFACT_ENIGMA_NAME": "Artefakt Tajemnicy",
+		"ARTIFACT_ENIGMA_DESCRIPTION": "Pojawiasz się z losowym elementem ekwipunku, który zmienia się przy każdym użyciu.",
+
+		"ARTIFACT_SACRIFICE_NAME": "Artefakt Ofiary",
+		"ARTIFACT_SACRIFICE_DESCRIPTION": "Potwory po śmierci pozostawiają przedmioty, ale skrzynie nie pojawiają się już w grze.",
+
+		"ARTIFACT_SPIRIT_NAME": "Artefakt Ducha",
+		"ARTIFACT_SPIRIT_DESCRIPTION": "Wszystkie postaci poruszają się szybciej gdy mają mniej zdrowia.",
+
+		"ARTIFACT_RANDOMSURVIVORONRESPAWN_NAME": "Artefakt Metamorfozy",
+		"ARTIFACT_RANDOMSURVIVORONRESPAWN_DESCRIPTION": "Gracze zawsze odradzają się jako losowa postać.",
+
+		"ARTIFACT_WEAKASSKNEES_NAME": "Artefakt Kruchości",
+		"ARTIFACT_WEAKASSKNEES_DESCRIPTION": "Obrażenia od upadku są podwojone i śmiertelne.",
+
+		"ARTIFACT_WISPONDEATH_NAME": "Artefakt Duszy",
+		"ARTIFACT_WISPONDEATH_DESCRIPTION": "Duchy pojawiają się z pokonanych potworów.",
+
+		"ARTIFACT_ELITEONLY_NAME": "Artefakt Honoru",
+		"ARTIFACT_ELITEONLY_DESCRIPTION": "Wrogowie mogą pojawiać się tylko jako elity.",
+
+		"ARTIFACT_SINGLEMONSTERTYPE_NAME": "Artefakt Braterstwa",
+		"ARTIFACT_SINGLEMONSTERTYPE_DESCRIPTION": "Na każdym poziomie pojawiają się potwory tylko jednego typu.",
+
+		"ARTIFACT_MIXENEMY_NAME": "Artefakt Dźwięku",
+		"ARTIFACT_MIXENEMY_DESCRIPTION": "Potwory mogą pojawiać się poza swoimi zwykłymi środowiskami.",
+
+		"ARTIFACT_SHADOWCLONE_NAME": "Artefakt Zemsty",
+		"ARTIFACT_SHADOWCLONE_DESCRIPTION": "Twój nieugięty sobowtór pojawia się co 10 minut.",
+
+		"ARTIFACT_TEAMDEATH_NAME": "Artefakt Śmierci",
+		"ARTIFACT_TEAMDEATH_DESCRIPTION": "Gdy jeden gracz umiera, wszyscy umierają. Włącz tę opcję tylko wtedy, gdy chcesz przetestować swoją współpracę i indywidualne umiejętności.",
+		"ARTIFACT_TEAMDEATH_DEATHMESSAGE": "<style=cDeath><b>Śmierć gracza {0} rozchodzi się falami.</b></style>",
+		"ARTIFACT_TEAMDEATH_DEATHMESSAGE_2P": "<style=cDeath><b>Twoje zejście miało katastrofalne skutki.</b></style>",
+
+		"ARTIFACT_SWARMS_NAME": "Artefakt Roju",
+		"ARTIFACT_SWARMS_DESCRIPTION": "Liczba pojawiających się potworów jest podwojona, ale ich maksymalna ilość zdrowia zostaje zmniejszona o połowę.",
+
+		"ARTIFACT_COMMAND_NAME": "Artefakt Dowództwa",
+		"ARTIFACT_COMMAND_DESCRIPTION": "Wybierz swoje przedmioty.",
+		"ARTIFACT_COMMAND_CUBE_INTERACTION_PROMPT": "Otwórz",
+		"ARTIFACT_COMMAND_INTERACTION_HEADER": "Jakie jest Twoje Dowództwo?",
+		"ARTIFACT_COMMAND_CUBE_WHITE_NAME": "Esencja Dowództwa - Biała",
+		"ARTIFACT_COMMAND_CUBE_GREEN_NAME": "Esencja Dowództwa - Zielona",
+		"ARTIFACT_COMMAND_CUBE_RED_NAME": "Esencja Dowództwa - Czerwona",
+		"ARTIFACT_COMMAND_CUBE_YELLOW_NAME": "Esencja Dowództwa - Żółta",
+		"ARTIFACT_COMMAND_CUBE_ORANGE_NAME": "Esencja Dowództwa - Pomarańczowa",
+		"ARTIFACT_COMMAND_CUBE_BLUE_NAME": "Esencja Dowództwa - Błękitna",
+		"ARTIFACT_COMMAND_CUBE_UNKNOWN_NAME": "Esencja Dowództwa - Nieznana",
+
+		"ARTIFACT_MONSTERTEAMGAINSITEMS_NAME": "Artefakt Ewolucji",
+		"ARTIFACT_MONSTERTEAMGAINSITEMS_DESCRIPTION": "Potwory zyskują przedmioty pomiędzy etapami.",
+
+		"ARTIFACT_FRIENDLYFIRE_NAME": "Artefakt Chaosu",
+		"ARTIFACT_FRIENDLYFIRE_DESCRIPTION": "Ogień bratobójczy jest włączony zarówno dla graczy, jak i potworów.",
+
+		"ARTIFACT_NONE_NAME": "Wyłącz Artefakt",
+		"ARTIFACT_NONE_DESCRIPTION": "Wyłącza wybrany artefakt."
+
+        "NULL_SUBTITLE": "Horda Wielu",
+
+    "DEFAULT_SKIN" : "Domyślna",
+
+    "ELITE_MODIFIER_FIRE": "Płonący {0}",
+    "ELITE_MODIFIER_LIGHTNING": "Przeładowany {0}",
+    "ELITE_MODIFIER_ICE": "Lodowaty {0}",
+    "ELITE_MODIFIER_POISON" : "Malachitowy {0}",
+    "ELITE_MODIFIER_HAUNTED" : "Niebiański {0}",
+    "ELITE_MODIFIER_ECHO" : "Anihilator {0}",
+    "ELITE_MODIFIER_LUNAR" : "Udoskonalony {0}",
+    "ELITE_MODIFIER_EARTH": "Naprawczy {0}",
+    "ELITE_MODIFIER_VOID": "Dotknięty Pustką {0}",
+
+    "BODY_MODIFIER_DOPPELGANGER": "Cień {0}",
+    "BODY_MODIFIER_GUMMYCLONE": "Gumowy {0}",
+    "BODY_MODIFIER_ECHO": "{0} ", 
+    "COMMANDO_BODY_NAME": "Komandos",
+    "COMMANDO_BODY_SUBTITLE" : "Osaczony Rewolwerowiec",
+
+    "COMMANDO_PRIMARY_NAME": "Dwukrotne Uderzenie",
+    "COMMANDO_PRIMARY_DESCRIPTION" : "Szybko strzel do wroga zadając <style=cIsDamage>100% obrażeń</style>.",
+
+    "COMMANDO_SECONDARY_NAME": "Pocisk Fazowy",
+    "COMMANDO_SECONDARY_DESCRIPTION" : "Wystrzel <style=cIsDamage>przebijający</style> pocisk zadający <style=cIsDamage>300% obrażeń</style>. Zadaje <style=cIsDamage>40%</style> więcej obrażeń za każdym razem, gdy przejdzie przez wroga.",
+
+    "COMMANDO_SECONDARY_ALT1_NAME": "Wybuch Fazowy",
+    "COMMANDO_SECONDARY_ALT1_DESCRIPTION" : "Wystrzel dwa pociski bliskiego zasięgu zadające razem <style=cIsDamage>8x200% obrażeń</style>.",
+
+    "COMMANDO_UTILITY_NAME": "Nurkowanie Taktyczne",
+    "COMMANDO_UTILITY_DESCRIPTION" : "<style=cIsUtility>Wykonaj rzut</style> na krótkim dystansie.",
+
+    "COMMANDO_UTILITY_ALT_NAME": "Ślizg Taktyczny",
+    "COMMANDO_UTILITY_ALT_DESCRIPTION" : "<style=cIsUtility>Ślizgaj się</style> po ziemi na krótkim dystansie. Podczas ślizgu możesz <style=cIsDamage>strzelać</style>.",
+
+    "COMMANDO_SPECIAL_NAME": "Ogień Zaporowy",
+    "COMMANDO_SPECIAL_DESCRIPTION" : "<style=cIsDamage>Ogłuszający</style>. Strzelaj wielokrotnie zadając  <style=cIsDamage>100% obrażeń</style> za każdy pocisk. Liczba strzałów rośnie z szybkością ataku.",
+
+    "COMMANDO_SPECIAL_ALT1_NAME": "Granat Odłamkowy",
+    "COMMANDO_SPECIAL_ALT1_DESCRIPTION" : "Rzuć granat, który eksploduje zadając <style=cIsDamage>700% obrażeń</style>. Może przechowywać do 2.",
+
+    "COMMANDO_DESCRIPTION": "Komandos to uniwersalna postać sprawdzająca się we wszystkich sytuacjach gry. <style=cSub>\r\n\r\n< ! > Dwukrotne Uderzenie jest skuteczne zarówno z bliska, jak i z daleka, strzela szybko i aktywuje wiele efektów przedmiotów.\r\n\r\n< ! > Umiejętne użycie Nurkowania Taktycznego jest kluczem do unikania oczywistych ataków.\r\n\r\n< ! > Ogienia Zaporowego można użyć wielokrotnie do ogłuszenia pojedynczego celu lub grupy wrogów.\r\n\r\n< ! > Pociski Fazowe mogą przechodzić przez ściany - wykorzystaj to!\r\n<\/style>\r\n",
+
+    "COMMANDO_SKIN_ALT1_NAME" : "Szerszeń",
+    "COMMANDO_SKIN_ALT2_NAME" : "Helota",
+
+    "COMMANDO_BODY_LORE": "Żołnierz przykucnął, chowając się za osłoną w ostatniej chwili przed eksplozją ściany za jego plecami. Głowa mu pulsowała, mięśnie bolały. Ale teraz nie było czasu na odpoczynek.\r\n\r\nLiczył sekundy. Zamontowane wyrzutnie rakietowe zawsze potrzebowały kilku chwil na przekalibrowanie, a jeśli wykorzystałby ten czas...\r\n\r\nWśród wrzasków walki i bitewnego chaosu, usłyszał ciche kliknięcie - nieprzyjacielska platforma rakietowa przygotowywała się do kolejnego uderzenia. Rozpoznając okazję, żołnierz wyskoczył zza ściany i wystrzelił z pistoletu, trafiając operatora platformy wprost między oczy.\r\n\r\nNapiął ramiona, przygotowując się na odrzut broni: teraz nie było czasu na odpoczynek. Spoglądając na pole bitwy, zauważył jeszcze kilka wrogich platform do rozwalenia - trzeba było zabezpieczyć ich pozycje.\r\n\r\nZanim jednak zdążył ruszyć do swojego oddziału, na wyświetlaczu w hełmie otrzymał powiadomienie.\r\n\r\n<style=cMono>ZOSTAŁEŚ PRZENIESIONY. ZGŁOŚ SIĘ DO DOWÓDZTWA PO NOWE PRZYDZIAŁY.<\/style>\r\n\r\nWygląda na to, że chwila odpoczynku nie przyjdzie szybko.\r\n",
+
+    "MERC_BODY_NAME": "Najemnik",
+    "MERC_BODY_SUBTITLE" : "Wynajęte Ostrze",
+
+    "MERC_PRIMARY_NAME": "Miecz Laserowy",
+    "MERC_PRIMARY_DESCRIPTION" : "<style=cIsUtility>Zwinny</style>. Zamachnij się przed sobą zadając <style=cIsDamage>130% obrażeń</style>. Każdy 3. cios uderza na większy obszar i <style=cIsUtility>Odsłania</style> wrogów.",
+
+    "MERC_SECONDARY_NAME": "Wicher",
+    "MERC_SECONDARY_DESCRIPTION" : "Szybko tnij dwukrotnie w poziomie, zadając <style=cIsDamage>2x200% obrażeń</style>. Jeśli jesteś w powietrzu, zamiast tego tnij w pionie.",
+
+    "MERC_SECONDARY_ALT1_NAME": "Wznoszący Się Grom",
+    "MERC_SECONDARY_ALT1_DESCRIPTION" : "Wyprowadź podcinający cios, zadając <style=cIsDamage>550% obrażeń</style> i wzbij się w powietrze.",
+
+    "MERC_UTILITY_NAME": "Oślepiający Szturm",
+    "MERC_UTILITY_DESCRIPTION" : "<style=cIsDamage>Ogłusza</style>. Rzuć się do przodu, zadając <style=cIsDamage>300% obrażeń</style>.  Jeżeli trafisz w przeciwnika <style=cIsDamage>możesz wykonać kolejny rzut</style>, maksymalnie <style=cIsDamage>3</style> razy.",
+
+    "MERC_UTILITY_ALT1_NAME": "Skupiony Szturm",
+    "MERC_UTILITY_ALT1_DESCRIPTION" : "<style=cIsDamage>Ogłusza</style>. Rzuć się do przodu, zadając <style=cIsDamage>700% obrażeń</style> i <style=cIsUtility>Odsłaniając</style>  wrogów po <style=cIsUtility>1 sekundzie</style>.",
+
+    "MERC_SPECIAL_NAME": "Wypatroszenie",
+    "MERC_SPECIAL_DESCRIPTION" : "Celujesz w najbliższego wroga, wielokrotnie go atakując zadając  <style=cIsDamage>110% obrażeń</style>. <style=cIsUtility>Nie możesz zostać trafiony w trakcie trwania tej umiejętności</style>.",
+
+    "MERC_SPECIAL_ALT1_NAME": "Rozcinające Wiatry",
+    "MERC_SPECIAL_ALT1_DESCRIPTION" : "Wystrzel huragan ostrzy atakujący do <style=cIsDamage>3</style> wrogów za <style=cIsDamage>8x100% obrażeń</style>. Ostatni cios <style=cIsUtility>Odsłania</style> wrogów.",
+
+    "MERC_BODY_LORE": "Europejski szlachcic przechadzał się po swojej komnacie, nerwowo zerkając na zabytkowy zegar zdobiący ścianę. Tik-tak, tik-tak.\r\n\r\n
+    Zamieszki przybierały na sile i nic nie wskazywało na to, by miały zwolnić. Kukły płonęły, posągi obalano, a niezliczeni politycy odwrócili się od niegdyś prestiżowej szlachty Europy. Ludzie mieli już dość. Tik-tak. Tik-tak.\r\n\r\n To była tylko kwestia czasu\u2013 albo szlachcic musiałby uciekać, albo tłuszcza w końcu wdarłaby się do pałacu. Nawet jego ochroniarze zaczynali wykazywać oznaki zdrady. Szlachcic pomyślał, że czasu jest właśnie to, czego mu brakuje. Antyczny zegar tykał dalej, zatruwając umysł szlachcica\u2019. Odwracał jego uwagę - wystarczająco długo. Tik-tak. Tik-tak.\r\n\r\n I gdy stary zegar wciąż tykał, zwłoki szlachcica uderzyły o podłogę. Najemnik schował ostrze. Jego kroki były niesłyszalne, gdy opuszczał pałac\u2013 zamaskowane rytmicznym tykaniem zegara. Tik-tak. Tik-tak.",
+
+    "MERC_DESCRIPTION" : "Najemnik to doświadczony wojownik walczący wręcz, który używa swoich licznych uników, by wpleść się w walkę i szybko ją opuścić. <style=cSub>\r\n\r\n< ! > Powietrzny wariant Wicher może być użyty jako dodatkowy skok w podbramkowej sytuacji.\r\n\r\n< ! > Uzyskiwanie kolejnych wykonań Oślepiającego Szturmu jest kluczowe zarówno dla zwiększenia przeżywalności, jak i zadawanych obrażeń. Jednak nie zawsze należy dążyć do ciągłych rzutów - może to prowadzić do śmierci.\r\n\r\n< ! > Pamiętaj, że Wypatroszenie to niezwykle potężne narzędzie obronne do unikania oczywistych ataków.\r\n\r\n< ! > Miecz Laserowy zadaje mnóstwo obrażeń na dużym obszarze, co jest unikalne dla podstawowego ataku.\r\n<\/style>\r\n",
+
+    "MERC_PASSIVE_NAME" : "Cybernetyczne Udoskonalenia",
+    "MERC_PASSIVE_DESCRIPTION" : "Najemnik może <style=cIsUtility>skoczyć dwa razy</style>.",
+
+    "MERC_SKIN_ALT1_NAME" : "Oni", 
+
+    "ENGI_BODY_NAME": "Inżynier", 
+    "ENGI_BODY_SUBTITLE" : "Ekspert fortyfikacji", 
+
+    "ENGI_PRIMARY_NAME": "Odbijające się Granaty",
+    "ENGI_PRIMARY_DESCRIPTION" : "Ładuje do <style=cIsDamage>8</style> granatów, które zadają po <style=cIsDamage>100% obrażeń</style> każdy.",
+
+    "ENGI_SECONDARY_NAME": "Miny Ciśnieniowe", 
+    "ENGI_SECONDARY_DESCRIPTION" : "Umieszcza dwufazową minę zadającą  <style=cIsDamage>300% obrażeń </style>, lub <style=cIsDamage>900% obrażeń </style> po pełnym uzbrojeniu. Można umieścić do 4 min.",
+
+    "ENGI_SPIDERMINE_NAME": "Miny Robotyczne",
+    "ENGI_SPIDERMINE_DESCRIPTION": "Stawia minę-robota zadającą <style=cIsDamage>600% obrażeń</style> gdy przeciwnik znajdzie się w pobliżu. Można umieścić do 4 min.",
+
+    "ENGI_UTILITY_NAME": "Osłona Bąblowa",
+    "ENGI_UTILITY_DESCRIPTION" : "Stawia <style=cIsUtility>nieprzeniknioną osłonę</style>, która blokuje wszystkie nadchodzące obrażenia.",
+
+    "ENGI_SPECIAL_NAME": "Działo Automatyczne TR12 Gauss",
+    "ENGI_SPECIAL_DESCRIPTION" : "Umieszcza wieżyczkę, która <style=cIsUtility>dziedziczy wszystkie twoje przedmioty</style>. Strzela pociskami zadającymi <style=cIsDamage>100% obrażeń</style>. Można umieścić do 2 wieżyczek.",
+
+    "ENGI_SPECIAL_ALT1_NAME": "Wieżyczka Laserowa TR58",
+    "ENGI_SPECIAL_ALT1_DESCRIPTION" : "Umieszcza <style=cIsUtility>mobilną</style> wieżyczkę, która <style=cIsUtility>dziedziczy wszystkie twoje przedmioty</style>. Strzela laserem zadającym <style=cIsDamage>200% obrażeń co sekundę</style>, który <style=cIsUtility>spowlania wrogów</style>.  Można umieścić do 2 wieżyczek.", 
+
+    "ENGI_SKILL_HARPOON_NAME": "Harpuny Termiczne",
+    "ENGI_SKILL_HARPOON_DESCRIPTION": "Wchodzi w <style=cIsUtility>tryb namierzania celów</style> i wystrzeliwuje samonaprowadzające się harpune, które zadają <style=cIsDamage>500% obrażeń</style> każdy. Można przechować do 4 harpunów.", 
+
+    "ENGI_SKILL_HARPOON_FLAVOR_FULLYARMED" : "CELE NAMIERZONE - GOTOWY DO STRZAŁU",
+
+    "ENGI_SKILL_PAINT_NAME" : "Namierz Cel", 
+    "ENGI_SKILL_PAINT_DESCRIPTION" : "Trzymaj wciśnięty, by namierzyć cele dla Harpunów Termicznych.",
+
+    "ENGI_DESCRIPTION": "Inżynier jest wyjątkową klasą, która wymaga planowania i ustawienia się, aby odnieść sukces.<style=cSub>\r\n\r\n< ! > Umieszczanie min z wyprzedzeniem może pomóc w osłanianiu flank i ciasnych korytarzy. \r\n\r\n< ! > Inżynier jest silnie uzależniony od swoich wieżyczek - pamiętaj, aby umieszczać je w miejscach jednocześnie bezpiecznych i korzystnych w walce.\r\n \r\n< ! > Osłona Bąblowa może być potężnym narzędziem przeciwko silnym i zapowiedzianym atakom bossów -  może również chronić twoich sojuszników!\r\n\r\n< ! > Odbijające się granaty, choć potężne, mogą mieć problem z trafieniem mobilnych przeciwników. Staraj się, aby twoje wieżyczki pozostały przy życiu, by radzić sobie z szybkimi lub latającymi potworami.\r\n<\/style>\r\n",
+
+    "ENGI_SKIN_ALT1_NAME" : "Saper", 
+    "ENGI_BODY_LORE": "\u201CPrzyszłość jest teraz! Ulepszenia cybernetyczne \u2013 kup je tanio i zostań osobą, którą zawsze marzyłeś być!\u201D \r\n\r\nUlepszenia cybernetyczne były ostatnio w modzie, zwłaszcza odkąd zostały udostępnione do użytku publicznego. Początkowo tylko projekty wojskowe i komercyjne mogły licencjonować procedury niezbędne do zainstalowania implantów cybernetycznych. Ale te dni dawno minęły, a koncepcja \u201Cnowego człowieka\u201D szturmem podbijała galaktykę. \r\n\r\n Oczywiście, z każdym ruchem pojawiała się reakcja.  Co ze świętością ludzkiego ciała? Co z dumą z własnej biologii? Takie argumenty były zazwyczaj wyśmiewane. \u201CIdź z duchem czasu\u201D, mówili ludzie. Ale jeden człowiek spośród wielu wyróżnił się, zdobywając uwagę publiczną i tworząc kontrruch antycybernetyczny.\r\n\r\nTen człowiek postulował, że ludzkość chodzi po linie - kiedy kończą się cybernetyczne udoskonalenia, a gdzie zaczyna się człowiek? Czy ludzkość skończy jako gatunek maszyn, czy też wykorzystamy naszą nową technologię tylko do polepszenia siebie samych - nie tracąc z oczu tego, co czyni nas ludźmi? Słowa tego człowieka odbiły się echem w całej galaktyce, pozostawiając po sobie ślad rewolucji.\r\n", 
+
+    "HUNTRESS_BODY_NAME": "Łowczyni",
+    "HUNTRESS_BODY_SUBTITLE" : "Sędzia, Ława Przysięgłych, Kat",
+
+    "HUNTRESS_PRIMARY_NAME": "Ostrzał",
+    "HUNTRESS_PRIMARY_DESCRIPTION" : "<style=cIsUtility>Zwinna</style>. Szybko wystrzel samonaprowadzającą strzałę zadającą <style=cIsDamage>150% obrażeń</style>.",
+
+    "HUNTRESS_PRIMARY_ALT_NAME": "Fala strzał", 
+    "HUNTRESS_PRIMARY_ALT_DESCRIPTION" : "<style=cIsUtility>Zwinna</style>. Przygotuj salwę <style=cIsDamage>3</style> samonaprowadzających strzał zadających <style=cIsDamage>3x100% obrażeń</style>.  Obrażenia krytyczne zwiększają ilość strzał do <style=cIsDamage>6</style>.",
+
+    "HUNTRESS_SECONDARY_NAME": "Laserowy Glewia",
+    "HUNTRESS_SECONDARY_DESCRIPTION" : "Rzuć samonaprowadzającą glewią, która odbija się do <style=cIsDamage>6</style> razy zadając <style=cIsDamage>250% obrażeń</style>. Obrażenia rosną o <style=cIsDamage>10%</style> z każdym odbiciem.", 
+
+    "HUNTRESS_UTILITY_NAME": "Błysk",
+    "HUNTRESS_UTILITY_DESCRIPTION" : "<style=cIsUtility>Zniknij</style> i <style=cIsUtility>teleportuj się</style> do przodu.", 
+
+    "HUNTRESS_UTILITY_ALT1_NAME": "Fazowy Błysk",
+    "HUNTRESS_UTILITY_ALT1_DESCRIPTION" : "<style=cIsUtility>Zwinna</style>. <style=cIsUtility>Zniknij</style> i <style=cIsUtility>teleportuj się</style> do przodu. Może przechowywać do <style=cIsUtility>3</style> ładunków.",
+
+    "HUNTRESS_SPECIAL_NAME": "Deszcz Strzał",
+    "HUNTRESS_SPECIAL_DESCRIPTION" : "<style=cIsUtility>Teleportuj się</style> w przestworza.  Oznacz obszar, aby zalać go deszczem strzał <style=cIsUtility>spowlaniających</style> wszystkich wrogów i zadających <style=cIsDamage>225% obrażeń na sekundę</style>.",
+
+    "HUNTRESS_SPECIAL_ALT1_NAME": "Balista",
+    "HUNTRESS_SPECIAL_ALT1_DESCRIPTION" : "<style=cIsUtility>Teleportuj się</style> do tyłu w powietrze. Wystrzel do <style=cIsDamage>3</style> pocisków energii zadających  <style=cIsDamage>3x900% obrażeń</style>.",
+
+    "HUNTRESS_DESCRIPTION": "Łowczyni to bardzo mobilna, ale też delikatna postać z wysokimi obrażeniami. <style=cSub>\r\n\r\n< ! > Pamiętaj, że Ostrzał może być użyty podczas biegu, pozwalając na poruszanie się z dużą prędkością przy jednoczesnym eliminowaniu zagrożeń.\r\n\r\n< ! > Błysk i Deszcz Strzał mogą być użyte, żeby przejść na lepsza pozycję albo jako unik w trudnej sytuacji.\r\n\r\n< ! > Laserowa Glewia szybko zdejmie pary twardych celów odbijając się między nimi. \r\n\r\n< ! > Deszcz Strzał ma bardzo wysokie obrażenia i spowalnia wrogów wewnątrz pola rażenia, czyniąc go świetną umiejętnością na silne i szybkie cele.<\/style>\r\n",
+
+    "HUNTRESS_SKIN_ALT1_NAME" : "Arktyka", 
+
+    "HUNTRESS_BODY_LORE" : "Z gracją zeskoczyła z dachu budynku, spadając do alejki poniżej. Przewrót, przeskok przez rozbite okno i już była w opuszczonym magazynie. Lata nawigowania po ulicach trzymały jej ciało w formie - a umysł ostrym.\r\n\r\nWstrzymała oddech, gdy przebiegała obok policja szukając złodziejki klejnotu. Może tak utknie tutaj na parę godzin - ale była do tego przyzwyczajona.\r\n\r\nAmiera była niesławna w tym mieście – a za niesławę, zdobyła ogromną nagrodę. Czyż to nie było trzydziesi tysięcy kredytów teraz? Czterdzieści? Lekko się uśmiechnęła. Nagroda była niczym w porównaniu do skarbu, który trzymała w rękach. Ten klejnot mógł się sprzedać za milion kredytów - nie, więcej! Dziesiątki milionów. To był jeden z ostatnich pryzmatycznych ametystów pozostałych na świecie. Ścisnęła kamień bliżej serca.\r\n\r\nPolicja wydawała się tym razem bardziej wytrwała. Amierze to pasowało - wszystko, co musiała zrobić, to poczekać. Zmniejszyła częstotliwość oddechów – może to potrwać kilka dni.\r\n\r\nPrzynajmniej tak sobie myślała – zanim fala laserowych strzał przeszyła jej mózg, zabijając błyskawicznie.\r\n\r\n",
+
+	//Reszta//
+
+
+
+	//reszta//
+
+	"GAME_TITLE": "Gra Kosmiczna 2017", 
+	"DEFAULT_FONT": "TmpFonts/Bombardier/tmpBombDropShadow", 
+	"LOREM" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", 
+	"TITLE_PROFILE": "Profil: {0}",
+	"TITLE_PROFILE_DESC" : "Zmień lub stwórz nowe profile.",
+	"TITLE_SINGLEPLAYER": "Tryb Solo",
+	"TITLE_SINGLEPLAYER_DESC" : "Rozpocznij grę w pojedynkę.",
+	"TITLE_MULTIPLAYER": "Tryb Wieloosobowy",
+	"TITLE_MULTIPLAYER_DESC" : "Znajdź lub zaproś innych graczy.",
+	"TITLE_WEEKLY" : "Próby Pryzmatyczne", 
+	"TITLE_WEEKLY_DESC" : "Rywalizuj z innymi graczami w wyzwaniu o najlepszy czas.",
+	"TITLE_SETTINGS": "Ustawienia",
+	"TITLE_SETTINGS_DESC" : "Modyfikuj sterowanie, opcje graficzne i inne.",
+	"TITLE_LOGS": "Dziennik", 
+	"TITLE_LOGS_DESC" : "Odkrywaj fabułę, informacje o postaciach, i jak odblokować nową zawartość.", 
+	"TITLE_UNLOCKABLES": "Wyzwania", 
+	"TITLE_MORE": "Muzyka i więcej",
+	"TITLE_MORE_DESC" : "Dołącz do społeczności, dowiedz się o grze i nie tylko!",
+	"TITLE_SIGNUP": "Lista Mailingowa",
+	"TITLE_SIGNUP_DESC": "Zapisz się, aby otrzymywać przyszłe aktualizacje!",
+	"TITLE_EXIT": "Wyjdź do pulpitu",
+	"TITLE_EXIT_DESC" : "Zamknij Risk of Rain 2.",
+	"TITLE_EXTRAGAMEMODE" : "Alternatywne Tryby Gry",
+	"TITLE_EXTRAGAMEMODE_DESC" : "Graj w inne tryby w Risk of Rain 2, takie jak Próby Pryzmatyczne i Zaćmienie.",
+	"TITLE_ECLIPSE" : "Zaćmienie",
+	"TITLE_ECLIPSE_DESC" : "Zaawansowany tryb, w którym trudność rośnie z każdym pokonaniem gry.",
+	"TITLE_INFINITETOWER" : "Symulakrum",
+	"TITLE_INFINITETOWER_DESC" : "Tryb areny falowej rozgrywającej się wewnątrz symulacji Pustki.",
+
+	"TITLE_MULTIPLAYER_QUICKPLAY_START": "Dołącz do szybkiej gry",
+	"TITLE_MULTIPLAYER_QUICKPLAY_STOP": "Opuść szybką grę",
+	"TITLE_MULTIPLAYER_HOST": "Zacznij prywatną grę",
+	"TITLE_MULTIPLAYER_JOIN": "Dołącz używając ID lobby",
+	"TITLE_MULTIPLAYER_INVITE": "Zaproś znajomych", 
+	"TITLE_MULTIPLAYER_RETURN": "Wróć", 
+	"TITLE_MULTIPLAYER_FIND_GAME": "Dołącz do gry",
+	"TITLE_MULTIPLAYER_HOST_GAME": "Stwórz grę", 
+	"MORE_MUSIC" : "MUZYKA",
+	"MORE_MUSIC_DESC" : "Witaj! Jestem Chris, kompozytor ścieżki dźwiękowej. Możesz mnie kojarzyć z pierwszego Risk of Rain lub kawiarni w Twojej okolicy. Pracuję nad muzyką do ROR2 od czterech lat i była to ciężka praca. Ale satysfakcjonująca, gdyż jestem dumny z tego co stworzyłem.\r\nMam nadzieję, że Ci się spodoba!\r\n\r\nJeśli chcesz śledzić co się u mnie dzieje, obserwuj mnie na Twitterze i Instagramie (oba @AstronautDown) oraz zajrzyj na nasz serwer Discord!",
+	"MORE_MUSIC_BUTTON" : "ZABIERZ MNIE TAM!",
+	"MORE_CONTACT" : "KONTAKT",
+	"MORE_CONTACT_DESC" : "Obserwuj nas w mediach społecznościowych dla najnowszych aktualizacji i wiadomości o Risk of Rain 2!",
+	"MORE_LICENSE" : "LICENCJE",
+	"MORE_LICENSE_DESC" : "Copyright (C) 2012 - 2022 Hopoo Games, LLC. Wszelkie prawa zastrzeżone. \r\n\r\nStworzono z Unity. Unity jest znakiem handlowym Unity Technologies lub jej filii w USA i innych krajach. Wszelkie prawa zastrzeżone. \r\n\r\nOparte na Wwise (C) 2006 - 2022 Audiokinetic Inc. Wszelkie prawa zastrzeżone.\r\n\r\nInne znaki handlowe należą do ich odpowiednich właścicieli.",
+	"DESC_MULTIPLAYER_QUICKPLAY": "Automatyczne dołączanie do innych graczy.",
+	"DESC_MULTIPLAYER_HOST": "Hostuj grę z udziałem lokalnych i sieciowych graczy (1-4).",
+	"DESC_MULTIPLAYER_JOIN": "Spróbuj dołączyć do gry używając ID widniejącego w schowku.",
+	"DESC_MULTIPLAYER_INVITE": "Zaproś znajomych z listy Steam do Twojego lobby.",
+	"TITLE_WEEKLY_START" : "Rozpocznij Próby Pryzmatyczne",
+	"WEEKLY_RUN_NO_ENTRY" : "Ukończ Próbę Pryzmatyczną, aby zobaczyć czasy innych graczy.",
+	"WEEKLY_RUN_NEXT_CYCLE_COUNTDOWN_FORMAT" : "Próby Pryzmatyczne - Następne wyzwanie za: {0:00}:{1:00}:{2:00}",
+	"WEEKLY_RUN_DESCRIPTION" : "<style=cWorldEvent>'Próby Pryzmatyczne'</style> pozwalają rywalizować z innymi graczami o najlepszy czas na tablicy wyników, w identycznym dla wszystkich środowisku.\n\nAby ukończyć <style=cWorldEvent>Próbę</style>, rozbij <style=cWorldEvent>Kryształy Czasu</style> aby zaliczyć dwa poziomy, tak szybko jak potrafisz.\n\n<style=cStack><i>Top 10% graczy dostanie nagrodę - póki co dosłownie nic.</i></style>",
+	"WEEKLY_RUN_RANK" : "Ranga",
+	"WEEKLY_RUN_NAME" : "Nazwa",
+	"WEEKLY_RUN_TIME" : "Czas",
+	"CHARSELECT_RETURN": "Wróć",
+	"DIFFICULTY_EASY_NAME": "Mżawka", 
+	"DIFFICULTY_EASY_DESCRIPTION": "Obniżona trudność dla nowicjuszy. Zamiast płaczu i zgrzytania zębów, są chichoty i łaskotanie.\n\n<style=cStack>>Regeneracja Zdrowia: <style=cIsHealing>+50%</style> \n>Redukcja Obrażeń: <style=cIsHealing>+38%</style> \n>Skalowanie Trudności: <style=cIsHealing>-50%</style></style>",
+	"DIFFICULTY_NORMAL_NAME": "Ulewa",
+	"DIFFICULTY_NORMAL_DESCRIPTION": "Tak gra powinna być rozgrywana! Przetestuj swoje umiejętności przeciw groźnym wrogom.", 
+	"DIFFICULTY_HARD_NAME": "Monsun",
+	"DIFFICULTY_HARD_DESCRIPTION": "For hardcore players. Every bend introduces pain and horrors of the planet. You will die.<style=cStack>\n\n>Player Health Regeneration: <style=cIsHealth>-40%</style> \n>Difficulty Scaling: <style=cIsHealth>+50%</style></style>",
+	
+	"DIFFICULTY_HARD_DESCRIPTION": "Dla zaawansowanych graczy. Niebezpieczeństwo czyha na każdym rogu. Przygotuj się na śmierć. <style=cStack>\n\n>Regeneracja Zdrowia: <style=cIsHealth>-40%</style> \n>Skalowanie Trudności: <style=cIsHealth>+50%</style></style>",
+
+	"USER_PROFILE_DELETE_HEADER": "Usuń Profil",
+	"USER_PROFILE_DELETE_DESCRIPTION": "Jesteś pewien, że chcesz usunąć profil \"<color=\"orange\">{0}</color>\"? Usunięcie profilu jest nieodwracalne, a wszelkie postępy, statystyki, ustawienia, i  konfiguracje sterowania zostaną <style=cDeath>utracone na zawsze</style>.",
+	"USER_PROFILE_DELETE_YES": "Tak, jestem pewien!",
+	"USER_PROFILE_DELETE_NO": "Jednak nie...",
+
+	"SUBMENU_PROFILE" : "Profil",
+	"SUBMENU_SELECT" : "Wybierz",
+	"SUBMENU_BACK": "Wróć",
+	"SUBMENU_ACCEPT" : "Akceptuj",
+	"SUBMENU_SCROLL" : "Przewiń",
+	"SUBMENU_DELETE" : "Usuń",
+	"SUBMENU_QUIT" : "Wyjdź",
+	"SUBMENU_SUBMENU_SELECT" : "Zmień",
+
+	"ACHIEVEMENTS_SCREEN_TITLE": "Wyzwania",
+	"ACHIEVEMENT_CARD_REWARD_FORMAT": "Nagroda: {0}",
+	"ACHIEVEMENT_CARD_PREREQ_FORMAT" : "Wymagane ukończenie: {0}",
+	"CHAT_KEYBIND_TIP": "Wciśnij Enter aby rozmawiać.",
+
+	"GAME_RESULT_LOST": "Porażka!",
+	"GAME_RESULT_WON": "Zwycięstwo!", 
+	"GAME_RESULT_UNKNOWN": "Nieznany Los..",
+
+	"UNIDENTIFIED" : "???",
+	"UNIDENTIFIED_DESCRIPTION" : "Nie spełniasz jeszcze wymagań tego wyzwania.",
+	"UNIDENTIFIED_KILLER_NAME" : "Planeta",
+	"DESCRIPTION_PREFIX_FORMAT" : "Opis:\n{0}",
+	"NOTES_PREFIX_FORMAT" : "Notatki:\n<style=cSub><size=80%>{0}</size></style>",
+
+	"GENERIC_PREFIX_FOUND" : "Znaleziono: <style=cEvent>{0}</style>",
+	"GENERIC_PREFIX_WINPERCENTAGE" : "Procent Wygranych: <style=cEvent>{0}%</style>",
+	"BODY_HEALTH_FORMAT" : "Maks. Zdrowie: {0}",
+	"BODY_DAMAGE_FORMAT" : "Obrażenia: {0}",
+	"BODY_MOVESPEED_FORMAT" : "Prędkość: {0} m/s",
+	"BODY_ARMOR_FORMAT" : "Pancerz: {0}",
+	"BODY_REGEN_FORMAT" : "Regeneracja Zdrowia: {0} pkt. zdrowia/s", 
+
+	"ITEM_PREFIX_STACKCOUNT" : "Najwyższa Liczba Kumulacji: <style=cEvent>x{0}</style>",
+	"EQUIPMENT_PREFIX_COOLDOWN" : "Czas Odnowienia: <style=cIsUtility>{0}s</style>",
+	"EQUIPMENT_PREFIX_USECOUNT" : "Liczba Aktywacji: <style=cEvent>{0}</style>",
+	"EQUIPMENT_PREFIX_TOTALTIMEHELD" : "Całkowity Czas Użycia: <style=cEvent>{0}</style>",
+	"MONSTER_PREFIX_KILLED" : "Zabitych: <style=cEvent>{0}</style>",
+	"MONSTER_PREFIX_ELITESKILLED" : "Zabitych Elit: <style=cEvent>{0}</style>",
+	"MONSTER_PREFIX_DEATH" : "Zabity przez: <style=cEvent>{0}</style>",
+
+	"STAGE_PREFIX_TOTALTIMESVISITED" : "Liczba Odwiedzin: <style=cEvent>{0}</style>",
+	"STAGE_PREFIX_TOTALTIMESCLEARED" : "Liczba Ukończeń: <style=cEvent>{0}</style>",
+	"STAGE_PREFIX_STAGECOMPLETIONPERCENTAGE" : "Procent Ukończeń: <style=cEvent>{0}%</style>",
+
+	"SURVIVOR_PREFIX_LONGESTRUN" : "Najdłuższa Próba: <style=cEvent>{0}</style>",
+	"SURVIVOR_PREFIX_TIMESPICKED" : "Liczba Wybrań: <style=cEvent>{0}</style>",
+	"SURVIVOR_PREFIX_PICKPERCENTAGE" : "Procent Wybrań: <style=cEvent>{0:#00.00}%</style>",
+
+	"BODY_STATS_FORMAT" : "{0} <style=cStack>(+{1} co poziom)</style>", 
+
+	"DIALOG_OPTION_YES" : "Tak",
+	"DIALOG_OPTION_NO" : "Nie",
+	"OK" : "OK",
+	"CANCEL" : "Anuluj",
+
+	"PLAYER_NAME_TOOLTIP_FORMAT" : "Gracz: {0}",
+	"PLAYER_NAME_DISCONNECTED" : "Rozłączony Gracz",
+	"PLAYER_NAME_UNAVAILABLE" : "???",
+
+	"DISCONNECTED" : "Rozłączono",
+	"KICK_REASON_UNSPECIFIED" : "Nie podano powodu.",
+	"KICK_REASON_SERVERSHUTDOWN" : "Gracz będący hostem zakończył grę.",
+	"KICK_REASON_TIMEOUT" : "Upłynął limit czasu.",
+	"KICK_REASON_KICK" : "Wyrzucono z serwera.",
+	"KICK_REASON_BAN" : "Zbanowano na serwerze.",
+	"KICK_REASON_BADPASSWORD" : "Niepoprawne hasło.",
+	"KICK_REASON_BADVERSION" : "Twoja wersja gry różni się od wersji serwera.\nTwoja={0}\nSerwera={1}",
+	"KICK_REASON_SERVERFULL" : "Serwer jest pełny.",
+	"KICK_REASON_ACCOUNT_ALREADY_ON_SERVER" : "Twoje konto jest już używane na tym serwerze.",
+	"KICK_REASON_MALFORMED_AUTH_DATA" : "Twoje żądanie dołączenia do serwera było niepoprawne.", 
+	"KICK_REASON_STEAMWORKS_AUTH_FAILURE" : "Autentykacja Steamworks nie powiodła się lub została odwołana: {0}",
+	"KICK_REASON_MOD_MISMATCH" : "Twoje mody różnią się od modów serwera. Rozgrywki nie mogą się komunikować.\n\n== Niekompatybilne Mody ==\n{0}\n\n== Wymagane Mody ==\n{1}\n", 
+
+	"LEADERBOARDS" : "Tabele Wyników",
+	"LEADERBOARDS_GLOBAL" : "GLOBALNE", 
+	"LEADERBOARDS_FRIENDS" : "ZNAJOMI",
+
+	"PROFILE_TITLE" : "Wybierz Profil",
+	"PROFILE_CREATE_NEW" : "Stwórz Profil",
+	"PROFILE_ENTER" : "Wejdź",
+	"PROFILE_SELECT" : "Wybierz",
+	"PROFILE_DEL" : "Usuń", 
+	"PROFILE_DELETE" : "Usuń", 
+	"PROFILE_CREATE_PROFILE" : "Stwórz Profil",
+	"PROFILE_ADD" : "Dodaj", 
+
+	"PAUSE_RESUME" : "Wznów",
+	"PAUSE_SETTINGS" : "Ustawienia", 
+	"PAUSE_QUIT_TO_MENU" : "Wyjdź do Menu",
+	"PAUSE_QUIT_TO_DESKTOP" : "Wyjdź do Pulpitu",
+
+	"SPECTATING_NAME_FORMAT" : "Obserwujesz: {0}",
+
+	"QUIT_RUN_CONFIRM_DIALOG_TITLE": "Zakończyć Próbę?",
+	"QUIT_RUN_CONFIRM_DIALOG_BODY_SINGLEPLAYER": "Jesteś pewny, że chcesz zakończyć tę próbę?",
+	"QUIT_RUN_CONFIRM_DIALOG_BODY_CLIENT": "Jesteś pewny, że chcesz opuścić tę próbę? Zostawisz członków swojej drużyny.",
+	"QUIT_RUN_CONFIRM_DIALOG_BODY_HOST": "Jesteś hostem tej gry. Jej zakończenie <style=cDeath>spowoduje jej koniec dla wszystkich graczy</style>. Jesteś pewny, że chcesz wyjść?",
+
+	"CONTROLLER_DISCONNECTED_DIALOG_TITLE" : "Kontroler Rozłączony",
+	"CONTROLLER_DISCONNECTED_DIALOG_BODY" : "Kontroler został rozłączony.", 
+
+	"STARTUP_FAILURE_DIALOG_TITLE": "Błąd Uruchamiania", 
+
+	"MSVCR_2015_BAD_INSTALL_DIALOG_BODY": "Gra nie mogła załadować niezbędnej biblioteki z powodu problemu z instalacją Microsoft Visual C++ 2015 Redistributable (x64). Przycisk poniżej otworzy stronę pobierania Microsoft w Twojej przeglądarce. Jeśli instalacja się nie powiedzie, ponieważ pakiet jest już zainstalowany,  <i>musisz go odinstalować</i> i spróbować ponownie. Ten błąd występuje także, gdy posiadasz nowsze wersje tego pakietu (np. 2017, 2019), które uniemożliwiają zainstalowanie wersji z 2015.\n\nTen program zamknie się po zamknięciu tego komunikatu.",
+	"MSVCR_2015_BAD_INSTALL_DIALOG_DOWNLOAD_BUTTON": "Pobierz Redistributable",
+
+	"ARENA_HUD_MONSTERS_LABEL": "Potwory", 
+	"ARENA_HUD_MONSTER_ITEMS_LABEL": "Przedmioty Potworów",
+
+	"IMMUNE_TO_DAMAGE_HITMARKER": "ODPORNOŚĆ",
+	"BLOCKED_DAMAGE_HITMARKER": "BLOK!", 
+	"EXTRALIFE_REVIVED_EFFECT": "Wskrzeszony!", 
+	"EXTRALIFEVOID_REVIVED_EFFECT": "Wskrzeszony..?",
+
+	"SCOREBOARD_HEADER_PLAYERS": "Gracze", 
+	"SCOREBOARD_HEADER_ITEMS": "Przedmioty",
+	"SCOREBOARD_HEADER_EQUIPMENT": "Ekwipunek",
+
+	"HUD_LEVEL_PREFIX": "Poziom:",
+
+	"LANGUAGE_PLATFORM": "Domyślny ({0})",
+
+	"CUTSCENE_SKIP": "Pomiń",
+
+	"PERCENT_FORMAT": "<nobr>{0:0.0%}</nobr>", 
+	"PERCENT_FORMAT_PARENTHESES": "<nobr>({0:0.0%})</nobr>",
+
+	"EXPANSION_PURCHASED_REQUIRED_FORMAT" : "Wymaga zakupu \"{0}\".", 
+	"EXPANSION_ENABLED_REQUIRED_FORMAT" : "Wymaga włączenia \"{0}\".",
+
+	"FIRST_TIME_CROSSPLAY_POPUP_HEADER" : "Przybycie nowych ocalałych!",
+	"FIRST_TIME_CROSSPLAY_POPUP_DESCRIPTION" : "Z radością zapraszamy nowych ocalałych na Petrichor V! Gra Risk of Rain 2 wspiera rozgrywkę sieciową pomiędzy wszystkimi użytkownikami PC!\n\nAby aktywować rozgrywkę sieciową, kliknij przycisk poniżej lub w innym momencie wejdź w Ustawienia > Rozgrywka (będzie wymagać ponownego uruchomienia gry)!\n\nAby uzyskać więcej informacji lub wsparcia, kliknij przycisk poniżej.",
+	"FIRST_TIME_CROSSPLAY_POPUP_DISABLE_CROSSPLAY" : "Aktywuj rozgrywkę sieciową", 
+	"FIRST_TIME_CROSSPLAY_POPUP_INFO" : "Więcej informacji", 
+
+	"SIGNUP_TITLE" : "Zapisz się na listę mailingową Hopoo Games!",
+	"SIGNUP_DESC" : "Otrzymuj najnowsze wieści prosto do swojej skrzynki!",
+	"SIGNUP_SUBMIT" : "Wyślij", 
+	"SIGNUP_WAIT" : "Wysyłanie...",
+	"SIGNUP_SUCCESS" : "Dziękujemy!",
+	"SIGNUP_FAILURE" : "Błąd. Spróbuj ponownie?",
+
+
+	}
+}
