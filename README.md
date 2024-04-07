@@ -33,7 +33,7 @@
 
 
 
-```bash
+```
 Pobierz folder PL z repo i przenieś go do
 
 Risk of Rain 2\Risk of Rain 2_Data\StreamingAssets\Language
