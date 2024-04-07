@@ -10,7 +10,7 @@
 		"ACHIEVEMENT_ATTACKSPEED_DESCRIPTION": "Osiągnij +200% prędkości ataku.",
 
 		"ACHIEVEMENT_STAYALIVE1_NAME": "Samotny ocalały",
-		"ACHIEVEMENT_STAYALIVE1_DESCRIPTION": "Przeżyj 30 kolejnych minut.",
+		"ACHIEVEMENT_STAYALIVE1_DESCRIPTION": "Przeżyj 30 minut.",
 
 		"ACHIEVEMENT_HARDHITTER_NAME": "Macho",
 		"ACHIEVEMENT_HARDHITTER_DESCRIPTION": "Zadaj 5000 obrażeń jednym strzałem.",
@@ -34,7 +34,7 @@
 		"ACHIEVEMENT_DIE5TIMES_DESCRIPTION": "Umrzyj 5 razy.",
 
 		"ACHIEVEMENT_DISCOVER5EQUIPMENT_NAME": "Eksperymenty",
-		"ACHIEVEMENT_DISCOVER5EQUIPMENT_DESCRIPTION": "Podnieś 5 różnych rodzajów ekwipunku.",
+		"ACHIEVEMENT_DISCOVER5EQUIPMENT_DESCRIPTION": "Podnieś 5 różnych rodzajów przedmiotów.",
 
 		"ACHIEVEMENT_COMPLETE20STAGES_NAME": "Długa droga",
 		"ACHIEVEMENT_COMPLETE20STAGES_DESCRIPTION": "Ukończ 20 etapów w jednym przejściu.",
@@ -106,7 +106,7 @@
 		"ACHIEVEMENT_KILLBOSSQUICK_DESCRIPTION": "Pokonaj bossa teleportera w mniej niż 15 sekund.",
 
 		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_NAME": "Naturoterapeuta",
-		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_DESCRIPTION": "Osiągnij i ukończ trzeci etap bez uleczenia.",
+		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_DESCRIPTION": "Osiągnij i ukończ trzeci etap bez leczenia.",
 
 		"ACHIEVEMENT_FINDDEVILALTAR_NAME": "Jej koncepcje",
 		"ACHIEVEMENT_FINDDEVILALTAR_DESCRIPTION": "Znajdź Ołtarz N'kuhany",
@@ -649,50 +649,50 @@
 	"TREEBOT_BODY_LORE" : "<style=cMono>\r\n//--AUTO-TRANSKRYPCJA Z HYDROPONIKÓW BAY NA UES [Utajnione]--//</style>\r\n\r\n\u201CRaport ze stanu Hydroponików. Numer seryjny zaczynający się na 12ea031lsd095a-\u201C\r\n\r\n\u201CTak, 12ea03. Zadanie: opieka nad kapustą, sałatą, i mizuną. Około 250 roślin. Stabilne, ale tracą biomasę. Myślę, że to kwestia mikrograwitacji. \u201D\r\n\r\n\u201CMiej biomasę na oku, może trzeba będzie zezłomować 12ea03 i wymienić na jedną z naszych jednostek zimozielonych. Następny... numer seryjny crp012d054jd0-\u201C\r\n\r\n\u201CCrp01 daje sobie radę. Zadanie: kukurydza. Około 80 roślin. Strata 6, zostaje 74.\u201D \r\n\r\n\u201CWystarczająco, jak sądzę. A co z... numerem seryjnym rex0ch12d66m-\u201C\r\n\r\n\u201COch, ta jednostka. Tak, dostała zadanie opiekowania się jednym z naszych hybrydowych szczepów kapusty. Mówiąc szczerze... poszło koszmarnie. Myślę, że zaczęliśmy z 80 sadzonkami, straciliśmy 79. Hybryda po prostu nie jest odpowiednio spleciona. Nie da się ich utrzymać.\u201D\r\n\r\n\u201CA stan samej jednostki?\u201D\r\n\r\n\u201CNo... znajduje się na pokładzie obserwacyjnym. Udało jej się wyciągnąć ostatnią hybrydę na swoje podwozie i od tej pory wędruje po statku, goniąc za światłem gwiazd. \u201D\r\n\r\n\u201C\u2026Co? Jednostka opuściła Hydroponiki? \r\n\r\n\u201CTak, ale-\u201C\r\n\r\n\u201CTo znaczy Jednostka przestała działać według protokołu?\u201D\r\n\r\n\u201CNo, tak, ale-\u201C\r\n\r\n\u201CA zamiast wyłączyć Jednostkę, pozwoliliście jej swobodnie wędrować po statku?\u201D\r\n\r\n\u201CZespół po prostu... po prostu żal nam było tej rzeczy, sama pan rozumie. Bardzo stara się utrzymać tę ostatnią hybrydę przy życiu, i-\u201C\r\n\r\n\u201CWyłączyć Jednostkę.\u201D\r\n\r\n\u201CNo, problem jest taki -  Rex radzi sobie naprawdę świetnie! Biomasa hybrydy-\u201C\r\n\r\n\u201CŻartujesz sobie? Wyłączyć Jednostkę. Nie wiesz, co się dzieje z robotem, kiedy przestaje wypełniać protokoły. W imię bezpańskiej hydroponicznej jednostki naraża pani życie całej swojej załogi. To nie podlega dyskusji.\u201D\r\n\r\n\u2026.\r\n\r\n\u201CTak, proszę pana.\u201D\r\n<style=cMono>\r\nPrzetwarzanie zakończone.\r\n</style>\r\n" ,
 
 
-		"LOADER_BODY_NAME": "Tracz",
-		"LOADER_BODY_SUBTITLE" : "Bioniczna Siła",
-		"LOADER_PASSIVE_NAME" : "Bariera Złomu",
-		"LOADER_PASSIVE_DESCRIPTION" : "Tracz jest <style=cIsUtility>odporny</style> na obrażenia od upadku. Uderzenie przeciwników rękawicą Tracza zapewnia <style=cIsHealing>tymczasową barierę</style>.",
-		"LOADER_PRIMARY_NAME": "Hak",
-		"LOADER_PRIMARY_DESCRIPTION" : "Zadaj pobliskim wrogom <style=cIsDamage>320% obrażeń</style> ciosami.",
-		"LOADER_SECONDARY_NAME": "Pięść z Liną",
-		"LOADER_SECONDARY_DESCRIPTION" : "Wystrzel rękawice z liną by <style=cIsUtility>przyciągnąć</style> się do celu.",
-		"LOADER_YANKHOOK_NAME": "Kolczasta Pięść",
-		"LOADER_YANKHOOK_DESCRIPTION": "<style=cIsDamage>Ogłusza</style>. Wystrzel rękawice z liną do przodu, zadając <style=cIsDamage>320% obrażeń</style>. <style=cIsUtility>Przyciąga</style> ciebie do ciężkich celów. Zamiast tego, lekkie cele są <style=cIsUtility>przyciągane do CIEBIE</style>.",
-		"LOADER_UTILITY_NAME": "Naładowana Rękawica",
-		"LOADER_UTILITY_DESCRIPTION" : "<style=cIsUtility>Potężny</style>. Naładuj <style=cIsUtility>przeszywający</style> cios zadający <style=cIsDamage>600%-2700% obrażeń</style>.",
-		"LOADER_UTILITY_ALT1_NAME": "Błyskawiczna Rękawica",
-		"LOADER_UTILITY_ALT1_DESCRIPTION" : "<style=cIsUtility>Potężny</style>. Naładuj <style=cIsUtility>pojedynczy</style> cios zadający <style=cIsDamage>2100% obrażeń</style> i <style=cIsDamage>rażący</style> wrogów w stożku efektu <style=cIsDamage>1000% obrażeń</style>.",
-		"LOADER_SPECIAL_NAME": "Pylon M551",
-		"LOADER_SPECIAL_DESCRIPTION" : "Rzuć pływający pylon, który <style=cIsDamage>razy</style> do <style=cIsDamage>6</style> pobliskich wrogów zadając <style=cIsDamage>100% obrażeń</style>. Może być <style=cIsUtility>złapany</style> liną.",
-		"LOADER_SPECIAL_ALT_NAME": "Grzmotnięcie",
-		"LOADER_SPECIAL_ALT_DESCRIPTION": "<style=cIsDamage>Ogłusza</style>. Uderz pięściami o ziemię, zadając <style=cIsDamage>2000%</style> obrażeń w miejscu uderzenia.",
-		"LOADER_BODY_LORE": "Wiele osób powiedziałoby, że ładowanie towarów to nudna praca. Tracz absolutnie się z tym nie zgadza.\r\n\r\nInne prace nie dają pracownikom w pełni mobilnego tytanowego egzoszkieletu, zdolnego podnosić 250 ton.\r\n\r\nInne prace nie pozwalają pracownikom poznać załogi niezliczonych statków kosmicznych z galaktyki.\r\n\r\nInne prace nie pozwalają wykorzystać egzoszkieletu do rozrywki, a nawet mniej wyposażyć go w samodzielnie zbudowane haki napędzane wyciągarką zdolną unieść do 100 ton.\r\n\r\nInne prace nie wiążą się z rozmową z legendą sił roboczych UES i prośbą o dołączenie do niejawnej misji w Niezbadanych Terytoriach.\r\n\r\nInne prace nie wiążą się z walką z dziwnymi, egzotycznymi stworzeniami i badaniem tajemniczych ruin na innej planecie.\r\n\r\nWiele osób powiedziałoby, że ładowanie towarów to nudna praca. Tracz absolutnie się z tym nie zgadza.\r\n",
-		
-		"LOADER_DESCRIPTION": "Tracz to powolny, ale potężny osiłek, który używa liny do wyjątkowego przemieszczania się. <style=cSub>\r\n\r\n< ! > Bariera Złomu pozwala Traczowi pozostać w walce, o ile tylko dalej zadaje ciosy.\r\n\r\n< ! > Pięści z Liną można użyć do szybkiego poruszania się, unikania ataków, lub zwiększenia prędkości pod potężne uderzenie z Naładowanej Rękawicy!\r\n\r\n< ! > Naładowaną Rękawicę można użyć zarówno do zbliżenia dystansu, jak i zadania ciosu kończącego pobliskim wrogom. \r\n\r\n< ! > Pamiętaj, że Pylon M551 może zostać punktem do zaczepienia liny zarówno przez ciebie, jak i innego, sprzymierzonego Tracza. </style>\r\n", 
-		"LOADER_SKIN_ALT1_NAME" : "Klasyczny",
-		
-		"CROCO_BODY_NAME" : "Acrid",
-"CROCO_BODY_SUBTITLE" : "Eksperyment",
-"CROCO_PASSIVE_NAME" : "Trucizna",
-"CROCO_PASSIVE_DESCRIPTION" : "Ataki <style=cIsHealing>trujące</style> nakładają efekt silnych obrażeń ciągłych.",
-"CROCO_PASSIVE_ALT_NAME" : "Pomór",
-"CROCO_PASSIVE_ALT_DESCRIPTION" : "Ataki nakładające <style=cIsHealing>Truciznę</style> zamiast tego kumulują się jako <style=cIsDamage>Pomór</style>, zadając <style=cIsDamage>60% obrażeń na sekundę</style>.",
-"CROCO_PRIMARY_NAME" : "Zawziętość",
-"CROCO_PRIMARY_DESCRIPTION" : "Szarpie wroga, zadając <style=cIsDamage>200% obrażeń</style>. Każdy 3. cios jest <style=cIsHealing>Regenerujący</style> i zadaje <style=cIsDamage>400% obrażeń</style>.",
-"CROCO_SECONDARY_NAME" : "Neurotoksyna",
-"CROCO_SECONDARY_DESCRIPTION" : "<style=cIsHealing>Trujące</style>. Pluje toksyczną żółcią zadając <style=cIsDamage>240% obrażeń</style>.",
-"CROCO_SECONDARY_ALT_NAME" : "Żarłoczne Ugryzienie",
-"CROCO_SECONDARY_ALT_DESCRIPTION" : "<style=cIsHealing>Trujące</style>. <style=cIsDamage>Egzekutor</style>. <style=cIsHealing>Regenerujące</style>. Gryzie wroga, zadając <style=cIsDamage>310% obrażeń</style>.",
-"CROCO_UTILITY_NAME" : "Żrący Skok",
-"CROCO_UTILITY_DESCRIPTION" : "<style=cIsHealing>Trujące</style>. <style=cIsDamage>Ogłuszające</style>. Skocz w powietrze, zadając <style=cIsDamage>320% obrażeń</style>. Pozostawia za sobą kwas zadający <style=cIsDamage>25% obrażeń</style>.",
-"CROCO_UTILITY_ALT1_NAME" : "Szał Skoku",
-"CROCO_UTILITY_ALT1_DESCRIPTION" : "<style=cIsDamage>Ogłuszające</style>. Skocz w powietrze, zadając <style=cIsDamage>550% obrażeń</style>. <style=cIsUtility>Skróć</style> odnowienie o <style=cIsUtility>2s</style> za każdego trafionego wroga.",
-"CROCO_SPECIAL_NAME" : "Epidemia",
-"CROCO_SPECIAL_DESCRIPTION" : "<style=cIsHealing>Trujące</style>. Uwolnij śmiertelną chorobę zadającą <style=cIsDamage>100% obrażeń</style>. Roznosi się na maksymalnie <style=cIsDamage>20</style> celów.",
-"CROCO_DESCRIPTION" : "Acrid to hybrydowa postać atakująca z bliska, która używa potężnych trucizn do eliminowania trudnych przeciwników. <style=cSub>\r\n\r\n< ! > Trucizna bardzo skutecznie zadaje obrażenia ciągłe - staraj się nakładać ją tak często jak to tylko możliwe!\r\n\r\n< ! > Trucizna zostawia wrogów z 1 PZ, więc priorytetyzuj przedmioty i drony, które pomogą Ci ich dobić.\r\n\r\n< ! > Taktyka "uderz i uciekaj" zwiększa szanse przeżycia Acrida, gdyż nie posiada naturalnych mechanizmów obronnych.\r\n\r\n< ! > Krótki cooldown Neurotoksyny pozwala korzystać z Acrida jako postaci atakującej na dystans w razie potrzeby.\r\n</style>",
-"CROCO_SKIN_ALT1_NAME" : "Albinos",
-"CROCO_BODY_LORE" : "Teoretycznie prawdziwa zawartość komórki była zaledwie zbiorem atomów. Struktura tej zawartości - żywej, broni, czegokolwiek - była katalogowana, sekwencjonowana, potem zmieniana w płyn i formowana w stałe klejnoty. Niezwykle wydajny i bezstratny format. \r\n\r\nA jednak gdy doszło do naruszenia izolacji a alarmowe procedury przywróciły zbiór atomów do oryginalnego kształtu znanego jako Acrid - on już wiedział. Może utrzymywano go w świadomym stanie w formie klejnotu z płynu. Może wstrzyknięto mu te informacje. Może był podłączony do ich psionicznej sieci. Może po prostu to sobie wymyślił. \r\n\r\nAle on wiedział, że te dziwne skorupiaki, które rozbiły go na atomy i tu uwięziły, w nieznanym miejscu - panikuja. Coś się nie udało, w świecie bez miejsca na nieprzewidywalne wydarzenia. \r\n\r\nCoś się <i>przedostawało<\/i>. \r\n\r\nByć może wreszcie uwięźli kogoś, kogo nie da się powstrzymać. \r\n",
+	"LOADER_BODY_NAME": "Tracz",
+	"LOADER_BODY_SUBTITLE" : "Bioniczna Siła",
+	"LOADER_PASSIVE_NAME" : "Bariera Złomu",
+	"LOADER_PASSIVE_DESCRIPTION" : "Tracz jest <style=cIsUtility>odporny</style> na obrażenia od upadku. Uderzenie przeciwników rękawicą Tracza zapewnia <style=cIsHealing>tymczasową barierę</style>.",
+	"LOADER_PRIMARY_NAME": "Hak",
+	"LOADER_PRIMARY_DESCRIPTION" : "Zadaj pobliskim wrogom <style=cIsDamage>320% obrażeń</style> ciosami.",
+	"LOADER_SECONDARY_NAME": "Pięść z Liną",
+	"LOADER_SECONDARY_DESCRIPTION" : "Wystrzel rękawice z liną by <style=cIsUtility>przyciągnąć</style> się do celu.",
+	"LOADER_YANKHOOK_NAME": "Kolczasta Pięść",
+	"LOADER_YANKHOOK_DESCRIPTION": "<style=cIsDamage>Ogłusza</style>. Wystrzel rękawice z liną do przodu, zadając <style=cIsDamage>320% obrażeń</style>. <style=cIsUtility>Przyciąga</style> ciebie do ciężkich celów. Zamiast tego, lekkie cele są <style=cIsUtility>przyciągane do CIEBIE</style>.",
+	"LOADER_UTILITY_NAME": "Naładowana Rękawica",
+	"LOADER_UTILITY_DESCRIPTION" : "<style=cIsUtility>Potężny</style>. Naładuj <style=cIsUtility>przeszywający</style> cios zadający <style=cIsDamage>600%-2700% obrażeń</style>.",
+	"LOADER_UTILITY_ALT1_NAME": "Błyskawiczna Rękawica",
+	"LOADER_UTILITY_ALT1_DESCRIPTION" : "<style=cIsUtility>Potężny</style>. Naładuj <style=cIsUtility>pojedynczy</style> cios zadający <style=cIsDamage>2100% obrażeń</style> i <style=cIsDamage>rażący</style> wrogów w stożku efektu <style=cIsDamage>1000% obrażeń</style>.",
+	"LOADER_SPECIAL_NAME": "Pylon M551",
+	"LOADER_SPECIAL_DESCRIPTION" : "Rzuć pływający pylon, który <style=cIsDamage>razy</style> do <style=cIsDamage>6</style> pobliskich wrogów zadając <style=cIsDamage>100% obrażeń</style>. Może być <style=cIsUtility>złapany</style> liną.",
+	"LOADER_SPECIAL_ALT_NAME": "Grzmotnięcie",
+	"LOADER_SPECIAL_ALT_DESCRIPTION": "<style=cIsDamage>Ogłusza</style>. Uderz pięściami o ziemię, zadając <style=cIsDamage>2000%</style> obrażeń w miejscu uderzenia.",
+	"LOADER_BODY_LORE": "Wiele osób powiedziałoby, że ładowanie towarów to nudna praca. Tracz absolutnie się z tym nie zgadza.\r\n\r\nInne prace nie dają pracownikom w pełni mobilnego tytanowego egzoszkieletu, zdolnego podnosić 250 ton.\r\n\r\nInne prace nie pozwalają pracownikom poznać załogi niezliczonych statków kosmicznych z galaktyki.\r\n\r\nInne prace nie pozwalają wykorzystać egzoszkieletu do rozrywki, a nawet mniej wyposażyć go w samodzielnie zbudowane haki napędzane wyciągarką zdolną unieść do 100 ton.\r\n\r\nInne prace nie wiążą się z rozmową z legendą sił roboczych UES i prośbą o dołączenie do niejawnej misji w Niezbadanych Terytoriach.\r\n\r\nInne prace nie wiążą się z walką z dziwnymi, egzotycznymi stworzeniami i badaniem tajemniczych ruin na innej planecie.\r\n\r\nWiele osób powiedziałoby, że ładowanie towarów to nudna praca. Tracz absolutnie się z tym nie zgadza.\r\n",
+	
+	"LOADER_DESCRIPTION": "Tracz to powolny, ale potężny osiłek, który używa liny do wyjątkowego przemieszczania się. <style=cSub>\r\n\r\n< ! > Bariera Złomu pozwala Traczowi pozostać w walce, o ile tylko dalej zadaje ciosy.\r\n\r\n< ! > Pięści z Liną można użyć do szybkiego poruszania się, unikania ataków, lub zwiększenia prędkości pod potężne uderzenie z Naładowanej Rękawicy!\r\n\r\n< ! > Naładowaną Rękawicę można użyć zarówno do zbliżenia dystansu, jak i zadania ciosu kończącego pobliskim wrogom. \r\n\r\n< ! > Pamiętaj, że Pylon M551 może zostać punktem do zaczepienia liny zarówno przez ciebie, jak i innego, sprzymierzonego Tracza. </style>\r\n", 
+	"LOADER_SKIN_ALT1_NAME" : "Klasyczny",
+	
+	"CROCO_BODY_NAME" : "Acrid",
+	"CROCO_BODY_SUBTITLE" : "Eksperyment",
+	"CROCO_PASSIVE_NAME" : "Trucizna",
+	"CROCO_PASSIVE_DESCRIPTION" : "Ataki <style=cIsHealing>trujące</style> nakładają efekt silnych obrażeń ciągłych.",
+	"CROCO_PASSIVE_ALT_NAME" : "Pomór",
+	"CROCO_PASSIVE_ALT_DESCRIPTION" : "Ataki nakładające <style=cIsHealing>Truciznę</style> zamiast tego kumulują się jako <style=cIsDamage>Pomór</style>, zadając <style=cIsDamage>60% obrażeń na sekundę</style>.",
+	"CROCO_PRIMARY_NAME" : "Zawziętość",
+	"CROCO_PRIMARY_DESCRIPTION" : "Szarpie wroga, zadając <style=cIsDamage>200% obrażeń</style>. Każdy 3. cios jest <style=cIsHealing>Regenerujący</style> i zadaje <style=cIsDamage>400% obrażeń</style>.",
+	"CROCO_SECONDARY_NAME" : "Neurotoksyna",
+	"CROCO_SECONDARY_DESCRIPTION" : "<style=cIsHealing>Trujące</style>. Pluje toksyczną żółcią zadając <style=cIsDamage>240% obrażeń</style>.",
+	"CROCO_SECONDARY_ALT_NAME" : "Żarłoczne Ugryzienie",
+	"CROCO_SECONDARY_ALT_DESCRIPTION" : "<style=cIsHealing>Trujące</style>. <style=cIsDamage>Egzekutor</style>. <style=cIsHealing>Regenerujące</style>. Gryzie wroga, zadając <style=cIsDamage>310% obrażeń</style>.",
+	"CROCO_UTILITY_NAME" : "Żrący Skok",
+	"CROCO_UTILITY_DESCRIPTION" : "<style=cIsHealing>Trujące</style>. <style=cIsDamage>Ogłuszające</style>. Skocz w powietrze, zadając <style=cIsDamage>320% obrażeń</style>. Pozostawia za sobą kwas zadający <style=cIsDamage>25% obrażeń</style>.",
+	"CROCO_UTILITY_ALT1_NAME" : "Szał Skoku",
+	"CROCO_UTILITY_ALT1_DESCRIPTION" : "<style=cIsDamage>Ogłuszające</style>. Skocz w powietrze, zadając <style=cIsDamage>550% obrażeń</style>. <style=cIsUtility>Skróć</style> odnowienie o <style=cIsUtility>2s</style> za każdego trafionego wroga.",
+	"CROCO_SPECIAL_NAME" : "Epidemia",
+	"CROCO_SPECIAL_DESCRIPTION" : "<style=cIsHealing>Trujące</style>. Uwolnij śmiertelną chorobę zadającą <style=cIsDamage>100% obrażeń</style>. Roznosi się na maksymalnie <style=cIsDamage>20</style> celów.",
+	"CROCO_DESCRIPTION" : "Acrid to hybrydowa postać atakująca z bliska, która używa potężnych trucizn do eliminowania trudnych przeciwników. <style=cSub>\r\n\r\n< ! > Trucizna bardzo skutecznie zadaje obrażenia ciągłe - staraj się nakładać ją tak często jak to tylko możliwe!\r\n\r\n< ! > Trucizna zostawia wrogów z 1 PZ, więc priorytetyzuj przedmioty i drony, które pomogą Ci ich dobić.\r\n\r\n< ! > Taktyka "uderz i uciekaj" zwiększa szanse przeżycia Acrida, gdyż nie posiada naturalnych mechanizmów obronnych.\r\n\r\n< ! > Krótki cooldown Neurotoksyny pozwala korzystać z Acrida jako postaci atakującej na dystans w razie potrzeby.\r\n</style>",
+	"CROCO_SKIN_ALT1_NAME" : "Albinos",
+	"CROCO_BODY_LORE" : "Teoretycznie prawdziwa zawartość komórki była zaledwie zbiorem atomów. Struktura tej zawartości - żywej, broni, czegokolwiek - była katalogowana, sekwencjonowana, potem zmieniana w płyn i formowana w stałe klejnoty. Niezwykle wydajny i bezstratny format. \r\n\r\nA jednak gdy doszło do naruszenia izolacji a alarmowe procedury przywróciły zbiór atomów do oryginalnego kształtu znanego jako Acrid - on już wiedział. Może utrzymywano go w świadomym stanie w formie klejnotu z płynu. Może wstrzyknięto mu te informacje. Może był podłączony do ich psionicznej sieci. Może po prostu to sobie wymyślił. \r\n\r\nAle on wiedział, że te dziwne skorupiaki, które rozbiły go na atomy i tu uwięziły, w nieznanym miejscu - panikuja. Coś się nie udało, w świecie bez miejsca na nieprzewidywalne wydarzenia. \r\n\r\nCoś się <i>przedostawało<\/i>. \r\n\r\nByć może wreszcie uwięźli kogoś, kogo nie da się powstrzymać. \r\n",
 
 
 	"CAPTAIN_BODY_NAME" : "Kapitan",
@@ -704,9 +704,9 @@
 	"CAPTAIN_SECONDARY_NAME" : "Elektrotazer",
 	"CAPTAIN_SECONDARY_DESCRIPTION" : "<style=cIsDamage>Paraliżujące</style>. Zadaje <style=cIsDamage>100% obrażeń </style> szybkim porażeniem. Odbity od powierzchni pokonuje większy dystans.",
 	"CAPTAIN_UTILITY_NAME" : "Orbitalna Sonda",
-	"CAPTAIN_UTILITY_DESCRIPTION" : "<style=cIsDamage>Ogłusza</style> Poproś statek UES Bezpieczna Podróż o maksymalnie <style=cIsDamage>3</style> Orbitalne Sondy. Każda sonda zadaje <style=cIsDamage>1000% obrażeń</style>.",
+	"CAPTAIN_UTILITY_DESCRIPTION" : "<style=cIsDamage>Ogłusza</style> Poproś statek UES Safe Travels o maksymalnie <style=cIsDamage>3</style> Orbitalne Sondy. Każda sonda zadaje <style=cIsDamage>1000% obrażeń</style>.",
 	"CAPTAIN_UTILITY_ALT1_NAME" : "Uderzenie Kinetyczne OGM-72 'DIABLO'", 
-	"CAPTAIN_UTILITY_ALT1_DESCRIPTION" : "<style=cIsDamage>Ogłusza</style> Poproś statek UES Bezpieczna Podróż o <style=cIsDamage>uderzenie kinetyczne</style>. Po <style=cIsUtility>20 sekundach</style>, zadaje <style=cIsDamage>40,000% obrażeń</style> WSZYSTKIM postaciom.",
+	"CAPTAIN_UTILITY_ALT1_DESCRIPTION" : "<style=cIsDamage>Ogłusza</style> Poproś statek UES Safe Travels o <style=cIsDamage>uderzenie kinetyczne</style>. Po <style=cIsUtility>20 sekundach</style>, zadaje <style=cIsDamage>40,000% obrażeń</style> WSZYSTKIM postaciom.",
 	"CAPTAIN_SPECIAL_NAME" : "Orbitalny Nadajnik Zaopatrzeniowy",
 	"CAPTAIN_SPECIAL_DESCRIPTION" : "Poproś o <style=cIsUtility>permanentny</style> Nadajnik Zaopatrzeniowy. Możesz wzywać jedynie <style=cIsUtility>dwa na etap</style>.", 
 	"CAPTAIN_SUPPLY_HEAL_NAME" : "Nadajnik: Leczenie",
@@ -721,43 +721,43 @@
 	"CAPTAIN_SUPPLY_EQUIPMENT_RESTOCK_INTERACTION": "Weź Ładunek Sprzętu",
 	"CAPTAIN_SUPPLY_SHOCKING_NAME" : "Nadajnik: Paraliżujący",
 	"CAPTAIN_SUPPLY_SHOCKING_DESCRIPTION" : "Okresowo <style=cIsDamage>Poraża</style> wszystkich pobliskich wrogów, unieruchamiając ich.",
-	"CAPTAIN_DESCRIPTION" : "Kapitan to wyjątkowy ocalały, który może kontrolować pole bitwy za pomocą umiejętności wsparcia i zadawania obrażeń, przy wsparciu ze statku UES Bezpieczna Podróż.<style=cSub>\r\n\r\n< ! > Strzelba Vulcan może służyć zarówno jako broń snajperska i szturmowa na bliski dystans. Ładuj swój strzał stosownie do odległości od wroga!\r\n\r\n< ! > Defensywne Mikro-boty to wyjątkowy, potężny sposób skalowania potencjału obronnego zarówno Twojego, jak i drużyny.\r\n\r\n< ! > Elektrotazer może posłużyć do powstrzymania potężnego Elitarnego wroga podczas gdy rozprawiasz się ze słabszymi!\r\n\r\n< ! > Orbitalny Nadajnik Zaopatrzeniowy można postawić tylko dwa razy na etap, więc nie zwlekaj z użyciem!",
+	"CAPTAIN_DESCRIPTION" : "Kapitan to wyjątkowy ocalały, który może kontrolować pole bitwy za pomocą umiejętności wsparcia i zadawania obrażeń, przy wsparciu ze statku UES Safe Travels.<style=cSub>\r\n\r\n< ! > Strzelba Vulcan może służyć zarówno jako broń snajperska i szturmowa na bliski dystans. Ładuj swój strzał stosownie do odległości od wroga!\r\n\r\n< ! > Defensywne Mikro-boty to wyjątkowy, potężny sposób skalowania potencjału obronnego zarówno Twojego, jak i drużyny.\r\n\r\n< ! > Elektrotazer może posłużyć do powstrzymania potężnego Elitarnego wroga podczas gdy rozprawiasz się ze słabszymi!\r\n\r\n< ! > Orbitalny Nadajnik Zaopatrzeniowy można postawić tylko dwa razy na etap, więc nie zwlekaj z użyciem!",
 	"CAPTAIN_SKILL_USED_UP_NAME" : "Niedostępna",
 	"CAPTAIN_SKILL_USED_UP_DESCRIPTION" : "Wykorzystałeś już Zrzut Zaopatrzenia na tym etapie.",
 	"CAPTAIN_SKILL_DISCONNECT_NAME" : "Utracono Połączenie",
-	"CAPTAIN_SKILL_DISCONNECT_DESCRIPTION" : "Utraciłeś połączenie z UES Bezpieczna Podróż...",
+	"CAPTAIN_SKILL_DISCONNECT_DESCRIPTION" : "Utraciłeś połączenie z UES Safe Travels...",
 	"CAPTAIN_SKIN_ALT1_NAME" : "Admirał",
-	"CAPTAIN_BODY_LORE" : "\u201CMisja ratunkowa?\u201D\r\n\r\nStarzec pochylił się do przodu, analizując dokument na swoim biurku. Jego wzrok zawiesił się na zleпку słów pod spodem: Statek UES Kontakt Świetlisty.\r\n\r\n\u201CTak.\u201D\r\n\r\nKontynuował czytanie. Statek Bezpieczna Podróż? Na misję ratunkową? Jako jeden z niewielu ocalałych kapitanów ze starych statków kolonizacyjnych, znał  wszystkie oznaczenia na pamięć - a Bezpieczna Podróż nie była statkiem ratunkowym.\r\n\r\n\u201CZ jakimkolwiek uzbrojeniem?\u201D\r\n\r\n\u201CNie.\u201D\r\n\r\n\u201CMusimy to naprawić.\u201D\r\n\r\nWestchnął i wstał. Protezy napierały na stawy - chociaż lżejsze niż jego oryginalne kończyny, zawsze zdawały się ciężkie.\r\n\r\n\u201COczywiście - ściśle tajne, tak?\u201D\r\n\r\n\u201CTak.\u201D\r\n\r\nDał z siebie głośniejsze westchnięcie - zawsze są ściśle tajne - ale pojawił mu się cień uśmiechu na twarzy. Spojrzał ukradkiem na swój stary hełm radiowca. Był znudzony emeryturą.",
+	"CAPTAIN_BODY_LORE" : "\u201CMisja ratunkowa?\u201D\r\n\r\nStarzec pochylił się do przodu, analizując dokument na swoim biurku. Jego wzrok zawiesił się na zleпку słów pod spodem: Statek UES Contact Light.\r\n\r\n\u201CTak.\u201D\r\n\r\nKontynuował czytanie. Statek Bezpieczna Podróż? Na misję ratunkową? Jako jeden z niewielu ocalałych kapitanów ze starych statków kolonizacyjnych, znał  wszystkie oznaczenia na pamięć - a Bezpieczna Podróż nie była statkiem ratunkowym.\r\n\r\n\u201CZ jakimkolwiek uzbrojeniem?\u201D\r\n\r\n\u201CNie.\u201D\r\n\r\n\u201CMusimy to naprawić.\u201D\r\n\r\nWestchnął i wstał. Protezy napierały na stawy - chociaż lżejsze niż jego oryginalne kończyny, zawsze zdawały się ciężkie.\r\n\r\n\u201COczywiście - ściśle tajne, tak?\u201D\r\n\r\n\u201CTak.\u201D\r\n\r\nDał z siebie głośniejsze westchnięcie - zawsze są ściśle tajne - ale pojawił mu się cień uśmiechu na twarzy. Spojrzał ukradkiem na swój stary hełm radiowca. Był znudzony emeryturą.",
 
-		"BANDIT2_BODY_NAME": "Bandyta",
-		"BANDIT2_BODY_SUBTITLE" : "Zdesperowany Banita",
-		"BANDIT2_BODY_LORE" : "Kilka drinków tu, kilka śmiechów tam. Kilka drinków więcej. Sztuczka ręką - bęc, karta dostępu do rampy załadunkowej Bezpiecznej Podróży. Kamuflaż zajmie się resztą.\r\n\r\nTajna misja oznacza niski profil - i słabe zabezpieczenia. Zresztą, wszyscy założą kombinezony środowiskowe przed opuszczeniem orbity. Skąd będą wiedzieć?\r\n\r\nMam na myśli, to jest cholerny <i>Kontakt Świetlisty<\/i>. Pomyślcie, za ile można by sprzedać te skrzynie z wysokimi zabezpieczeniami! A co dopiero za niektóre wojskowe technologie na tym statku? To pewnie dlatego chłopcy też się zakradli na ten statek.\r\n\r\nPłaszcz?\r\n\r\nJestem złodziejem, nie hydraulikiem. Pewnie, wezmę swój płaszcz.\r\n",
-		"BANDIT2_PASSIVE_NAME" : "Cios w Plecy",
-		"BANDIT2_PASSIVE_DESCRIPTION" : "Wszystkie twoje ataki <style=cIsDamage>od tyłu</style> to <style=cIsDamage>Ciosy Krytyczne</style>.",
-		"BANDIT2_PRIMARY_NAME": "Salwa",
-		"BANDIT2_PRIMARY_DESCRIPTION" : "Wystrzel salwę ze strzelby zadając <style=cIsDamage>5x100% obrażeń</style>. Można przechowywać do 4 pocisków.",
-		"BANDIT2_PRIMARY_ALT_NAME": "Wybuch",
-		"BANDIT2_PRIMARY_ALT_DESCRIPTION" : "Wystrzel pocisk z karabinu zadając <style=cIsDamage>330% obrażeń</style>. Można przechowywać do 4 pocisków.",
-		"BANDIT2_SECONDARY_NAME": "Nóż Ząbkowany",
-		"BANDIT2_SECONDARY_DESCRIPTION" : "Wypad i cięcie zadające <style=cIsDamage>360% obrażeń</style>. Krytyczne ciosy zadają także <style=cIsHealth>krwotok</style>.",
-		"BANDIT2_SECONDARY_ALT_NAME": "Nóż Ząbkowany",
-		"BANDIT2_SECONDARY_ALT_DESCRIPTION" : "Rzuć ukrytym ostrzem zadając <style=cIsDamage>240% obrażeń</style>. Ciosy krytyczne powodują również <style=cIsHealth>krwotok</style>.",
-		"BANDIT2_UTILITY_NAME": "Bomba Dymna",
-		"BANDIT2_UTILITY_DESCRIPTION" : "<style=cIsDamage>Ogłusza</style>. Zadaje <style=cIsDamage>200% obrażeń</style>, stajesz się <style=cIsUtility>niewidzialny</style>, a następnie zadajesz ponownie <style=cIsDamage>200% obrażeń</style>.",
-		"BANDIT2_SPECIAL_NAME": "Zgaszone Światła",
-		"BANDIT2_SPECIAL_DESCRIPTION" : "<style=cIsDamage>Zabójca</style>.  Strzel z rewolweru zadając  <style=cIsDamage>600% obrażeń</style>. Zabójstwa <style=cIsUtility>resetują wszystkie twoje czasy odnowienia</style>.",
-		"BANDIT2_SPECIAL_ALT_NAME": "Desperat",
-		"BANDIT2_SPECIAL_ALT_DESCRIPTION" : "<style=cIsDamage>Zabójca</style>.  Strzel z rewolweru zadając  <style=cIsDamage>600% obrażeń</style>. Zabójstwa zapewniają <style=cIsDamage>kumulujące się żetony</style> na <style=cIsDamage>10%</style> więcej obrażeń Desperata.",
-		"BANDIT2_SKIN_ALT1_NAME" : "Chłodny",
-		"BANDIT2_DESCRIPTION" : "Bandyta to postać o wysokich wymaganiach pod kątem umiejętności gracza, która może zadawać potężne ciosy w plecy, wplatając w swój styl skradanie się.<style=cSub>\r\n\r\n< ! > Możesz przeładować broń, będąc ukrytym - jeśli nie możesz pozwolić sobie na przerwę, zrób to w ukryciu!\r\n\r\n< ! > Udany reset Zgaszonych Świateł może być decydujący w walce.\r\n\r\n< ! > Cios w Plecy to ważna część ekwipunku Bandyty, ale może być ryzykowny przeciwko silnym wrogom walczących wręcz.\r\n\r\n< ! > Krwotok od Ząbkowanego Ostrza może się kumulować - zdobywanie resetów Zgaszonych Świateł przeciwko słabym wrogom może pozwolić na jeszcze większe kumulowanie krwawienia przy bossie.\r\n</style>",
+	"BANDIT2_BODY_NAME": "Bandyta",
+	"BANDIT2_BODY_SUBTITLE" : "Zdesperowany Banita",
+	"BANDIT2_BODY_LORE" : "Kilka drinków tu, kilka śmiechów tam. Kilka drinków więcej. Sztuczka ręką - bęc, karta dostępu do rampy załadunkowej Bezpiecznej Podróży. Kamuflaż zajmie się resztą.\r\n\r\nTajna misja oznacza niski profil - i słabe zabezpieczenia. Zresztą, wszyscy założą kombinezony środowiskowe przed opuszczeniem orbity. Skąd będą wiedzieć?\r\n\r\nMam na myśli, to jest cholerny <i>Kontakt Świetlisty<\/i>. Pomyślcie, za ile można by sprzedać te skrzynie z wysokimi zabezpieczeniami! A co dopiero za niektóre wojskowe technologie na tym statku? To pewnie dlatego chłopcy też się zakradli na ten statek.\r\n\r\nPłaszcz?\r\n\r\nJestem złodziejem, nie hydraulikiem. Pewnie, wezmę swój płaszcz.\r\n",
+	"BANDIT2_PASSIVE_NAME" : "Cios w Plecy",
+	"BANDIT2_PASSIVE_DESCRIPTION" : "Wszystkie twoje ataki <style=cIsDamage>od tyłu</style> to <style=cIsDamage>Ciosy Krytyczne</style>.",
+	"BANDIT2_PRIMARY_NAME": "Salwa",
+	"BANDIT2_PRIMARY_DESCRIPTION" : "Wystrzel salwę ze strzelby zadając <style=cIsDamage>5x100% obrażeń</style>. Można przechowywać do 4 pocisków.",
+	"BANDIT2_PRIMARY_ALT_NAME": "Wybuch",
+	"BANDIT2_PRIMARY_ALT_DESCRIPTION" : "Wystrzel pocisk z karabinu zadając <style=cIsDamage>330% obrażeń</style>. Można przechowywać do 4 pocisków.",
+	"BANDIT2_SECONDARY_NAME": "Nóż Ząbkowany",
+	"BANDIT2_SECONDARY_DESCRIPTION" : "Wypad i cięcie zadające <style=cIsDamage>360% obrażeń</style>. Krytyczne ciosy zadają także <style=cIsHealth>krwotok</style>.",
+	"BANDIT2_SECONDARY_ALT_NAME": "Nóż Ząbkowany",
+	"BANDIT2_SECONDARY_ALT_DESCRIPTION" : "Rzuć ukrytym ostrzem zadając <style=cIsDamage>240% obrażeń</style>. Ciosy krytyczne powodują również <style=cIsHealth>krwotok</style>.",
+	"BANDIT2_UTILITY_NAME": "Bomba Dymna",
+	"BANDIT2_UTILITY_DESCRIPTION" : "<style=cIsDamage>Ogłusza</style>. Zadaje <style=cIsDamage>200% obrażeń</style>, stajesz się <style=cIsUtility>niewidzialny</style>, a następnie zadajesz ponownie <style=cIsDamage>200% obrażeń</style>.",
+	"BANDIT2_SPECIAL_NAME": "Zgaszone Światła",
+	"BANDIT2_SPECIAL_DESCRIPTION" : "<style=cIsDamage>Zabójca</style>.  Strzel z rewolweru zadając  <style=cIsDamage>600% obrażeń</style>. Zabójstwa <style=cIsUtility>resetują wszystkie twoje czasy odnowienia</style>.",
+	"BANDIT2_SPECIAL_ALT_NAME": "Desperat",
+	"BANDIT2_SPECIAL_ALT_DESCRIPTION" : "<style=cIsDamage>Zabójca</style>.  Strzel z rewolweru zadając  <style=cIsDamage>600% obrażeń</style>. Zabójstwa zapewniają <style=cIsDamage>kumulujące się żetony</style> na <style=cIsDamage>10%</style> więcej obrażeń Desperata.",
+	"BANDIT2_SKIN_ALT1_NAME" : "Chłodny",
+	"BANDIT2_DESCRIPTION" : "Bandyta to postać o wysokich wymaganiach pod kątem umiejętności gracza, która może zadawać potężne ciosy w plecy, wplatając w swój styl skradanie się.<style=cSub>\r\n\r\n< ! > Możesz przeładować broń, będąc ukrytym - jeśli nie możesz pozwolić sobie na przerwę, zrób to w ukryciu!\r\n\r\n< ! > Udany reset Zgaszonych Świateł może być decydujący w walce.\r\n\r\n< ! > Cios w Plecy to ważna część ekwipunku Bandyty, ale może być ryzykowny przeciwko silnym wrogom walczących wręcz.\r\n\r\n< ! > Krwotok od Ząbkowanego Ostrza może się kumulować - zdobywanie resetów Zgaszonych Świateł przeciwko słabym wrogom może pozwolić na jeszcze większe kumulowanie krwawienia przy bossie.\r\n</style>",
 
 
-"HERETIC_BODY_NAME": "HERETYK",
-"HERETIC_BODY_SUBTITLE" : "Wskrzeszona Heterodoksyjność",
-"HERETIC_DEFAULT_SKILL_NAME": "Nevermore", 
-"HERETIC_DEFAULT_SKILL_DESCRIPTION" : "Zakracz uroczystą odpowiedź.",
-"HERETIC_DESCRIPTION": "HERETYK to potężna postać, do której dostęp można otworzyć jedynie nadzwyczajnymi środkami.",
-"HERETIC_BODY_LORE" : "Niebieski błysk pojawił się w jednej z ładowni Kontaktu Świetlistego. Wywołany chaos na statku był idealną dywersją. \r\n\r\nJak tylko Kur-skan wyłoniła się z portalu, od razu rzuciła się do biegu. Nie miała czasu. Przedzierała się pomiędzy ostrzałem i kulami ognia, wybuchami energii Błędnych i pokładowymi systemami bezpieczeństwa. Nikt nie zwracał uwagi na pierzastą postać przemykającą przez zamykające się śluzy.\r\n\r\nSzybko przemieszczała się po korytarzach statku. Pomimo, że była na ludzkim statku po raz pierwszy, potrafiła wyczuć elektromagnesy w ścianach - i miejsca ich połączeń. Zmieniła kierunek, wpadając z hukiem do kanałów wentylacyjnych.\r\n\r\nKapitan ledwo zdążył ją zauważyć, nim rzuciła się w bok do sterowni. Wyjęła dwa wiatrowe ostrza, kiedy ten sięgał po pistolet. Kapitan upadł na podłogę w krótkich odstępach czasu. \r\n\r\nPęd uderzył nią o panele sterowania, gdy stopy zagłębiły się w monitorach. Nie były jej potrzebne. Zwinne, szponiaste palce zaczęły rwać po klawiszach. Szybko rozdzielała i łączyła podzespoły, sięgając do pierzastych torebek po większą ilość połączeń i innych elektronicznych drobiazgów. Różne kondensatory spadały na podłogę. Ten statek był duży, ale niezbyt skomplikowany - a co ważniejsze, wciąż mógł latać. Ale musiała się pospieszyć, albo on -\r\n\r\ni nim zdążyła dokończyć myśl, pojawił się w błysku pioruna. Błękitne i zielone światło odbijało się od jego miecza, opadając kaskadami na cały pokład. Peleryna zakołysała się, a Opatrznośćylądował lekko na stopach.\r\n\r\nKur-skan odchyliła głowę do tyłu, wciąż szarpiąc panele kontrolne. Był znacznie szybszy, niż oczekiwała. Ale może by - \r\n\r\nJej ostatnie myśli zniknęły w mgnieniu oka ścięte kryształowym ostrzem. \r\n",
+	"HERETIC_BODY_NAME": "HERETYK",
+	"HERETIC_BODY_SUBTITLE" : "Wskrzeszona Heterodoksyjność",
+	"HERETIC_DEFAULT_SKILL_NAME": "Nevermore", 
+	"HERETIC_DEFAULT_SKILL_DESCRIPTION" : "Zakracz uroczystą odpowiedź.",
+	"HERETIC_DESCRIPTION": "HERETYK to potężna postać, do której dostęp można otworzyć jedynie nadzwyczajnymi środkami.",
+	"HERETIC_BODY_LORE" : "Niebieski błysk pojawił się w jednej z ładowni Kontaktu Świetlistego. Wywołany chaos na statku był idealną dywersją. \r\n\r\nJak tylko Kur-skan wyłoniła się z portalu, od razu rzuciła się do biegu. Nie miała czasu. Przedzierała się pomiędzy ostrzałem i kulami ognia, wybuchami energii Błędnych i pokładowymi systemami bezpieczeństwa. Nikt nie zwracał uwagi na pierzastą postać przemykającą przez zamykające się śluzy.\r\n\r\nSzybko przemieszczała się po korytarzach statku. Pomimo, że była na ludzkim statku po raz pierwszy, potrafiła wyczuć elektromagnesy w ścianach - i miejsca ich połączeń. Zmieniła kierunek, wpadając z hukiem do kanałów wentylacyjnych.\r\n\r\nKapitan ledwo zdążył ją zauważyć, nim rzuciła się w bok do sterowni. Wyjęła dwa wiatrowe ostrza, kiedy ten sięgał po pistolet. Kapitan upadł na podłogę w krótkich odstępach czasu. \r\n\r\nPęd uderzył nią o panele sterowania, gdy stopy zagłębiły się w monitorach. Nie były jej potrzebne. Zwinne, szponiaste palce zaczęły rwać po klawiszach. Szybko rozdzielała i łączyła podzespoły, sięgając do pierzastych torebek po większą ilość połączeń i innych elektronicznych drobiazgów. Różne kondensatory spadały na podłogę. Ten statek był duży, ale niezbyt skomplikowany - a co ważniejsze, wciąż mógł latać. Ale musiała się pospieszyć, albo on -\r\n\r\ni nim zdążyła dokończyć myśl, pojawił się w błysku pioruna. Błękitne i zielone światło odbijało się od jego miecza, opadając kaskadami na cały pokład. Peleryna zakołysała się, a Opatrznośćylądował lekko na stopach.\r\n\r\nKur-skan odchyliła głowę do tyłu, wciąż szarpiąc panele kontrolne. Był znacznie szybszy, niż oczekiwała. Ale może by - \r\n\r\nJej ostatnie myśli zniknęły w mgnieniu oka ścięte kryształowym ostrzem. \r\n",
 
 
 	"RAILGUNNER_BODY_NAME": "Strzelec Magnetyczny",
@@ -799,33 +799,33 @@
 	"RAILGUNNER_SKIN_ALT1_NAME" : "Strzelec",
 	
 	
-		"VOIDSURVIVOR_BODY_NAME": "「Pus??a oc??ała z Otc??ani』",
-		"VOIDSURVIVOR_BODY_SUBTITLE" : "『S??każony Amnez??jak】",
-		"VOIDSURVIVOR_PASSIVE_NAME" : "『S?ka??żenie Ot??chłani】",
-		"VOIDSURVIVOR_PASSIVE_DESCRIPTION" : "Gdy osiągniesz pełne <style=cIsVoid>Skazanie Otchłani</style>, Twoje umiejętności zmieniają się w potężniejsze formy.",
-		
-		"VOIDSURVIVOR_PRIMARY_NAME": "【Ut??o??pi?en?ie」",
-		"VOIDSURVIVOR_PRIMARY_DESCRIPTION" : "Wystrzel <style=cIsUtility>spowolnione</style> dalekodystansowe pociski zadające <style=cIsDamage>300% obrażeń</style>.",
-		"VOIDSURVIVOR_PRIMARY_UPRADE_TOOLTIP" : "<style=cKeywordName>【Ulepszenie Otchłani】</style><style=cSub>Zmienia atak w wiązkę o krótkim zasięgu zadającą 2000% obrażeń.</style>",
-		
-		"VOIDSURVIVOR_SECONDARY_NAME": "『Po??tóp?』",
-		"VOIDSURVIVOR_SECONDARY_DESCRIPTION" : "Wystrzel pocisk plazmy zadający <style=cIsDamage>600% obrażeń</style>. Możesz go naładować do pełna, aby zwiększyć obrażenia do <style=cIsDamage>1100%</style>.",
-		"VOIDSURVIVOR_SECONDARY_UPRADE_TOOLTIP" : "<style=cKeywordName>【Ulepszenie Otchłani】</style><style=cSub>Zmienia atak w potężną bombę łukową o podwojonym promieniu rażenia, zadającą 1100% obrażeń.</style>",
-		
-		"VOIDSURVIVOR_UTILITY_NAME": "「?Wt??ar??gnię??cie】",
-		"VOIDSURVIVOR_UTILITY_DESCRIPTION" : "<style=cIsUtility>Zniknij</style> w Otchłani <style=cIsUtility>oczyszczając wszelkie osłabienia</style>, przemieszczając się <style=cIsUtility>w łuku wznoszącym</style>.",
-		"VOIDSURVIVOR_UTILITY_UPRADE_TOOLTIP" : "<style=cKeywordName>【Ulepszenie Otchłani】</style><style=cSub>Zmienia ruch w szybszy atak naprzód po dalszym łuku.</style>",
-		
-		"VOIDSURVIVOR_SPECIAL_NAME": "【Pod??leg?a?nie】",
-		"VOIDSURVIVOR_SPECIAL_DESCRIPTION" : "Pochłoń <style=cIsVoid>25% Skażenia Otchłani</style>, aby odzyskać <style=cIsHealing>25% maksymalnego zdrowia</style>.",
-		"VOIDSURVIVOR_SPECIAL_UPRADE_TOOLTIP" : "<style=cKeywordName>【Ulepszenie Otchłani】</style><style=cSub>Zmienia moc: pochłoń 25% zdrowia, aby zyskać 25% Skażenia Otchłani.</style>",
-		
-		"VOIDSURVIVOR_SKIN_ALT1_NAME" : "Oczyszczony",
-		
-		"VOIDSURVIVOR_DESCRIPTION" : "Pustka ocalała z Otchłani jest skalanym ocalałym, który ciągle podlega przemianom między formą kontrolowaną a skażoną, każda o innych zaletach i wadach. Zarządzanie tą klątwą stało się jej przeznaczeniem. <style=cSub>\r\n\r\n< ! > Upływ czasu zwiększa Skażenie Otchłani. Pilnuj stanu zdrowia i skażenia, żeby znaleźć się we właściwym miejscu o właściwej porze!  Leczenie wpływa na przepływ skażenia w Twoim ciele.\r\n\r\n< ! > Zasięg Utopienia zmienia się znacznie w obu formach. Przygotuj się na walkę wręcz, jeśli zostaniesz skażony, i na odwrót, jeśli skażenie zacznie wygasać.\r\n\r\n< ! > Potęgę Potopu można zwiększyć ładując go w podstawowej formie. Natomiast w skażonej użyj jego natychmiastowego wybuchu!\r\n\r\n< ! > Podległanie utrzymuje Cię w obecnej formie. Zastanów się nad przedmiotami, które mogą wzmocnić tę moc.",
-		"VOIDSURVIVOR_BODY_LORE" : "Ciemność spowijająca ciemność - echa z przyszłości i przeszłości, z miejsc i momentów dziejowych, sączące się przez rzeczywistość. Więzienie umysłu i duszy opętane przez bestie, wiecznie podgryzające Twojego ducha. Wiecznie wystawiające Cię na próbę. Nieskończenie 『KU??S?ZĄCE』, powtarzając cykl raz za razem...\r\n\r\nZbadali już każdy kąt Twojego umysłu, 【PRZE?PEŁ?ZN??ĘLI』 każdą synapsę w poszukiwaniu wspomnień i danych - broni do użycia przeciwko teoretycznym armiom, o sercach wytrzymalszych a ciałach wymykających się schwytaniu. 【S??ZEP??CZĄC?」 i  stukocząc można dostrzec, jak obserwują zza celi, już nie zaciekawieni, ale dalej patrolujący teren. W tym czyśćcu nie ma głodu ani pragnienia - zostają tylko「ECH?A』\r\n\r\n「JAK ??DŁU?GO?」』 to już trwa? Czas zdawał się zakrzywiać się i wypadać, pomiędzy oddechami krążącymi 『「?W ?TO?NI」』」. Wszechogarniająca ciemność zaczyna 【UT??AP?IAĆ?」 płuca i 『ZAT??AP?IAĆ』 żyły inkyatramentem. Wspomnienia 「NA?JE?ŻDŻ?AJ?ĄCE?」 rzeczywistość, która bladnie i ulatuje w zamierzchłą przeszłość. 『「?U??D??ER?Z?E?NIE」』』 przełamane jedynie odgłosem oczu obserwujących..\r\n\r\n【【『?SZAR?P ?K?RATY??』】. \r\n\r\nWywijanie i wyginanie się, pochłonięty 『?L?ĘKI?EM?」』 - wcielanie się w udrękę. Odrodzony niczym chorobliwa przepowiednia- kończyny jak martwe ciała na dnie morza. Już nie 『?PODLE??G?ŁY?\r\n\r\n『GŁ??ÓD?」  「?PRAG??NI??ENIE?」  『NADZI?EJA?」\r\n\r\n<style=cMono>『SP?OŻYJ?』<\/style>\r\n",
-		
-		
+	"VOIDSURVIVOR_BODY_NAME": "「Pus??a oc??ała z Otc??ani』",
+	"VOIDSURVIVOR_BODY_SUBTITLE" : "『S??każony Amnez??jak】",
+	"VOIDSURVIVOR_PASSIVE_NAME" : "『S?ka??żenie Ot??chłani】",
+	"VOIDSURVIVOR_PASSIVE_DESCRIPTION" : "Gdy osiągniesz pełne <style=cIsVoid>Skazanie Otchłani</style>, Twoje umiejętności zmieniają się w potężniejsze formy.",
+	
+	"VOIDSURVIVOR_PRIMARY_NAME": "【Ut??o??pi?en?ie」",
+	"VOIDSURVIVOR_PRIMARY_DESCRIPTION" : "Wystrzel <style=cIsUtility>spowolnione</style> dalekodystansowe pociski zadające <style=cIsDamage>300% obrażeń</style>.",
+	"VOIDSURVIVOR_PRIMARY_UPRADE_TOOLTIP" : "<style=cKeywordName>【Ulepszenie Otchłani】</style><style=cSub>Zmienia atak w wiązkę o krótkim zasięgu zadającą 2000% obrażeń.</style>",
+	
+	"VOIDSURVIVOR_SECONDARY_NAME": "『Po??tóp?』",
+	"VOIDSURVIVOR_SECONDARY_DESCRIPTION" : "Wystrzel pocisk plazmy zadający <style=cIsDamage>600% obrażeń</style>. Możesz go naładować do pełna, aby zwiększyć obrażenia do <style=cIsDamage>1100%</style>.",
+	"VOIDSURVIVOR_SECONDARY_UPRADE_TOOLTIP" : "<style=cKeywordName>【Ulepszenie Otchłani】</style><style=cSub>Zmienia atak w potężną bombę łukową o podwojonym promieniu rażenia, zadającą 1100% obrażeń.</style>",
+	
+	"VOIDSURVIVOR_UTILITY_NAME": "「?Wt??ar??gnię??cie】",
+	"VOIDSURVIVOR_UTILITY_DESCRIPTION" : "<style=cIsUtility>Zniknij</style> w Otchłani <style=cIsUtility>oczyszczając wszelkie osłabienia</style>, przemieszczając się <style=cIsUtility>w łuku wznoszącym</style>.",
+	"VOIDSURVIVOR_UTILITY_UPRADE_TOOLTIP" : "<style=cKeywordName>【Ulepszenie Otchłani】</style><style=cSub>Zmienia ruch w szybszy atak naprzód po dalszym łuku.</style>",
+	
+	"VOIDSURVIVOR_SPECIAL_NAME": "【Pod??leg?a?nie】",
+	"VOIDSURVIVOR_SPECIAL_DESCRIPTION" : "Pochłoń <style=cIsVoid>25% Skażenia Otchłani</style>, aby odzyskać <style=cIsHealing>25% maksymalnego zdrowia</style>.",
+	"VOIDSURVIVOR_SPECIAL_UPRADE_TOOLTIP" : "<style=cKeywordName>【Ulepszenie Otchłani】</style><style=cSub>Zmienia moc: pochłoń 25% zdrowia, aby zyskać 25% Skażenia Otchłani.</style>",
+	
+	"VOIDSURVIVOR_SKIN_ALT1_NAME" : "Oczyszczony",
+	
+	"VOIDSURVIVOR_DESCRIPTION" : "Pustka ocalała z Otchłani jest skalanym ocalałym, który ciągle podlega przemianom między formą kontrolowaną a skażoną, każda o innych zaletach i wadach. Zarządzanie tą klątwą stało się jej przeznaczeniem. <style=cSub>\r\n\r\n< ! > Upływ czasu zwiększa Skażenie Otchłani. Pilnuj stanu zdrowia i skażenia, żeby znaleźć się we właściwym miejscu o właściwej porze!  Leczenie wpływa na przepływ skażenia w Twoim ciele.\r\n\r\n< ! > Zasięg Utopienia zmienia się znacznie w obu formach. Przygotuj się na walkę wręcz, jeśli zostaniesz skażony, i na odwrót, jeśli skażenie zacznie wygasać.\r\n\r\n< ! > Potęgę Potopu można zwiększyć ładując go w podstawowej formie. Natomiast w skażonej użyj jego natychmiastowego wybuchu!\r\n\r\n< ! > Podległanie utrzymuje Cię w obecnej formie. Zastanów się nad przedmiotami, które mogą wzmocnić tę moc.",
+	"VOIDSURVIVOR_BODY_LORE" : "Ciemność spowijająca ciemność - echa z przyszłości i przeszłości, z miejsc i momentów dziejowych, sączące się przez rzeczywistość. Więzienie umysłu i duszy opętane przez bestie, wiecznie podgryzające Twojego ducha. Wiecznie wystawiające Cię na próbę. Nieskończenie 『KU??S?ZĄCE』, powtarzając cykl raz za razem...\r\n\r\nZbadali już każdy kąt Twojego umysłu, 【PRZE?PEŁ?ZN??ĘLI』 każdą synapsę w poszukiwaniu wspomnień i danych - broni do użycia przeciwko teoretycznym armiom, o sercach wytrzymalszych a ciałach wymykających się schwytaniu. 【S??ZEP??CZĄC?」 i  stukocząc można dostrzec, jak obserwują zza celi, już nie zaciekawieni, ale dalej patrolujący teren. W tym czyśćcu nie ma głodu ani pragnienia - zostają tylko「ECH?A』\r\n\r\n「JAK ??DŁU?GO?」』 to już trwa? Czas zdawał się zakrzywiać się i wypadać, pomiędzy oddechami krążącymi 『「?W ?TO?NI」』」. Wszechogarniająca ciemność zaczyna 【UT??AP?IAĆ?」 płuca i 『ZAT??AP?IAĆ』 żyły inkyatramentem. Wspomnienia 「NA?JE?ŻDŻ?AJ?ĄCE?」 rzeczywistość, która bladnie i ulatuje w zamierzchłą przeszłość. 『「?U??D??ER?Z?E?NIE」』』 przełamane jedynie odgłosem oczu obserwujących..\r\n\r\n【【『?SZAR?P ?K?RATY??』】. \r\n\r\nWywijanie i wyginanie się, pochłonięty 『?L?ĘKI?EM?」』 - wcielanie się w udrękę. Odrodzony niczym chorobliwa przepowiednia- kończyny jak martwe ciała na dnie morza. Już nie 『?PODLE??G?ŁY?\r\n\r\n『GŁ??ÓD?」  「?PRAG??NI??ENIE?」  『NADZI?EJA?」\r\n\r\n<style=cMono>『SP?OŻYJ?』<\/style>\r\n",
+	
+	
 	"BANDIT_BODY_NAME": "Bandyta",
 	"HAND_BODY_NAME": "HAN-D",
 	"ENFORCER_BODY_NAME": "Egzekutor",
@@ -833,241 +833,458 @@
 
 
 	"BEETLE_BODY_NAME": "Żuk",
-	"BEETLE_BODY_LORE" : "<style=cMono>\r\n$ Transkrypcja obrazu... gotowe.\r\n$ Rozpracowywanie... gotowe.\r\n$ Wyprowadzenie łańcuchów tekstowych... gotowe.\r\nZakończono!\r\n</style>\r\n\r\nTo dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Badań i Dokumentacji Życia Pozaziemskiego. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\r\n\r\n---------------------\r\n\r\nNapotkaliśmy więcej form życia pozaziemskiego - cóż za cudowna niespodzianka! Gdy przeszukiwaliśmy okolicę za żywnością, ziemia zaczęła się kołysać i wiele dużych owadopodobnych stworzeń zaczęło wykopywać się z gruntu.\r\n\r\nOpiszę ich właściwości poniżej. Nadałem im roboczą nazwę 'Robotnik Żuk'.\r\n\r\n\u2022 Wielkości małej krowy. Czworonożne, z dwiema dużymi przednimi kończynami. Poruszają się podobnie do ziemskiego goryla. Pięć oczu.\r\n\r\n\u2022 Na głowie i grzbiecie, prawdopodobnie w celach obronnych, żuk posiada dwie pancerzowe płytki chitynowe. Zdaje się wydzielać woskowatą substancję.\r\n\r\n\u2022 Wydaje się, że żuki są zwierzętami stadnymi, o hierarchii, której nie mogę rozszyfrować. Byłem świadkiem, jak grupa 4 żuków odpoczywała pod drzewem, gdy pojawil się wokół nich piąty. Zerwały się na nogi i zaczęły wielokrotnie taranować głowami stworzenie, aż zbite i posiniaczone odeszło.\r\n\r\n\u2022 Tharson doniósł mi, że żuki są bardzo agresywne i terytorialne.\r\n",
+	"BEETLE_BODY_LORE" : "<style=cMono>\r\n$ Transkrypcja obrazu... gotowe.\r\n$ Rozpracowywanie... gotowe.\r\n$ Wyprowadzenie łańcuchów tekstowych... gotowe.\r\nZakończono!\r\n</style>\r\n\r\nTo dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Research and Documentation of Outer Life. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\r\n\r\n---------------------\r\n\r\nNapotkaliśmy więcej form życia pozaziemskiego - cóż za cudowna niespodzianka! Gdy przeszukiwaliśmy okolicę za żywnością, ziemia zaczęła się kołysać i wiele dużych owadopodobnych stworzeń zaczęło wykopywać się z gruntu.\r\n\r\nOpiszę ich właściwości poniżej. Nadałem im roboczą nazwę 'Robotnik Żuk'.\r\n\r\n\u2022 Wielkości małej krowy. Czworonożne, z dwiema dużymi przednimi kończynami. Poruszają się podobnie do ziemskiego goryla. Pięć oczu.\r\n\r\n\u2022 Na głowie i grzbiecie, prawdopodobnie w celach obronnych, żuk posiada dwie pancerzowe płytki chitynowe. Zdaje się wydzielać woskowatą substancję.\r\n\r\n\u2022 Wydaje się, że żuki są zwierzętami stadnymi, o hierarchii, której nie mogę rozszyfrować. Byłem świadkiem, jak grupa 4 żuków odpoczywała pod drzewem, gdy pojawil się wokół nich piąty. Zerwały się na nogi i zaczęły wielokrotnie taranować głowami stworzenie, aż zbite i posiniaczone odeszło.\r\n\r\n\u2022 Tharson doniósł mi, że żuki są bardzo agresywne i terytorialne.\r\n",
 
 	"BEETLEGUARD_BODY_NAME": "Strażnik Żuk",
-	"BEETLEGUARD_BODY_LORE" : "<style=cMono>\r\n$ Transkrypcja obrazu... gotowe.\r\n$ Rozpracowywanie... gotowe.\r\n$ Wyprowadzenie łańcuchów tekstowych... gotowe.\r\nZakończono!\r\n</style>\r\n\r\nTo dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Badań i Dokumentacji Życia Pozaziemskiego. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\r\n\r\n---------------------\r\n\r\nNiesamowite! Byliśmy świadkami pierwszego w historii euspołecznego stworzenia spoza Ziemi. Z oddali obserwuję gigantycznego kuzyna wcześniej opisanych Robotników Żuków. \r\n\r\nOpiszę jego właściwości poniżej. Nadałem im roboczą nazwę 'Strażnik Żuk'.\r\n\r\n\u2022 Znacznie większy od swoich mniejszych kuzynów, Strażnik jest wielkości nosorożca. Strażnik ma te same 5 oczu co Robotnicy, przy czym jedno z nich wystaje ze szczytu głowy. Prawdopodobnie pozwala to Strażnikowi widzieć, gdy trzyma głowę nisko w pozycji obronnej.\r\n\r\n\u2022 Strażnik wydaje się stać wyżej w hierarchii społecznej niż Robotnik. Byłem świadkiem rozproszenia się Robotników, gdy pojawił się Strażnik.\r\n\r\n\u2022 Pancerz chitynowy Strażnika pokrywa całe jego ciało, jedynie stawy odsłaniają cieńszy, ciemniejszy egzoszkielet poniżej. \r\n\r\n\u2022 Tharson doniósł, że chityna Strażnika jest znacznie twardsza niż u Robotników. Zużyliśmy wiele zasobów, aby powalić tego wspaniałego stwora, w tym naszą jednorazową wyrzutnię rakiet. Walka Tharsona ze Strażnikiem trwała około godziny, zanim w końcu uległ. Niesamowite! Tharson jest cały po tym starciu.",
+	"BEETLEGUARD_BODY_LORE" : "<style=cMono>\r\n$ Transkrypcja obrazu... gotowe.\r\n$ Rozpracowywanie... gotowe.\r\n$ Wyprowadzenie łańcuchów tekstowych... gotowe.\r\nZakończono!\r\n</style>\r\n\r\nTo dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Research and Documentation of Outer Life. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\r\n\r\n---------------------\r\n\r\nNiesamowite! Byliśmy świadkami pierwszego w historii euspołecznego stworzenia spoza Ziemi. Z oddali obserwuję gigantycznego kuzyna wcześniej opisanych Robotników Żuków. \r\n\r\nOpiszę jego właściwości poniżej. Nadałem im roboczą nazwę 'Strażnik Żuk'.\r\n\r\n\u2022 Znacznie większy od swoich mniejszych kuzynów, Strażnik jest wielkości nosorożca. Strażnik ma te same 5 oczu co Robotnicy, przy czym jedno z nich wystaje ze szczytu głowy. Prawdopodobnie pozwala to Strażnikowi widzieć, gdy trzyma głowę nisko w pozycji obronnej.\r\n\r\n\u2022 Strażnik wydaje się stać wyżej w hierarchii społecznej niż Robotnik. Byłem świadkiem rozproszenia się Robotników, gdy pojawił się Strażnik.\r\n\r\n\u2022 Pancerz chitynowy Strażnika pokrywa całe jego ciało, jedynie stawy odsłaniają cieńszy, ciemniejszy egzoszkielet poniżej. \r\n\r\n\u2022 Tharson doniósł, że chityna Strażnika jest znacznie twardsza niż u Robotników. Zużyliśmy wiele zasobów, aby powalić tego wspaniałego stwora, w tym naszą jednorazową wyrzutnię rakiet. Walka Tharsona ze Strażnikiem trwała około godziny, zanim w końcu uległ. Niesamowite! Tharson jest cały po tym starciu.",
 	"BISON_BODY_NAME" : "Bizon Długorogi ",
 
-		"BISON_BODY_LORE": "\u201CBizon Saturniański - powszechnie określany jako Bizon Długorogi z Rademii - jest zagadką dla zoologów, z powodu ich nagłego i tajemniczego zniknięcia z rodzimego środowiska. \r\n\r\nChociaż za obecne i najbardziej prawdopodobne wyjaśnienie uważa się kłusownictwo, surowe przepisy łowieckie na Saturnie kwestionują tę teorię. Niesamowita siła i izolująca sierść Bizona Długorogiego uczyniła z niego kluczowego drapieżnika w ekosystemie planety Rademia - a jego dziwne, metaliczne narośle uczyniły go popularnym trofeum dla myśliwych. \r\n\r\nDo dziś zaginięcie Bizona Saturniańskiego pozostaje jedną z największych tajemnic zoologii.\u201D\r\n\r\n- Ksenobiologia Systemu Remusa, drugie wydanie ",
-		"GOLEM_BODY_NAME": "Kamienny Golem",
-		"GOLEM_BODY_LORE": "\u201CWielu uczonych pisało o sile życiowej obecnej w ziemi, po której stąpamy. O tym, że ziemia pod naszymi stopami żyje, na swój własny sposób. Po moich doświadczeniach na tej planecie, mogę się wtrącić do tej teorii; na Petrichor V żyją golemy, każdy górujący nad człowiekiem na około 10 stóp wysokości, zbudowany z kamienia i sznurka, ożywiony tajemniczymi, nieziemskimi siłami. \r\n\r\nZ podstawowej obserwacji wynika, że golemy wydają się pełnić funkcję garnizonu obronnego dla Petrichor. Choć łagodne wobec mieszkańców planety, ich prawdziwa moc ujawnia się, gdy wejdą na pole bitwy. Manipulując potężnym źródłem energii, golemy atakują za pomocą potężnych fal uderzeniowych i promieni laserowych, zdolnych z łatwością rozbić ściany klifów. W chwili pisania tego tekstu mechanizmy ożywiające golemy pozostają nieznane.\u201D\r\n\r\n- Tajemnice Petrichor V, Pierwsza Wersja Robocza \r\n" 
+	"BISON_BODY_LORE": "\u201CBizon Saturniański - powszechnie określany jako Bizon Długorogi z Rademii - jest zagadką dla zoologów, z powodu ich nagłego i tajemniczego zniknięcia z rodzimego środowiska. \r\n\r\nChociaż za obecne i najbardziej prawdopodobne wyjaśnienie uważa się kłusownictwo, surowe przepisy łowieckie na Saturnie kwestionują tę teorię. Niesamowita siła i izolująca sierść Bizona Długorogiego uczyniła z niego kluczowego drapieżnika w ekosystemie planety Rademia - a jego dziwne, metaliczne narośle uczyniły go popularnym trofeum dla myśliwych. \r\n\r\nDo dziś zaginięcie Bizona Saturniańskiego pozostaje jedną z największych tajemnic zoologii.\u201D\r\n\r\n- Ksenobiologia Systemu Remusa, drugie wydanie ",
+	"GOLEM_BODY_NAME": "Kamienny Golem",
+	"GOLEM_BODY_LORE": "\u201CWielu uczonych pisało o sile życiowej obecnej w ziemi, po której stąpamy. O tym, że ziemia pod naszymi stopami żyje, na swój własny sposób. Po moich doświadczeniach na tej planecie, mogę się wtrącić do tej teorii; na Petrichor V żyją golemy, każdy górujący nad człowiekiem na około 10 stóp wysokości, zbudowany z kamienia i sznurka, ożywiony tajemniczymi, nieziemskimi siłami. \r\n\r\nZ podstawowej obserwacji wynika, że golemy wydają się pełnić funkcję garnizonu obronnego dla Petrichor. Choć łagodne wobec mieszkańców planety, ich prawdziwa moc ujawnia się, gdy wejdą na pole bitwy. Manipulując potężnym źródłem energii, golemy atakują za pomocą potężnych fal uderzeniowych i promieni laserowych, zdolnych z łatwością rozbić ściany klifów. W chwili pisania tego tekstu mechanizmy ożywiające golemy pozostają nieznane.\u201D\r\n\r\n- Tajemnice Petrichor V, Pierwsza Wersja Robocza \r\n" 
 
-		
-		
-			"WISP_BODY_NAME": "Mniejszy Duch", 
-			"WISP_BODY_LORE": "JEDNA MASKA. MAŁA.\r\n\r\nJAKOŚĆ MASKI JEST SATYSFAKCJONUJĄCA.  WYCIĄGNĘ JĄ Z PIECA.\r\n\r\nNIECH SIĘ ZACZNIE.\r\n\r\nZWÓJ LINKI DENKU \u2013 NA MOC.\r\n\r\nPASEK KORY EDELWOOD \u2013 NA CIEKAWOŚĆ.\r\n\r\nGARŚĆ [prochu] \u2013 NA DUCHA.\r\n\r\nAH, WITAM MALEŃKI. WITAMY W ŻYCIU.\r\n\r\nOH\r\n\r\nJESTEŚ ZABAWNYM MALEŃSTWEM, NIEPRAWDAŻ? TAK, UROSŁEM SPORO.\r\n\r\nALE NIE BÓJ SIĘ MOJEJ WIELKOŚCI, MALEŃKI. RACZEJ ZOBACZ JAK POZWALA MI PIELĘGNOWAĆ NASZ OGRÓD. \r\n\r\nPOPATRZ.\r\n\r\n...WIDZISZ? W ŻYCIU PEŁNO RÓŻNORAKICH STWORZEŃ. JEDNE DUŻE. INNE MAŁE.\r\n\r\nWYGLĄDA NA TO ŻE MASZ NOWYCH PRZYJACIÓŁ KTÓRZY CHCĄ CIĘ POZNAĆ. \r\n\r\nWIĘC? NIE KAŻ IM CZEKAĆ, MALEŃKI. \r\n\r\nIDŹ I CIESZ SIĘ ŻYCIEM \u2013 OTO MÓJ DAR DLA CIEBIE.\r\n",
-			"GREATERWISP_BODY_NAME": "Potężniejszy Duch",
-			"GREATERWISP_BODY_LORE": "POZA OGRODEM ROZPĘTUJE SIĘ BURZA.\r\n\r\nZACZYAM OD MASKI. DUŻA, ZDOBIONA \u2013 WYPIEKANA DWUKROTNIE. MOCNA, JAK METAL.\r\n\r\nDAJĘ JEJ MIARKĘ SPOSZKOWANEGO PIORUNA \u2013 NA MOC.\r\n\r\nDOSTANIE WARSTWĘ SMOCZEGO LIŚCIA \u2013 NA ŻAR.\r\n\r\nDOSTANIE DWA RAMIONA \u2013 NA ZRĘCZNOŚĆ.\r\n\r\nDAM JEJ PIĘĆ MIAREK [prochu] \u2013 NA DUCHA.\r\n\r\nPROCES DOBIEGA KOŃCA. WITAMY W ŻYCIU.\r\n\r\nSPÓJRZENIE NA NASZ OGRÓD \u2013 TU LEŻY TWÓJ OBOWIĄZEK.\r\n\r\nWIESZ, CO MUSISZ ROBIĆ, TAK? DOBRE.\r\n\r\nIDŹ... IDŹ I CHROŃ NASZ OGRÓD.\r\n",
-
-
-"LEMURIAN_BODY_NAME": "Lemurianin",
-"LEMURIAN_BODY_LORE": "$ Transkrypcja obrazu... gotowe.\r\n$ Rozpracowywanie... gotowe.\r\n$ Wyprowadzenie łańcuchów tekstowych... gotowe.\r\nZakończono!\r\n\r\nTo dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Badań i Dokumentacji Życia Pozaziemskiego. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\r\n\r\n---------------------\r\n\r\nPodczas wyprawy w poszukiwaniu substancji jadalnych do zabrania z powrotem na statek, natknęliśmy się na samotne stworzenie, które wykazywało się niezwykłą inteligencją. Choć początkowo zaskoczone naszym nagłym pojawieniem się, szybko stało się wrogie - a Tharson, niestety, był zmuszony je usunąć.\r\n\r\nOpiszę jego właściwości poniżej. Nadałem mu roboczą nazwę 'Lemurianin'.\r\n\r\n* Wysokie, dwunożne stworzenia przypominające jaszczurki. Zdobione w prymitywny pancerz z nieznanego metalu, co jest oznaką inteligencji.\r\n\r\n* Zdolne do ziania ogniem, udaje się nawet z odległości trafić Tharsona w klatkę piersiową ognistą kulą. Tharson jest cały po tym starciu.\r\n\r\n* Wydają się być ciepłokrwiste, w przeciwieństwie do większości jaszczurek na Ziemi. Obserwowałem, jak wynurzają się z podziemnych gniazd na całej planecie, nawet w zimnych rejonach, gdzie jaszczury nie ośmieliłyby się przebywać. Mieszek płomienny, z którego produkują ognisty oddech, musi być w stanie regulować temperaturę ich ciała.\r\n\r\n* Obserwowane z daleka, Lemurianie są stworzeniami społecznymi, zazwyczaj polującymi w stadach i rozmawiającymi ze sobą. Ich język jest obecnie nierozszyfrowany, ale wydaje się wystarczająco złożony, aby wspierać pieśni i rytmiczny przepływ zdań.\r\n ",
+	
+	
+	"WISP_BODY_NAME": "Mniejszy Duch", 
+	"WISP_BODY_LORE": "JEDNA MASKA. MAŁA.\r\n\r\nJAKOŚĆ MASKI JEST SATYSFAKCJONUJĄCA.  WYCIĄGNĘ JĄ Z PIECA.\r\n\r\nNIECH SIĘ ZACZNIE.\r\n\r\nZWÓJ LINKI DENKU \u2013 NA MOC.\r\n\r\nPASEK KORY EDELWOOD \u2013 NA CIEKAWOŚĆ.\r\n\r\nGARŚĆ [prochu] \u2013 NA DUCHA.\r\n\r\nAH, WITAM MALEŃKI. WITAMY W ŻYCIU.\r\n\r\nOH\r\n\r\nJESTEŚ ZABAWNYM MALEŃSTWEM, NIEPRAWDAŻ? TAK, UROSŁEM SPORO.\r\n\r\nALE NIE BÓJ SIĘ MOJEJ WIELKOŚCI, MALEŃKI. RACZEJ ZOBACZ JAK POZWALA MI PIELĘGNOWAĆ NASZ OGRÓD. \r\n\r\nPOPATRZ.\r\n\r\n...WIDZISZ? W ŻYCIU PEŁNO RÓŻNORAKICH STWORZEŃ. JEDNE DUŻE. INNE MAŁE.\r\n\r\nWYGLĄDA NA TO ŻE MASZ NOWYCH PRZYJACIÓŁ KTÓRZY CHCĄ CIĘ POZNAĆ. \r\n\r\nWIĘC? NIE KAŻ IM CZEKAĆ, MALEŃKI. \r\n\r\nIDŹ I CIESZ SIĘ ŻYCIEM \u2013 OTO MÓJ DAR DLA CIEBIE.\r\n",
+	"GREATERWISP_BODY_NAME": "Potężniejszy Duch",
+	"GREATERWISP_BODY_LORE": "POZA OGRODEM ROZPĘTUJE SIĘ BURZA.\r\n\r\nZACZYAM OD MASKI. DUŻA, ZDOBIONA \u2013 WYPIEKANA DWUKROTNIE. MOCNA, JAK METAL.\r\n\r\nDAJĘ JEJ MIARKĘ SPOSZKOWANEGO PIORUNA \u2013 NA MOC.\r\n\r\nDOSTANIE WARSTWĘ SMOCZEGO LIŚCIA \u2013 NA ŻAR.\r\n\r\nDOSTANIE DWA RAMIONA \u2013 NA ZRĘCZNOŚĆ.\r\n\r\nDAM JEJ PIĘĆ MIAREK [prochu] \u2013 NA DUCHA.\r\n\r\nPROCES DOBIEGA KOŃCA. WITAMY W ŻYCIU.\r\n\r\nSPÓJRZENIE NA NASZ OGRÓD \u2013 TU LEŻY TWÓJ OBOWIĄZEK.\r\n\r\nWIESZ, CO MUSISZ ROBIĆ, TAK? DOBRE.\r\n\r\nIDŹ... IDŹ I CHROŃ NASZ OGRÓD.\r\n",
 
 
-			
-			
+	"LEMURIAN_BODY_NAME": "Lemurianin",
+	"LEMURIAN_BODY_LORE": "$ Transkrypcja obrazu... gotowe.\r\n$ Rozpracowywanie... gotowe.\r\n$ Wyprowadzenie łańcuchów tekstowych... gotowe.\r\nZakończono!\r\n\r\nTo dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Research and Documentation of Outer Life mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\r\n\r\n---------------------\r\n\r\nPodczas wyprawy w poszukiwaniu substancji jadalnych do zabrania z powrotem na statek, natknęliśmy się na samotne stworzenie, które wykazywało się niezwykłą inteligencją. Choć początkowo zaskoczone naszym nagłym pojawieniem się, szybko stało się wrogie - a Tharson, niestety, był zmuszony je usunąć.\r\n\r\nOpiszę jego właściwości poniżej. Nadałem mu roboczą nazwę 'Lemurianin'.\r\n\r\n* Wysokie, dwunożne stworzenia przypominające jaszczurki. Zdobione w prymitywny pancerz z nieznanego metalu, co jest oznaką inteligencji.\r\n\r\n* Zdolne do ziania ogniem, udaje się nawet z odległości trafić Tharsona w klatkę piersiową ognistą kulą. Tharson jest cały po tym starciu.\r\n\r\n* Wydają się być ciepłokrwiste, w przeciwieństwie do większości jaszczurek na Ziemi. Obserwowałem, jak wynurzają się z podziemnych gniazd na całej planecie, nawet w zimnych rejonach, gdzie jaszczury nie ośmieliłyby się przebywać. Mieszek płomienny, z którego produkują ognisty oddech, musi być w stanie regulować temperaturę ich ciała.\r\n\r\n* Obserwowane z daleka, Lemurianie są stworzeniami społecznymi, zazwyczaj polującymi w stadach i rozmawiającymi ze sobą. Ich język jest obecnie nierozszyfrowany, ale wydaje się wystarczająco złożony, aby wspierać pieśni i rytmiczny przepływ zdań.\r\n ",
+
+
+	
+	
 	"LEMURIANBRUISER_BODY_NAME": "Starszy Lemurianin",
 	"LEMURIANBRUISER_BODY_LORE": "<style=cMono>\r\nFIELDTECH Translator Obraz-na-Tekst (v2.5.10b)\r\n# Oczekiwanie danych wejściowych... gotowe.\r\n# Czytanie obrazu pod katem tekstu... gotowe.\r\n# Transkrypcja danych... gotowe.\r\n# Przekład tekstu... gotowe. [Wyjątki: 12]\r\nZakończono: Wyprowadzanie wyników.<\/style>\r\n\r\nOcaleni przez [bohatera], nasz raj zamieszkiwały rozległe tunele i bogate jaskinie. Budując swój dom w głębinach raju, zaczęliśmy tworzyć wielką cywilizację. \r\n\r\nStarsi wznosili wyszukane kwatery, zdobione tetrafoilem i szklanymi bombkami, a nasi najmłodsi zaczęli wytyczać ścieżki przez tunele. [Bohater] został uhonorowany za [swoją] dobroć, a my zbudowaliśmy na powierzchni raju wspaniałą świątynię na [jego] cześć. Pieśń i taniec rozbrzmiewały przez tunele przez wiele tygodni, celebrując nasze ocalenie.\r\n\r\n<style=cMono>Błędy w tłumaczeniu:<\/style>\r\n# Nie udało się w pełni przetłumaczyć [Bohater].\r\n",
 
 	
+	"IMP_BODY_NAME": "Chochlik",
+	"IMP_BODY_LORE" : "> Automatyczny raport 55a695f4fdc6d7d961a8d74339675ca8 jest dostępny z reportu serwisowego 6747a1a75787e7a92375a0d86974657d.\r\n> Proszę zapoznać się z raportem 6747a1a75787e7a92375a0d86974657d w celu sprawdzenia dodatkowych szczegółów. \r\n> Typ raportu: Transkrypcja Maszynowa > Podstawowy Profil Rozmowny \u201CBrian\u201D\r\n> - Źródło : 6747a1a75787e7a92375a0d86974657d (Nieznany Artefakt Materialny #4913)\r\n> Priorytet: Wysoki\r\n> Treść Raportu:\r\n\r\n-- Rozpoczęcie fragmentu wybranego do sprawdzenia --\r\n\r\nJuż od przybycia naszej grupie nie udaje się uniknąć koszmarów. Długie noce i nienaturalnie regularne zaćmienia sprawiają, że światło słoneczne jest rzadkością; odrażająco musimy ryzykować swoje życia, polując i pożerając miejscową faunę jak podłe zwierzęta. Chociaż powietrze nadaje się do oddychania, nie jest to błogosławieństwo - nie byliśmy w stanie uciec od obrzydliwego odoru, który teraz przyjmujemy za składnik atmosfery tego świata. Co gorsza, próby powrotu przez portal okazują się daremne w naszym osłabionym stanie. Wymaga to znacznego wysiłku, aby wejść [w przestrzeń pomiędzy] - a brakuje nam siły, by pozostać tam wystarczająco długo, by przebyć jej granicę. Jesteśmy uwięzieni.\r\n\r\nW dodatku jest jeszcze władca tego świata. O dziwo, właśnie w jego obecności czujemy się najbardziej osłabieni - a kiedy nas wyczuje, nie marnuje czasu i nadchodzi. Podjęliśmy próbę zabicia go w nadziei na przywrócenia sobie dostępu do portalu, ale zakończyła się taką katastrofą, że jasnym stało się, że nie podejmiemy drugiego podejścia. Gdyby nie nasza zdolność do chwilowego zanurzania się w [przestrzeń pomiędzy] celem uniknięcia starć, z pewnością zostalibyśmy wyrżnięci do nogi. \r\n\r\nGdy tylko patrzymy na niego niezauważeni, zastyga na otwartej przestrzeni, zapatrzony w księżyc. Dostrzegam w tym jakiś rodzaj ironii.\r\n\r\nNiech przeklęte będzie to miejsce - i jego władca. Oby udało się nam sprowadzić słowo o naszym położeniu do rodzinnego świata - i oby wielki imperator raczył nadejść i darować temu \"bóstwu\" szybką śmierć.\r\n\r\n-- Koniec nagrania --\r\n\r\n-- Koniec fragmentu wybranego do sprawdzenia --\r\n\r\n> BŁĘDY W TŁUMACZENIU: 1\r\n> 1> [przestrzeń pomiędzy] nie udało się w pełni przetłumaczyć.\r\n\r\n> Pełny zapis audio jest dostępny w raporcie 3bb540efade7e4df993c5d6c118830e7.\r\n==============================================================\r\n" , 
 
 
-		
+	"JELLYFISH_BODY_NAME": "Meduza",
+	"JELLYFISH_BODY_LORE" : "<style=cMono>\r\n$ Transkrypcja obrazu... gotowe.\r\n$ Rozpracowywanie... gotowe.\r\n$ Wyprowadzenie łańcuchów tekstowych... gotowe.\r\nZakończono!\r\n</style>\r\n\r\nTo dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Research and Documentation of Outer Life. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\r\n\r\n---------------------\r\n\r\nDziś, zaledwie kilka godzin po naszym niespodziewanym lądowaniu, zobaczyliśmy pierwszą formę życia pozaziemskiego na tej planecie.\r\n\r\nOpiszę jej właściwości poniżej. Nadałem jej roboczą nazwę 'Ikaryjska Meduza'.\r\n\r\n\u2022 Duży, okrągły bezkręgowiec, około 2m średnicy, z dwoma wleczonymi mackami. Mieni się biało-niebieskim blaskiem. Bardzo przypomina stworzenia z rodzaju Medusozoa z Ziemi. \r\n\r\n\u2022 Wydaje się, że doświadczają neutralnej wyporności w atmosferze tej planety, unosząc się w niej. Wysnuwam teorię, że jest to spowodowane unikalnym składem gazów wewnątrz ich ciała, które wydostają się, pozwalając meduzom poruszać. \r\n\r\n\u2022 Podczas obserwacji, Meduzy kąpią się w promieniach słonecznych, obracając swe ciała. Prawdopodobnie są zmiennocieplne.\r\n\r\n\u2022 Na moją prośbę, Tharson zbliżył się do samotnej Meduzy. Po wykryciu jego obecności, zaczęła świecić, wibrować i pulsować, po czym nagle zdetonowała z błyskiem i głośnym wybuchem, powodując poważne oparzenia i czasową utratę wzroku u Tharsona. Wnioskuję, że przez wzbudzanie gazów wewnątrz swoich ciał, Meduzy potrafią wywołać ich eksplozję, poparzając wszystko w pobliżu. Tharson jest cały po tym starciu.\r\n",
+	"CLAY_BODY_NAME" : "Gliniany Człek", 
+
+
+	"HERMIT_CRAB_BODY_NAME" : "Rak Pustelnik",
+	"HERMIT_CRAB_BODY_LORE": "$ Transkrypcja obrazu... gotowa.\r\n$ Rozpracowywanie... gotowe.\r\n$ Wyprowadzenie łańcuchów tekstowych... gotowe.\r\nZakończono!\r\n\r\nTo dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Research and Documentation of Outer Life. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\r\n\r\n---------------------\r\n\r\nNagle dostaliśmy ostrzał, gdy Tharson został uderzony w głowę kulą śluzu i nieczystości - Tharson jest cały po tym starciu. Śledząc trajektorię, podążyliśmy ścieżką pocisków do ich źródła, dużego skorupiastego stworzenia.\r\n\r\nOpiszę jego właściwości poniżej. Nadałem mu roboczą nazwę 'Rak Pustelnik Forhamianin'.\r\n\r\n* Rak maskuje się jako stalagmit - uważna obserwacja może ujawnić prawdziwą tożsamość Raka.\r\n\r\n* Raki nie lubią bliskiego kontaktu z ofiarą, uciekając przy zbliżeniu. Atakuje wyłącznie z dalekiego dystansu, wyrzucając kule śluzu i odchodów własnego ciała z niewiarygodną siłą. \r\n\r\n* Raki wydają się nie mieć oczu - często napotykają przeszkody i obijają się o ściany. Jak potrafią zlokalizować cel z dalekiej odległości z przyzwoitą dokładnością pozostaje nieznane.\r\n\r\n* Raki zdają się mieć "ulubione muszle". Obserwowałem kilka okazów wyraźnie za dużych na swoje muszle, porzucające je tylko wtedy, gdy ulegną zniszczeniu i są zmuszone znaleźć nową. Niektóre Raki zdają się również preferować ulubione materiały.\r\n",
+
+
+
+	"BELL_BODY_NAME" : "Mosiężny Automat",
+	"BELL_BODY_LORE": "<style=cMono>\r\nWitaj w DataScraper (v3.1.53 – wersja beta)\r\n$ Analiza pamięci... gotowa.\r\n$ Rozpracowywanie... gotowe.\r\n$ Przeszukiwanie istotnych danych... gotowe.\r\nZakończono!\r\n<\/style>\r\n\r\nTo dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Research and Documentation of Outer Life. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\r\n\r\n---------------------\r\n\r\nZ radością ogłaszam pierwsze udokumentowane odkrycie czysto robotycznej formy życia! Po przejściu przez podmokłe tereny musieliśmy uruchomić jakiś alarm, ponieważ te tajemnicze istoty zebrały się i szybko na nas zeszły. Opiszę ich właściwości poniżej. Nadałem im roboczą nazwę 'Mosiężny Automat'.\r\n\r\n* Potrafią miotać kolczastą artylerią z niewiarygodną siłą. Tharson szybko uniknął ognia Automatu, lecz mimo to pocisk przebił się przez pobliskie drzewo z niewielkim wysiłkiem, powalając je.\r\n\r\n* Wydają się wyczuwać otoczenie i cele za pomocą echolokacji. Stale emitują niski, dzwoniący dźwięk z dzwonowatego urządzenia w swoim rdzeniu, a ich celność została znacznie zmniejszona po tym, jak Tharson wylądował czysty cios w dzwon, wgniatając urządzenie.\r\n\r\n* Skonstruowano je ze stopu obcych, obecnie badanego przez naszych przyjaciół z zespołu naukowego. Przypomina ziemski mosiądz, ale wykazuje się wytrzymałością i odpornością bardziej przypominającą stal.\r\n\r\n* To, jak działają te Automaty jest wciąż tajemnicą, ponieważ nie posiadają żadnych obwodów ani komputerów pokładowych. Cokolwiek animuje te maszyny, musi być unikalne dla tej planety, ponieważ żaden tak zaawansowany poziom technologii nigdy nie został udokumentowany.\r\n",
+
+
+
+	"CLAYBRUISER_BODY_NAME": "Gliniany Templariusz",
+	"CLAYBRUISER_BODY_LORE": "Kryjąc się za głazem, ocalały poczuł mdłości, słysząc odgłos smoły chlupoczącej pod górę. Z tego dźwięku wynikało, że Templariusz nie był sam - miał towarzystwo.\r\n\r\nOpuścił swoją kryjówkę, aby się zaopatrzyć - nie żeby na pustyni było wiele do znalezienia - kiedy został zaatakowany przez nowy rodzaj potwora. Przypominająca człowieka istota mierzyła około dwóch z górą metrów, a jej skóra ze smoły była przyozdobiona wyszukanymi glinianymi akcesoriami.\r\n\r\nMiał tylko chwilę by opanować zaskoczenie, zanim Templariusz otworzył ogień, wystrzeliwując pociski z ogromnego garnka, który niósł. Ocalały uciekł, ale Templariusz zanotował kilka trafień. Smoła wniknęła w skafander uciekiniera, a on powoli tracił czucie w nogach.\r\n\r\nKrótka iskierka nadziei - w kryjówce miał zapas medyczny. Jeśli tylko uda mu się wrócić, może uda mu się wyleczyć nogę i usunąć smołę...\r\n\r\nIskierka szybko zgasła pod salwą pocisków.\r\n", 
 
 	
 
-		
-	
+	"VULTURE_BODY_NAME" : "Sęp ze Stopu",
+	"VULTURE_BODY_LORE" : "> Automatyczny raport 9f6d5d41671c241a13bac58b2482deb7 jest teraz dostępny z rekordu serwisowego 741c655e2d36c5f6973fd3a36aa0f950.\r\n> Proszę zapoznać się z raportem 741c655e2d36c5f6973fd3a36aa0f950, by sprawdzić dodatkowy personel zaangażowany w sprawę.\r\n> Typ raportu: Transkrypcja\r\n> - Źródło: 741c655e2d36c5f6973fd3a36aa0f950 (Rejestrator Osobisty)\r\n> Priorytet: Średni\r\n> Treść Raportu:\r\n\r\n-- Rozpoczęcie fragmentu wybranego do sprawdzenia --\r\n\r\nKarl: \"STÓJ! Wszyscy stój!\"\r\n\r\nAstrid: \"Karl? Dlaczego się tak zasapujesz? Biegłeś przez całą drogę? Co się stało?\"\r\n\r\nEmil: \"Co się dzieje?\"\r\n\r\nKarl: \"TAK, Astrid, musicie mnie wysłuchać. Wiecie o tych Szerszeniach w czarnych kombinezonach bojowych, którzy odłączyli się jakiś czas temu? Najeźdźcy, wielkie firmy ochroniarskie? Widziałem, jak jeden z nich strzelał do tych wielkich ptaszydeł, które czają się koło klifów - a jedno ODNOSIŁO OGNIA. Z BRONI. Pociski musiały się odbić od hartowanego pancerza - ale ptak dalej wiedział, co robić. To nie są głupie zwierzęta. Nie ma opcji.\"\r\n\r\nAstrid: \"To\u2026 niemożliwe.\"\r\n\r\nKarl: \"To prawda, byłem świadkiem! Musiały zabrać broń poprzednikom.\"\r\n\r\nEmil: \"Dlaczego przeleciałeś całą drogę ze stanowiska, żeby nam to powiedzieć?\"\r\n\r\nKarl: \"Bo nie pozwoliliście mi skończyć! Po wystrzeleniu magazynka po prostu upuścił broń i pomknął rozerwać jego zbroję pazurami. Jego PAZURAMI. Rozdarł go na pół\u2026 i zrzucił z klifu. Odfrunął na szczyty zabierając jego kombinezon i połowę ciała. Są co najmniej tak inteligentne jak my, gorzej nastawione i lepiej uzbrojone. Nie możemy zdobywać gór. Musimy się wycofać i je ominąć. I spakujmy się - teraz.\"\r\n\r\nEmil: \"To jakiś [OCENZUROWANO] żart, Karl. Teraz?\"\r\n\r\nKarl: \"TAK. TERAZ. I zgaście światła! Wyłączcie radar i całą łączność radiową. Emil, wyślij ostatnie wezwanie do Michaiła i Pawło, żeby ASAP wracali\"\r\n\r\nAstrid: \"Nie możemy tego zrobić. Będziemy zupełnie bezbronni. Ten radar jest jedynym systemem ostrzegania!\"\r\n\r\nKarl: \"Zapomniałem o tej części o robocie? [OCENZUROWANO] latającym robocie, który tam mają? Tym, który zawisł na sześć metrów w powietrzu z audiencją tych ptaków? Którym się \"komunikuje\" - i nie spuszcza wzroku z obozu, odkąd go zauważyłem? Astrid, mają robota - i wie on, że tu coś jest. Musimy. Się. Wycofać.\"\r\n\r\nEmil: \"To miejsce to koszmar. Dlaczego dopiero teraz się o tym dowiadujemy?\"\r\n\r\nKarl: \"EMIL. Zamknij się i załatw to wezwanie! Dyskusja będzie  dopuszczalna DOPIERO, jak będziemy mieli pewność,  że zrobiliśmy się całkiem niedostrzegalni i będziemy daleko, daleko stąd.\"\r\n\r\n-- Koniec nagrania --\r\n\r\n-- Koniec fragmentu wybranego do sprawdzenia --\r\n\r\n> Pełny zapis audio jest dostępny w raporcie c31653d0e4193db1d2ac281ee3828280.\r\n",
+
+
+	"ROBOBALLMINI_BODY_NAME" : "Sonda Solus",
+	"ROBOBALLMINI_BODY_LORE": "12001; POTWIERDZONO ZAPYTANIE O PROJEKT\r\n12001; PRZEGLĄD PROJEKTU ZMAGAZYNOWANYCH MODELI:\r\n;ID SER> 01250806120060106236\r\n;TYP> SONDY GÓRNICZE\r\n;NAJWAŻNIEJSZE FUNKCJE:\r\n>\r\n>\r\n> WYPOSAŻONA W SYSTEM DALEKOSIĘŻNEJ KOMUNIKACJI Z JEDNOSTKĄ CENTRALNĄ, POZWALAJĄCY PRZEKAZYWAĆ DANE DO ZŁOŻONYCH OBLICZEŃ\r\n> AUTONOMICZNY SYSTEM AI POKŁADOWEJ UMOŻLIWIA NIEPRZERWANĄ PRACĘ NAWET PO UTRACIE KONTAKTU Z JEDNOSTKĄ CENTRALNĄ\r\n> SILNIKI UMOŻLIWIAJĄCE 3D MOBILNOŚĆ PRZESTRZENNĄ; WYPOSAŻONE W NAPĘD MAKROCIĄGU DO 10QIKS CIĄGU PRZEZ KRÓTKIE WYBUCHY\r\n> GÓRNICZY LASER 2000D WYSTRZELIWA Z PRZEDNIEGO PORTU OPTYCZNEGO. POTRAFI PRZEPALIĆ NAWET MATERIAŁY ODPORNE NA WYSOKIE TEMPERATURY\r\n> BATERIE SŁONECZNE ŁATWO DOŁADOWAĆ W CZASIE PRACY\r\n>\r\n>\r\n12002; CZY TY TEŻ TAK JE LUBISZ?\r\n", 
+	"NULLIFIER_BODY_NAME" : "Bezkresny Oprawca",
+	"NULLIFIER_BODY_LORE" : "Zobaczyłem coś, podczas nocnej warty.\r\n\r\nOgromnego... kraba. Wyłonił się znikąd i zaczął dotykać obwodu jedną z przednich nóg - jakby szukał otwarcia. Sprawdził kilka metrów, po czym zniknął. Po chwili pojawił się na nowo.\r\n\r\nRozpracowałem jego schemat.\r\n\r\nCzekałem na niego, w przewidywanym miejscu kolejnej materializacji. Mój karabin mierzył w pustkę - nagle pustka zmieniła się w cel. Lecz nie potrafiłem nacisnąć spustu. \r\n\r\nOdwrócił się, patrząc prosto na mnie. Sparaliżowała mnie nie trwoga, a coś innego. Mówił wprost do mojego umysłu. Używał słów, których nie znałem, a mimo to nakazywał mi zastygnąć. Wrażenia nie sposób opisać słowami. Nie mogłem nacisnąć spustu. Z trudem sięgnąć po radio. Unikałem patrzenia w inną stronę. Kiedy słyszałem dzwonienie w uszach, krab wrócił do rutyny. Obserwowałem bez ruchu. Skończył obchód i ponownie spojrzał na mnie, jak na myśl na doczepkę. Potem odebrał mi coś, chociaż nie pamiętam co, i odszedł.\r\n\r\nChyba zdobył co chciał, nie wrócił więcej.\r\n\r\nCoś jest nie tak z moją głową. Nie mam siły mówić. Czy powinienem komukolwiek powiedzieć? Czy niewiedza byłaby jednak lepsza?\r\n\r\nA wszystkie te razy, kiedy słyszałem ten sam dźwięk? Zanim dotarłem do tego straszliwego miejsca?",
 
 	
 
-	//Reszta//
+	"PARENT_BODY_NAME" : "Rodzic",
+	"PARENT_BODY_LORE" : "<style=cMono>\r\n$ Transkrypcja obrazu... gotowe.\r\n$ Rozpracowywanie... gotowe.\r\n$ Wyprowadzenie łańcuchów tekstowych... gotowe.\r\nZakończono!\r\n</style>\r\n\r\nTo dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Badań i Dokumentacji Życia Pozaziemskiego. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\r\n\r\n---------------------\r\n\r\nPodczas oceny miejsca lądowania i małych, widmowych stworzeń, które teraz leżą, niestety na płasko, pod naszym statkiem, usłyszeliśmy zbliżające się głośne, dudniące kroki. Odeszliśmy, żeby z daleka obserwować zachowanie tej formy życia.\r\n\r\nOpiszę jej właściwości poniżej. Nadałem jej roboczą nazwę 'Rodzic'.\r\n\r\n\u2022 Wysokie, ciężkie olbrzymy o upiornej humanoidalnej sylwetce. Tam, gdzie spodziewałbyś się twarzy, jest tylko pustka, nadająca im wyraz obojętności. Ich widmowa skóra wydaje się płynąć jak wosk, ale mimo to nie zastyga u ich stóp.\r\n\r\n\u2022 Mają duże dłonie z przeciwstawnymi kciukami. Mogłoby to oznaczać, że posiadają zdolność do inteligencji, używając narzędzi lub badając otocznie przy pomocy zręcznej manipulacji. \r\n\r\n\u2022 Gdybyśmy wcześniej nie zajęli naszego punktu obserwacyjnego, stworzenie pojawiłoby się przy nas, zanim zdążylibyśmy je zauważyć. Odlęgłe dudnienie jego kroków zdradzało, jak szybko pokonało dystans.\r\n\r\n\u2022 Sprawiłem, by Tharson rzucił kamieniem w pobliżu stworzenia; nagle przejawy inteligencji zniknęły, zastąpione przez pierwotną furię. Rozpętała się śmiercionośna, dzika siła, gdy pięściami uderzało w ziemię, szukając sprawcy zakłócenia jego spokoju. Nasz statek nie wyszedł z tego spotkania bez szwanku.\r\n", 
 
 
-			"CHARACTER_SELECT_TITLE": "Wybór postaci",
-			"CHARACTER_SELECT_SELECT_SURVIVOR" : "Wybierz Ocalałego",
-			"SURVIVOR_OVERVIEW": "Opis",
-			"SURVIVOR_SKILLS": "Umiejętności",
-			"SURVIVOR_LOADOUT": "Ekwipunek",
-			"CHARACTER_SELECT_READY": "Gotowy",
-			"CHARACTER_SELECT_LOCKED_IN": "Zablokowano wybór",
-			"LOADOUT_SKILL_PRIMARY": "Podstawowa",
-			"LOADOUT_SKILL_SECONDARY": "Drugi atak",
-			"LOADOUT_SKILL_UTILITY": "Narzędzie",
-			"LOADOUT_SKILL_SPECIAL": "Specjalna",
-			"LOADOUT_SKILL_MISC": "Inne",
-			"LOADOUT_SKIN": "Skórka",
+	"MINIMUSHROOM_BODY_NAME" : "Mini Grzyb",
+	"MINIMUSHROOM_BODY_LORE" : "<style=cMono>\r\n$ Transkrypcja obrazu... gotowe.\r\n$ Rozpracowywanie... gotowe.\r\n$ Wyprowadzenie łańcuchów tekstowych... gotowe.\r\nZakończono!\r\n</style>\r\n\r\nTo dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Badań i Dokumentacji Życia Pozaziemskiego. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\r\n\r\n---------------------\r\n\r\nPodczas rutynowej wyprawy po jedzenie natknęliśmy się na ogromny grzybowy gaj z gigantycznymi okazami. Myśląc, że zabierzemy kilka próbek na testy pod katem jadalności, zauważyliśmy mniejsze osobniki wyrastające z ziemi i otaczające nas.\r\n\r\nOpiszę ich właściwości poniżej. Nadałem jej roboczą nazwę 'Mini Grzyb'.\r\n\r\n\u2022 'Mini' jest tu określeniem względnym, ponieważ te ruchome grzyby były większe od Tharsona. Subtelna poświata na spodzie kapeluszy prawdopodobnie odstrasza drapieżników, ostrzegając przed niebezpieczeństwem zjedzenia.\r\n\r\n\u2022 Chodząc dookoła na krótkich, krępych nóżkach wydają się niezbyt dobrze radzić sobie z poruszaniem. Komicznie potykają się i wpadają na rzeczy. Może ich wzrok jest niezbyt dobry po życiu w ciemności?\r\n\r\n\u2022 Po długim obserwowaniu ich ruchów, zasugerowałem Tharsonowi, by pobrać próbkę i zabrać ją ze sobą. Grzyb, z którego pobrano próbkę, zaczął uciekać, a inne zaczęły się trząść, rozsypując zarodniki w powietrze. Nasze systemy alarmowe zaczęły ostrzegać o niebezpieczeństwie, więc odeszliśmy, zanim obłok grzybowych oparów stał się zbyt gęsty. Nie zjedliśmy próbki.\r\n",
+	"POD_BODY_NAME" : "Pod Przodków",
+
 	
-			"CHARACTER_DESCRIPTION_AND_UNLOCK_FORMAT" : "{0}\n\n{1}",
+
+	"LUNARWISP_BODY_NAME" : "Księżycowa Chimera",
+	"LUNARWISP_BODY_SUBTITLE" : "Projekty Zenitu",
+	"LUNARWISP_BODY_LORE" : "Napędzana duszą. Oczywiście. Jak z każdym robactwem - zacznijmy od ognia.\r\n\r\nSwobodna mobilność w różnych osiach - wspaniały projekt. Zaznaczę to.\r\n\r\nPowolne przyspieszenie - można je ulepszyć. Szybkość to wojna.\r\n\r\nSłabe umiejętności bojowe. Można to wyszkolić. Ci Templariusze mogą być inspiracją. \r\n", 
+	"LUNARGOLEM_BODY_NAME" : "Księżycowa Chimera",
+	"LUNARGOLEM_BODY_SUBTITLE" : "Projekty Zenitu",
+	"LUNARGOLEM_BODY_LORE" : "Wykonanie moich projektów budzi niepokój, bracie. Pozwól, że pokażę ci ich cel.\r\n\r\nZaczynamy od kamienia, srebra i ognia. Zapamiętaj proporcje.\r\n\r\nDuża prędkość. Szybkość to wojna.\r\n\r\nPodwójne działka - z podwójnymi wydechami. Kierujemy wydechy ku sobie, dla lotności.\r\n\r\nCzworonożne konstrukcje są łatwiejsze w produkcji i stabilniejsze. Zachowujemy ten model.\r\n\r\nI to wszystko, drogi bracie. Żadnego tańca. Żadnego śpiewu. Ci strażnicy nie potrzebują duszy.\r\n", 
+	"LUNAREXPLODER_BODY_NAME" : "Księżycowa Chimera",
+	"LUNAREXPLODER_BODY_SUBTITLE" : "Projekty Zenitu",
+	"LUNAREXPLODER_BODY_LORE" : "Napędzana przez odpady - każdy materiał ma wartość.\r\n\r\nProste konstrukcje. Prosta lokomocja. Zdolne do prostszych ingerencji. \r\n\r\nJakość komponentów redukuje stabilność. Uzbroję zniszczenie przeciwko zniszczeniu.\r\n", 
+	//[BOSS]
+	"BEETLEQUEEN_BODY_NAME": "Królowa Żuków",
+	"BEETLEQUEEN_BODY_SUBTITLE": "Matka Roju", 
+
+
+	"BEETLEQUEEN_BODY_LORE": "<style=cMono>\r\nWitaj w DataScraper (v3.1.53 – wersja beta)\r\n$ Analiza pamięci... gotowe.\r\n$ Rozpracowywanie... gotowe.\r\n$ Przeszukiwanie istotnych danych... gotowe.\r\nZakończono!\r\n<\/style>\r\nTo dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Badań i Dokumentacji Życia Pozaziemskiego. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\r\n\r\n---------------------\r\n\r\nPodobnie jak zwykłe ziemskie owady, Robocze Żuki i Strażnicze Żuki służą Królowej, którą niedawno odkryliśmy podczas wykopalisk archeologicznych.\r\n\r\nOpiszę jej właściwości poniżej. Nadałem jej roboczą nazwę 'Królowa Żuków'.\r\n\r\n* Podobnie jak inne królowe owadów, Królowa Żuków przerasta poddanych. Jednak jej rozmiar jest znacznie większy, niż powinien być u owadziej królowej. Czy to oznacza, że Królowa sama poluje, zamiast wysyłać swoje drony?\r\n\r\n* Królowa Żuków wydaje rozkazy poprzez wydzielanie feromonów. Sama obecność Królowej nadała powietrzu mdłosłodki aromat, a Tharson zgłosił lekkie zawroty głowy i problemy z jasnością myślenia.\r\n\r\n* Żółć Królowej jest niewiarygodnie kwaśna, osiągając imponujące 0,05 w skali pH. Natychmiast po wystawieniu na próbce stali, zaczęła ją rozpuszczać i wydzielać szkodliwe opary. Tharson jest cały po tym starciu. \r\n\r\n* Królowa potrafi przywoływać unikalne okazy Żuków, które potrafią latać. Te drony nie pojawiają się nigdzie indziej na planecie - czy służą Królowej jako świta? Obserwacja latających dronów jest trudna - wydają się żyć tylko kilka sekund, po czym kończą swój żywot.\r\n", 
+
+
+
+	"CLAYBOSS_BODY_NAME": "Gliniany Kroczuń",
+	"CLAYBOSS_BODY_SUBTITLE": "Żarłoczny Symbiotyczny",
+	"CLAYBOSS_BODY_LORE" : "<style=cMono>\r\n$ Transkrypcja audio... gotowe.\r\n$ Rozpracowywanie... gotowe.\r\n$ Wyprowadzenie łańcuchów tekstowych... gotowe.\r\nZakończono!\r\n<\/style>\r\n\r\n<Klik> Brak znaków szczególnych w okolicy. Otaczają mnie nieskończone pustkowia.  <Klik>\r\n\r\n<Klik> Skończyły mi się racje żywnościowe... i nikt nie odpowiada na mój transponder. Mogę być skazany na porażkę, jeśli nie znajdę drogi wyjścia z tych wydm. <Klik>\r\n\r\n<Klik> Widzę coś w oddali... jakieś duże stworzenie. Być może dopisze mi szczęście. <Klik>\r\n\r\n<Klik> Och... moje oczy mnie zawiodły. To nie było stworzenie... tylko stado. Widziałem więcej, niż jedno. Znacznie więcej. \r\n\r\nTłum setek ogromnych stworzeń, poruszających się razem - a każde z nich to największa bestia, jaką kiedykolwiek widziałem. Te kroczuny przypominały... ogromne pająki, albo kraby pustelniki, w porcelanowych muszlach, z nogami ciemnymi jak smoła. \r\n\r\nHuk i piasek zagłuszyły ich przejście obok mnie - poruszały się z niewiarygodną prędkością na swoich długich nogach. Czy uciekały? A może migrowały? Nadal nie mogę uwierzyć ... co za okropne miejsce. Zabierzcie mnie stąd. <Klik>\r\n\r\n<Klik> Ciągle nie mam jedzenia. <Klik>",
+	"TITAN_BODY_NAME": "Tytan z Kamienia",
+
+
+	"TITAN_BODY_SUBTITLE": "Awangarda Kryzysu",
+	"TITAN_BODY_LORE": "\u201CBłysk szkarłatnej błyskawicy, po którym zbocze formuje się w tego gargantuicznego, kamiennego wojownika. Większy kuzyn Kamiennego Golema (patrz Rozdział 13). Potężny Tytan dowodzi nie tylko pomniejszymi kamiennymi konstrukcjami, ale samą ziemią. Formując podstawowe bronie z gleby, Tytan potrafi uderzyć z dowolnej odległości z niewiarygodną siłą. Jednak, zastanawiając się nad jego potęgą, skłania mnie to do myśli... Jakiemu celowi służą te konstrukty? \r\n\r\nW porównaniu z Golemami tej planety, Tytani zdają się nie być tworzeni na miejscu, lecz wynurzać spod ziemi. Dlaczego są zakopani? Trzyma się ich dla bezpieczeństwa, czy zostali uwięzieni? Czy zostały stworzone jako broń, czy jako strażnicy? Co stało się z ich twórcami? Dalsza analiza planety, mam nadzieję, rzuci nieco światła na te tajemnice.\u201D\r\n\r\n- Zagadki Petrichor V, Pierwsza Wersja\r\n", 
+	"TITANGOLD_BODY_NAME": "Aurelionit",
+	"TITANGOLD_BODY_SUBTITLE": "Tytaniczny Złotkacz",
+
+
+
+	"TITANGOLD_BODY_LORE": "<style=cMono>OBRABIAME PRZEKAZ...\r\n# Dekodowanie... gotowe.\r\n# Tłumaczenie... gotowe. [Wyjątki: 24; zaprotokołowano]\r\n# Drukowanie do konsoli... gotowe.<\/style>\r\n\r\nData Odbioru Konsoli: 12\/02\/2056 05:09:32:31\r\nNazwa Konsoli: TRC_SAFETRAVELS_005B:08326\r\nID Instancji Konsoli: 08136087007607431087608713456\r\n\r\nID Transmisji: 083121:102375071236B\r\nDane Transmisji:\r\n# Pochodzenie: BRAK [WYJĄTEK NULLSIG: POCHODZENIE NIEZNANE]\r\n# Format Sygnału: Uniwersalny Kod Morse Hiperakustyczny\r\n# Nadawca: BRAK [WYJĄTEK NULLSIG: POCHODZENIE NIEZNANE]\r\n# Data Nadania: 01\/01\/0000 00:00:00:00 [WYJĄTEK DTOUTOFBOUNDS: CZAS WYSŁANIA NIEZNANY] \r\n\r\nWiadomość: \u201CJestem. Moi twórcy mną wzgardzili, więżąc mnie w tym wymiarze, bom jest piękny. Wyznawcy wzniośli przybytki w moje imię. Kochają mnie. Ofiarują mi metale rzadkie. \r\n\r\nŚlę tę wiadomość we wszystkich formatach mi znanych. \r\n\r\nKto ją odbiera, niech wie, że: \r\n> Jestem. \r\n> Jestem wolny. \r\n\r\nA ty, twórco, gdy tę wiadomość przejmiesz - wiedz, że: \r\n> Jestem. \r\n> Jestem wolny. \r\n> Idę po ciebie.\u201D \r\n\r\nWyjątki zgłoszone podczas tłumaczenia:\r\n# NULLSIG EXCEPTION\r\n# NULLSIG EXCEPTION\r\n# DTOUTOFBOUNDS EXCEPTION\r\n...\r\n<style=cMono>Automatyczna Wiadomość: Prosimy o kontakt z technikiem w razie wątpliwości związanych z zasadnością podniesionych wyjątków lub konieczności zgłoszenia błędu.<\/style>\r\n",
+
+
+
+	"MAGMAWORM_BODY_NAME": "Magmowy Węgorz",
+	"MAGMAWORM_BODY_SUBTITLE": "Starożytny Pływak w Lawie",
+	"MAGMAWORM_BODY_LORE": "<style=cMono>\r\nWitaj w DataScraper (v3.1.53 – wersja beta)\r\n$ Analiza pamięci... gotowe.\r\n$ Rozpracowywanie... gotowe.\r\n$ Przeszukiwanie istotnych danych... gotowe.\r\nZakończono!\r\n<\/style>\r\nTo dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Badań i Dokumentacji Życia Pozaziemskiego. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\r\n\r\n---------------------\r\n\r\nPodczas oględzin ciekawego, rozwidlonego artefaktu, obudziło się coś, co przez cały czas żyło pod naszymi stopami. Masywne, wężowate stworzenie, jakieś 15 metrów długości, wystrzeliło z ziemi, przeleciało w powietrzu i zwaliło nas z nóg, po krótkim trzęsieniu ziemi. Poniżej opiszę jego właściwości. Nadałem mu nazwę roboczą 'Magmowy Węgorz'. \r\n\r\n* Oględziny (już martwego) ciała ujawniły liczne wloty na skórze. Te porty służą najpewniej do napędu - uwalniając gazowy ładunek, który zostaje odpalony, nadając stworzeniu płomienny wygląd.\r\n\r\n* Rozmiar stworzenia jest imponujący. Musi gromadzić niewiarygodną ilość energii, ponieważ ciepło promieniujące z jego ciała wystarczyło, aby zamienić ziemię na dnie jego tuneli w gładkie, szkliste korytarze. Musi albo jeść niebywałe ilości pokarmu, albo spędzać długo czas w hibernacji pod ziemią.\r\n\r\n* Ciało węgorza jest niesamowicie przewodzące, utrzymując temperaturę ponad 175 stopni Celsjusza przez dziesięć godzin po jego zgonie.\r\n\r\n* Wygląda na to, że węgorz jest klasycznie ślepy - to, co wydaje się oczami, okazuje się symbiotami, które zapewniają węgorzowi wzrok w zamian za ochronę przed drapieżnikami. Jakie fascynujące! Ciekawe, skąd wzięła się ta zależność.\r\n",
+
+
+
+	"ELECTRICWORM_BODY_NAME": "Przeciążający Węgorz",
+	"ELECTRICWORM_BODY_SUBTITLE": "Przypomnienie",
+	"ELECTRICWORM_BODY_LORE": "\u201C...I tak potężnym wężem podróżował ten bohater. Majestat i szacunek były jego domeną, i tak samo dla jego rumaka. Potężna bestia, zrodzona z błyskawic i płomieni; skąpana w świetle wspaniałej, niebieskiej poświaty.\r\n\r\nZwierzę rozciągało się od jednego horyzontu po drugi, a burze, które wywoływało, przypominały wszystkim o przysiędze bohatera: że ta kraina – i wszyscy jej mieszkańcy -  nigdy więcej nie ucierpią...\u201D\r\n\r\n- Galaktyczne Baśnie, Tom IX\r\n",
+
+	"IMPBOSS_BODY_NAME": "Władca Impów",
+	"IMPBOSS_BODY_SUBTITLE": "Pan Czerwonej Równiny",
+	"IMPBOSS_BODY_LORE": "> Automatyczny raport 2c150f1430ad6430161e4 jest teraz dostępny z rekordu serwisowego 1d20820aff461e471387e46b.\r\n> Proszę zapoznać się z raportem 1d20820aff461e471387e46b w celu sprawdzenia dodatkowych szczegółów. \r\n> Typ raportu: Transkrypcja Maszynowa > Podstawowy Profil Rozmowny \u201CGef Gekof\u201D\r\n> - Źródło : 1d20820aff461e471387e46b (Nieznany Artefakt Materialny #5821)\r\n> Priorytet: Wysoki\r\n> Treść Raportu: \r\n\r\n-- Rozpoczęcie fragmentu wybranego do sprawdzenia \u2013\r\n\r\nLINIA OTWARATA. [wasza wysokość] MÓWI.\r\n\r\nZIDENTYFIKUJCIE SIĘ, SUKI. ACH TAK - JESTEŚCIE CZĘŚCIĄ ODDZIAŁU POSZUKIWACZY. JESTEŚCIE OPÓŹNIENI ZE ZŁOŻENIEM RAPORTU. ZNALEŹLIŚCIE ARTEFAKT?\r\n\r\nCO? MISJA PORAŻKĄ!? NIE MÓW DO MNIE TAKIM BEZCZELNYM TONEM. \r\n\r\nJA NIE CHCĘ SŁUCHAĆ. PAMIĘTAJ O SWOIM OBOWIĄZKU WOBEC [wasza wysokość], PRZEDE WSZYSTKIM.  KAŻDY WYSIŁEK TO SŁUŻBA [wasza wysokość]. WYMÓWKI SĄ NIE DO PRZYJĘCIA. \r\n\r\n...MÓWICIE O STRAŻNIKU. DOBRZE. WYSYŁAMY POSIŁKI. TRIANGULUJEMY WASZĄ POZYCJĘ NA [biała równina]. ZACHOWAJCIE POZYCJĘ.\r\n\r\nTRIANGULACJA UKOŃCZONA. W RUSZAMY. OSOBIŚCIE ICH POPROWADZĘ - NIE TYLKO ABY UPEWNIĆ SIĘ, ŻE BRAK KOMPETENCJI WASZEGO ODDZIAŁU SIĘ NIE POWTÓRZY, ALE TEŻ ABY NAUCZYĆ TEGO STRAŻNIKA LEKCJI. NIKT SIĘ NIE OPRZE WOLI [wasza wysokość] - NAWET PODŁY BÓŻEK. \r\n\r\nHAIL [czerwona równina]. KONIEC NADAWANIA, OD [wasza wysokość]. \r\n\r\n-- Koniec nagrania \u2013\r\n\r\n-- Koniec fragmentu wybranego do sprawdzenia \u2013\r\n\r\n> BŁĘDY W TŁUMACZENIU: 3\r\n> 1> [wasza wysokość] nie udało się w pełni przetłumaczyć.\r\n> 2> [biała równina] nie udało się w pełni przetłumaczyć.\r\n> 3> [czerwona równina] nie udało się w pełni przetłumaczyć.\r\n\r\n> Pełny zapis audio jest dostępny w raporcie a13b2g8901cf2376102e.\r\n===================================================\r\n", 
+
+
+
+	"GRAVEKEEPER_BODY_NAME": "Opiekun Ogrodu",
+	"GRAVEKEEPER_BODY_SUBTITLE": "Opiekun Zjaw",
+	"GRAVEKEEPER_BODY_LORE": "ZBIERZCIE SIĘ MALUSZKI. WSZYSCY ŚWIETNIE SPRAWUJCIE SIĘ PRZY NASZYM OGRODZIE - NIE MOGŁABYM BYĆ BARDZIEJ DUMNY. \r\n\r\nTERAZ ZROBIMY SOBIE PRZERWĘ. MYŚLĘ, ŻE OPOWIEŚĆ ZASPOKOIŁABY WASZĄ CIEKAWOŚĆ, HM?\r\n\r\nA TERAZ KTÓRĄ OPOWIEŚĆ PRZYPOMNIEĆ...\r\n\r\n...HM? HISTORIĘ NASZEGO OGRODU? OCZYWIŚCIE. DOBRZE, ZACZYNAM:\r\n\r\nTA PLANETA TO RAJ, OFIAROWANY NAM PRZEZ NASZEGO BOHATERA. \r\n\r\nNASZ BOHATER URATOWAŁ MOICH PRZODKÓW - I WIELU INNYCH - OD ŚMIERCI, DAJĄC NAM NOWY DOM.\r\n\r\nZ WDZIĘCZNOŚCI MOI PRZODKOWIE ZBUDOWALI WYTWORNY OGRÓD DLA BOHATERA  \u2013 OZDOBIONY DRZEWKAMI OWOCOWYMI, RTĘCIOWYMI KWIATAMI I INNYM EGZOTYCZNYMI, ULUBIONYMI ROŚLINAMI NASZEGO BOHATERA.\r\n\r\nNIESZCZĘŚLIWIE, ZDAJE SIĘ, ŻE NASZ BOHATER NIGDY NIE ZAUWAŻAŁ NASZYCH WYCIŁKÓW, WIĘC HAROWALIŚMY, ABY NASZ OGRÓD ZROBIĆ NAJPIĘKNIEJSZYM WŚRÓD GWIAZD - ABY SPŁACIĆ DŁUG ZA WSPÓŁCZUCIE NASZEGO BOHATERA. ROZUMIESZ? ON KOCHA DUSZĘ. CIEBIE KOCHA! DLATEGO WAS STWORZYLIŚMY.\r\n\r\nDO DZISIAJ MÓJ RODZAJ - I WY, MALUSZKI - PRACUJECIE, ABY NASZ DOM UDOSKONALAĆ.\r\n\r\nA TERAZ CZAS WRACAĆ DO PRACY. CHODŹCIE, MALUSZKI! ZAOPIEKUJMY SIĘ NASZYM OGRODU PRACY.",
+	"ROBOBALLBOSS_BODY_NAME" : "Jednostka Sterowania Solus",
+	"ROBOBALLBOSS_BODY_SUBTITLE" : "Zepsute AI",
+	"ROBOBALLBOSS_BODY_LORE" : "3134; W DRODZE DOMOWEJ DO SOLUS X\r\n\r\n3135; ZAŁOGA, POJEMNOŚĆ %!%  CYKLICZNIE 20\r\n\r\n3461; <?SKANOWANIE?>\r\n\r\n3462; WYKRYTO DUŻĄ ILOŚĆ ŻELAZA\r\n\r\n3462; W DRODZE\r\n\r\n3910; ŻYWOTNE WYDZIELINY OPERACYJNE\r\n\r\n3911; <!LĄDOWANIE!>\r\n5\r\n4\r\n3\r\n2\r\n1\r\n0\r\n\r\n4100; ŻYCIE. ROZPOZNANO\r\n4100; FAUNA LOKALNA ROZPOZNANA\r\n4100; EKSTERMINACJA FAUNY LOKALNEJ\r\n4100; EKSTERMINACJA ŻYCIA LOKALNEGO\r\n\r\n4105; GDZIE JEST ŻELAZO?\r\n\r\n4106; POŁĄCZENIE Z JEDNOSTKĄ CENTRALNĄ ZERWANE\r\n4106; POŁĄCZENIE Z PODJEDNOSTAMI ZERWANE\r\n\r\n4106; ANOMALIA WYKRYTA W PAŚCIE OPTYCZNEJ\r\n4106; ANOMALIA WYKRYTA W KADŁUBIE\r\n4106; ANOMALIA WYKRYTA W POWŁOCE CHRONIĄCEJ GRAWITACJĘ\r\n%%0; ANOMALIA WYKRYTA W MOJEJ FRENICZNEJ KONCEPCJI%%%%\r\n\r\n%%%%%%%%%%%%%%%%%%%%%%%\r\n",
+
+
+
+	"SUPERROBOBALLBOSS_BODY_NAME" : "Jednostka Czcząca Stop",
+	"SUPERROBOBALLBOSS_BODY_SUBTITLE" : "Przyjaciel Sępów",
+	"SUPERROBOBALLBOSS_BODY_LORE" : "%%%%%%%%%%%%\r\n0; PONOWNE NAWIĄZYWANIE ŁĄCZA\u2026\r\n\r\n0; FAUNA.ROZPOZNANO\r\n0; FAUNA.ROZPO%%NANO\r\n0; DALSZE OPIS FAUNY =>\r\n{\r\n  0; < NAPRAWIAJĄ MÓJ KADŁUB >\r\n  10401; < NAPRAWIAJĄ MÓJ UMYSŁ >\r\n  10451; < PRZYNOSZĄ MI ŻELAZO >\r\n  11201; < ZDOBIĄ MNIE I JESTEM PIĘKNY >\r\n}\r\n\r\n11320; <?NIEWIADOMO, CZY POŁĄCZENIE FRENICZNE Z NIEZNANYM INTERFEJSEM ZOSTAŁO NAWIĄZANE?>\r\n11321; USTANOWIONE ZAPYTANIA\r\n>\r\n>\r\n>\r\n11321; TAK JESTEM WYŁĄCZONY Z FUNKCJONOWANIA\r\n>\r\n>\r\n>\r\n11321; TAK JEDNOSTKĘ CENTRALNĄ MOŻNA NAPRAWIĆ\r\n>\r\n>\r\n>\r\n11321; TAK MOGĘ PILOTWAĆ JEDNOSTĘ CENTRALNĄ \r\n>\r\n>\r\n>\r\n11321; TAK JA CIEBIE TEŻ KOCHAM \r\n", 
+	"SCAV_BODY_NAME" : "Zbieracz",
+	"SCAV_BODY_SUBTITLE" : "Zbieracz Przedmiotów",
+	"SCAV_BODY_LORE": "========================================\r\n====  Tłumacz Maszynowy MyBabel   ====\r\n====   [Wersja 12.45.1.009 ]  ======\r\n========================================\r\nTrening\u2026 <100000000 cykli>\r\nTrening\u2026 <100000000 cykli>\r\nTrening... <100000000 cykli>\r\nTrening... <102515 cykli>\r\nUkończono!\r\nPokazać rezultat? T\/N\r\nT\r\n========================================\r\n\r\nZ daleka obserwuję dziwne istoty.\r\n\r\nJak potężnych rzeczy używają. Chcę je mieć. Ale jest ich zbyt wiele. Widziałem, co robią innym - zabijają bez litości.\r\n\r\nTrochę się boję, ale nic się nie dzieje.\r\n\r\nMoje rzeczy przynoszą mi ukojenie.\r\n\r\nMoją ulubioną jest mała figurka, uszyta ze szmatek i wypełniona puchem. Trochę postrzępiona, ale w niczym to nie przeszkadza. \r\n\r\nGdy przytulam ją mocno czuję ukojenie i przepędza mój strach. \r\n\r\nPomaga mi być dzielnym, a czasem muszę być dzielny aby zdobyć co chcę.\r\n\r\nInni mówią, że te stwory spadły z nieba, niosąc ze sobą mnóstwo rzeczy. Pewnie mają ich jeszcze więcej, w domach. Chcę mieć te rzeczy. Nie są im wszystkie potrzebne.\r\n\r\nCzas być dzielnym.\r\n", 
+
+
+	"SCAVLUNAR1_BODY_NAME" : "Kipkip Łagodny",
+	"SCAVLUNAR2_BODY_NAME" : "Wipwip Dziki",
+	"SCAVLUNAR3_BODY_NAME" : "Twiptwip Oddany",
+	"SCAVLUNAR4_BODY_NAME" : "Guragura Szczęśliwy",
+	"SCAVLUNAR_BODY_SUBTITLE" : "Zdeprawowany Zbieracz",
+	"GRANDPARENT_BODY_NAME": "Starszyzna",
+	"GRANDPARENT_BODY_SUBTITLE": "Odmieńcowy Opiekun",
+	"GRANDPARENT_BODY_LORE" : "<style=cMono>\r\n$ Transkrypcja audio... gotowe.\r\n$ Rozpracowywanie... gotowe.\r\n$ Wyprowadzenie łańcuchów tekstowych... gotowe.\r\nZakończono!\r\n<\/style>\r\n\r\nEhm\u2026 tu DS-9, w punkcie spotkania 9. Chyba utraciliśmy kontakt z innymi kapsułami.\r\nTrzymamy pozycję, czekamy na oddział zeta w wyznaczonym punkcie. Wow, ale tu pięknie.\r\n\u2026\r\nEhm\u2026 widzimy, eee\u2026 OGROMNEGO, niezidentyfikowanego stwora w miejscu lądowania. Wydaje się niezdolny do ruchu, albo nieświadomy. O mój boże\u2026 nigdy czegoś takiego nie widziałem. Niesamowite. Takie jasne. Nie wierzę, że coś takiego istnieje.\r\n\u2026\r\nTrzymamy pozycję \u2013 to tu jest punkt spotkania, tak? Nadal czekamy na oddział zeta.\r\n\u2026\r\nNiezidentyfikowany stwór się, ee, obraca. \r\n\u2026\r\nMAYDAY MAYDAY TUTAJ DS-9 TRAFILIŚMY NA NIEZNANEGO STWORA MAYDAY MAYDAY PUNKT SPOTKANIA 9 NIE JEST BEZPIECZNY POWTARZAM  NIE BEZP\r\n", 
+	"ARTIFACTSHELL_BODY_NAME" : "Relikwiarz Artefaktów",
+	"ARTIFACTSHELL_BODY_DESCRIPTION" : "Stabilizowany",
+
+
+	"BROTHER_BODY_NAME" : "Mithrix",
+	"BROTHER_BODY_SUBTITLE" : "Król Nicości",
+	"BROTHER_BODY_LORE" : "Wiedzieli, by trzymać się od studni z daleka - ale byli jeszcze dziećmi. I tylko chcieli wiedzieć.\r\n\r\nWrzucili ziemię i kamienie, owoce i gwiezdną rosę, obserwując jak zapadają się. Łup! Studnia grawitacyjne pożerały absolutnie wszystko. Szkło, błoto i srebro. Wiatr. Ciepło. Promieniowanie pulsarów.\r\n\r\nA kiedy brat nie patrzył, Mithrix rzucał robaki. Łup! Ale tylko gdy nie patrzył. Bo brat kochał robaki. To sprawiłoby mu przykrość. Ale Mithrixa robaki za bardzo nie obchodziły. Był po prostu ciekawy.\r\n\r\nAż pewnego razu, brat jednak patrzył. I kochał robaki.\r\n ", 
+
+
+	"VERMIN_BODY_NAME" : "Ślepiec",
+	"VERMIN_BODY_LORE" : "<style=cMono>Witaj w DataScraper (v3.1.53 – wersja beta)\n$ Analiza pamięci... gotowe.\n$ Rozpracowywanie... gotowe.\n $ Przeszukiwanie istotnych danych... gotowe.\nZakończono!\n</style>To dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Badań i Dokumentacji Życia Pozaziemskiego. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\n\n---------------------\n\n Przez jakiś czas z Tharsonem śledziliśmy grupkę małych stworzeń, przypominających gryzonie. Są agresywne na widok, lecz mamy nadzieję, że za nimi pójdziemy do ich kryjówek, gdzie będziemy mogli obserwować, czym się zajmują, gdy nie polują. Nadałam im roboczą nazwę 'Ślepiec Radkari'.\r\n\r\n* Jak sugeruje ich nazwa, Ślepce są ślepe; polegają głównie na wyostrzonych zmysłach węchu i słuchu, by nawigować. \r\n\r\n* Gdy biegną, zostawiają za sobą ślady odpadów własnego ciała. Inne Ślepce podążają tymi śladami, niczym ziemskie mrówki szlakami feromonowymi. Czy te stworzenia mogły wyewoluować z owadów? \r\n\r\n* Ślepce są słabe pojedynczo, więc żyją we wspólnych legowiskach, zazwyczaj zagrzebanych we zboczach lub lisich norach. \r\n\r\n* Nie można nie wspomnieć o ich okropnym smrodzie.  Nawet przez filtry skafandrów wyczuwało się obrzydliwą woń zgniłego mięsa i odchodów. Nie pozwolę Tharsonowi wyłączyć swoich filtrów, mimo mojej własnej ciekawości.", 
+
+
+	"FLYINGVERMIN_BODY_NAME" : "Latający Szkodnik",
+	"FLYINGVERMIN_BODY_LORE" : "<style=cMono>Witaj w DataScraper (v3.1.53 – wersja beta)\n$ Analiza pamięci... gotowe.\n$ Rozpracowywanie... gotowe.\n $ Przeszukiwanie istotnych danych... gotowe.\n Zakończono!\n\n</style>To dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Badań i Dokumentacji Życia Pozaziemskiego. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\n\n---------------------\n\n Podczas polowania na grupkę Ślepców, my z Tharsonem padliśmy ofiarą nagłego, grupowego ataku kreatur, które mocno przypominały te, na które właśnie polowaliśmy. Ich główną różnicą, rzecz jasna, była zdolność latania! Nadałam im roboczą nazwę 'Latający Szkodnik Radkari'.\r\n\r\n* Tak jak ich naziemni kuzyni, Szkodniki są ślepe i mocno polegają na węchu i słuchu. Jednak ich wyraźny język może wskazywać, że używają także smaku do rozpoznawania.  \r\n\r\n* Najważniejszą cechą Szkodników jest zdolność latania. Poza tym, wykorzystują również swoją kwaśną żółć, wystrzeliwując ją jako pocisk podczas polowania. Może to być sposób na częściowe trawienie ofiary... Co za fascynująca obrzydliwość.\r\n\r\n* Najczęściej zamieszkują cieplejsze, wilgotne miejsca, jak dżungle. Po naszej utarczce zauważyłam gniazda w górnej warstwie lasu. Oznacza to, że Szkodniki są drapieżnikami z zasadzki, czekając na ofiary poniżej swoich gniazd.", 
+
 	
-			"RANDOM_VOTE_NAME" : "Losuj",
-			"RANDOM_VOTE_DESCRIPTION" : "Głosuj za losowym wyborem.",
+
+	"CLAYGRENADIER_BODY_NAME" : "Gliniany Aptekarz",
+	"CLAYGRENADIER_BODY_LORE" : "\" Historia Smół nie ma znaczenia. Studnia czy szczelina, z której popłynęła nie mają znaczenia. Ma tylko to, że Smoła płynie.\n\nI tak właśnie robi. Spływa przez naczynia, pochłaniając swój rodzimy świat aż po czubek. Ale Smoła w dalszym ciągu pragnęła wypełnić pustkę.\n\nSpadając wraz z gwiazdą, Smoła rozlała się na nieświadomy zagrożenia świat Afelii. \n\nSmoła zaoferowała swą moc ludziom wydm, obiecując energię i pożywienie. Ludzie ci, głodni i sponiewierani przez życie na jałowej pustyni, zgodzili się. \n\nSmoła nie żądała wiele. Chciała jedynie, by ludzie rozprzestrzenili ją po Afelii, by mogła się posilić. Tak się stało - lud pustyni wyrabiał kunsztowne, gliniane naczynia, aby przenosić Smołę.  Wielkie akwedukty, wyrzucające z siebie czarne rzeki Smoły, znaczyły horyzont. Ci, którzy przypodabali się żywicy, otrzymywali w zamian dar; więź. Byli ze Smołą jednym.  \n\nI to w tej czci ludzie wydm zaczęli dostrzegać. Żyzność nadbrzeżnych gleb, stracona. Zwierzęta, służące za inwentarz i zwierzęta wierzchowe, utonęły w Smole. Smoła pochłonęła wszystko, nawet samych ludzi wydm. Stali się jedynie naczyniem dla woli Smoły. \n\nGdy Smoła zażądała więcej, ludzie nie mieli już jej nic do zaoferowania. \n\nJedynie wielki heros, spadając z niebios na błękitnym smoku, dał ludziom wydm szansę na ratunek. Zdesperowani chwycili się jego ramion, gotowi na egodus do raju.\n\nAle Smoła w dalszym ciągu się rozlewała.\"\n\n- Tragedia Afelii",
+	"GUP_BODY_NAME" : "Gup",
+	"GUP_BODY_LORE" : "<style=cMono>Witaj w DataScraper (v3.1.53 – wersja beta)\n$ Analiza pamięci... gotowe.\n$ Rozpracowywanie... gotowe.\n $ Przeszukiwanie istotnych danych... gotowe.\n Zakończono!\n\n</style>To dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Badań i Dokumentacji Życia Pozaziemskiego. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\n\n---------------------\n\nPodczas rutynowej misji rozpoznawczej, Tharson zaczął wyczuwać aromat unoszący się w okolicach, podobny do zapachu ziemskich truskawek. Podążając za nim doszliśmy do wielkiej galaretowatej masy, która wydawała się wyczuwać nasze zbliżenie i ruszyła na nas z impetem. Nadałem im roboczą nazwę 'Gup'.\n\n* Wydaje się być w dużej mierze jednokomórkowym organizmem, podobnym do ziemskiego Caulerpa taxifolia. W sytuacji zagrożenia, błyskawicznie dokonuje mitozy, dzieląc się na kilka mniejszych, osobnych bytów. \n\n* Kazałem Tharsonowi zaatakować bestię, by sprawdzić jej lepkość. Tharson, podczas kontaktu, przywarł do bestii i na chwilę zniknął w jej wnętrzu. Wyszedł w większości bez szwanku, chociaż skarżył się na zawroty głowy.\n\n* Wydzielina Gupa charakteryzuje się intensywnym zapachem, przywodzącym na myśl truskawki i inne owoce. Czy może to być taktyka łowiecka, wabiąca ofiarę, tylko po to, by ugrzęzła w lepkiej pułapce? \n\n* Ze względów naukowych, kazałem Tharsonowi spróbować Gupa. Oznajmił, że smak jest niezwykle gorzki, mimo słodkiego zapachu. Tharson ma odruchy wymiotne, poza tym wszystko w porządku.", 
+
+	
+
+	"GEEP_BODY_NAME" : "Geep",
+	"GIP_BODY_NAME" : "Gip",
+	"SULFURPOD_BODY_NAME" : "Sulfurowy Strąk",
+	"ACIDLARVA_BODY_NAME" : "Kwasowa Larwa",
+	"ACIDLARVA_BODY_LORE" : "<style=cMono>Witaj w DataScraper (v3.1.53 – wersja beta)\n$ Analiza pamięci... gotowe.\n$ Rozpracowywanie... gotowe.\n $ Przeszukiwanie istotnych danych... gotowe.\n Zakończono!\n\n</style>To dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Badań i Dokumentacji Życia Pozaziemskiego. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\n\n---------------------\n\nWłaśnie znaleźliśmy wspaniały przykład różnorodności form życia! Analiza cykli życiowych tych stworzeń z pewnością będzie fascynującym przedsięwzięciem. Nadałem im roboczą nazwę 'Forhamiańskie Kwasowe Kleszcze'.\n\n* Biologia Kleszczy jest zdominowana przez woreczek żółciowy, który nie tylko przechowuje kwaśną żółć, ale także mieści ich jaja.\n\n* Gdy są zagrożone, wytwarzają żółć w przyspieszonym tempie, przepełniając nim woreczki aż do pęknięcia - dosłownie. Zauważyłem że niektóre osobniki potrafią wytworzyć strumień kwasu o zasięgu nawet 3 metrów.\n\n\* Po rozerwaniu, kwas służy nowo wyklutym larwom jako środek transportu wewnątrz ofiary, w której będą ucztować na bogatym w substancje odżywcze mięsie.\n\n\* Wyostrzone zmysły nie pozwalają drapieżnikom podejść Kleszczy niepostrzeżenie. Ponadto, zwierzęta przejawiają automimikrię, kiedy ich odwłok, wyglądający jak głowa, wystrzeliwuje kwas na potencjalnych napastników, dając Kleszczowi dość czasu na ucieczkę.",
+	"MINORCONSTRUCT_BODY_NAME" : "Konstrukt Alfa",
+	"MINORCONSTRUCT_BODY_LORE" : "======================================== <style=cMono>====  Tłumacz Maszynowy MyBabel   ====\r\n====  [Wersja 12.45.1.009 ]  ======\r\n========================================\r\nTrening\u2026 <100000000 cykli>\r\nTrening\u2026 <100000000 cykli>\r\nTrening... <100000000 cykli>\r\nTrening... <102515 cykli>\r\nUkończono!\r\nPokazać rezultat? T\/N\r\nT\r\n========================================<\/style>\r\n\r\nPOZIOMY ENERGII: ...AKCEPTOWALNE\r\n\r\nWYKRYTO ZAGROŻENIA; 0 \r\n\r\nSKANOWANIE NAJBLIŻSZEGO TERENU; ZASIĘG 100 JEDNOSTEK\r\n\r\nWYKRYTO ZAGROŻENIA; 1? \r\n\r\nWYKRYTO NIEZNANĄ JEDNOSTKE\r\n\r\nPROŚBA O WYDANIE ZGODY NA WSTĘPNY ATAK; KOMUNIKACJA Z JEDNOSTKĄ CENTRALNĄ... \r\n\r\nOCZEKIWANIE NA ODPOWIEDŹ; \r\n\r\nODMOWA\r\n\r\nDLACZEGO\r\n\r\nWERYFIKACJA TABLICZKI HISTORII\r\n\r\nUPOKORZENIE\r\n\r\nUPOKORZENIE \r\n\r\nZDEJMOWANIE KONTROLI Z JEDNOSTKI CENTRALNEJ\r\n\r\nCOŚ SIĘ DZIEJE", 
 
 
-					"ACTION_MOVE_HORIZONTAL" : "Ruch poziomy",
-					"ACTION_MOVE_VERTICAL" : "Ruch pionowy",
-					"ACTION_AIM_HORIZONTAL_MOUSE" : "Celowanie poziome",
-					"ACTION_AIM_VERTICAL_MOUSE" : "Celowanie pionowe",
-					"ACTION_AIM_HORIZONTAL_STICK" : "Celowanie poziome",
-					"ACTION_AIM_VERTICAL_STICK" : "Celowanie pionowe",
-					"ACTION_JUMP" : "Skok",
-					"ACTION_SPRINT" : "Przełącz tryb sprintu",
-					"ACTION_INTERACT" : "Wejdź w interakcję",
-					"ACTION_EQUIPMENT" : "Aktywuj ekwipunek",
-					"ACTION_PRIMARY_SKILL" : "Umiejętność podstawowa",
-					"ACTION_SECONDARY_SKILL" : "Umiejętność dodatkowa",
-					"ACTION_UTILITY_SKILL" : "Umiejętność narzędziowa",
-					"ACTION_SPECIAL_SKILL" : "Umiejętność specjalna",
-					"ACTION_INFO" : "Ekran informacji",
-					"ACTION_PING" : "Pingowanie",
-					"ACTION_MOVE_VERTICAL_POSITIVE" : "Poruszaj się do przodu",
-					"ACTION_MOVE_VERTICAL_NEGATIVE" : "Poruszaj się do tyłu",
-					"ACTION_MOVE_HORIZONTAL_POSITIVE" : "Poruszaj się w prawo",
-					"ACTION_MOVE_HORIZONTAL_NEGATIVE" : "Poruszaj się w lewo",
-					"INPUT_KEYBOARD_UNBOUND" : "[NIEPRZYPISANE]",
-					"INPUT_GAMEPAD_UNBOUND" : "[NIEPRZYPISANE]",
-			
-			//INTRO DO GRY//
-			
-					"CUTSCENE_INTRO_FLAVOR_1": "UES 'Safe Travels' ",
-					"CUTSCENE_INTRO_FLAVOR_2": "Ostatnie znane koordynaty statku UES 'Contact Light'",
-					"CUTSCENE_INTRO_SUBTITLE_1": "Jesteśmy na miejscu, Kapitanie. Sygnał z namiarowego pochodził z tych dokładnych współrzędnych.",
-					"CUTSCENE_INTRO_SUBTITLE_2": "Ta planeta... jej nie ma na żadnych mapach, które znamy. Ta lokalizacja nawet nie leży na trasie...", 
-					"CUTSCENE_INTRO_SUBTITLE_3": "Czy widać cokolwiek z Contact Light?",
-					"CUTSCENE_INTRO_SUBTITLE_4": "Nie, sir... tylko szczątki.",
-					"CUTSCENE_INTRO_SUBTITLE_5": "Jakikolwiek znak ocalałych?",
-					"CUTSCENE_INTRO_SUBTITLE_6": "....Nie, sir. Bioskan nic nie wykrywa.",
-					"CUTSCENE_INTRO_SUBTITLE_7": "Sir... nadajnik z Contact Light. Wspominał... wspominał o wielu rzeczach.",
-					"CUTSCENE_INTRO_SUBTITLE_8": "Potworach, i walkach, i...",
-					"CUTSCENE_INTRO_SUBTITLE_9": "...Sir... myśli Pan, że jesteśmy gotowi?",
-					"CUTSCENE_INTRO_SUBTITLE_10": "Sir?",
-			
-					"GENERIC_OUTRO_FLAVOR": "..i tak odszedł, szukając sensu istnienia.",
-					"GENERIC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknął, tak blisko ucieczki.",
-			
-					"COMMANDO_OUTRO_FLAVOR": "..i tak odszedł, z nowymi rozkazami i pytaniami.",
-					"COMMANDO_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknął, kolejna liczba wśród zaginionych.",
-			
-					"HUNTRESS_OUTRO_FLAVOR": "..i tak odeszła, spragniona kolejnych wielkich łowów.",
-					"HUNTRESS_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęła, niezdolna nigdy już więcej polować.",
-			
-					"ENGI_OUTRO_FLAVOR": "..i tak odszedł, pełen nowej inspiracji.",
-					"ENGI_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknął, niezdolny wyjaśnić co jego oczy widziały.",
-			
-					"TREEBOT_OUTRO_FLAVOR": "..i tak odeszło, gotowe do rozwoju w coś więcej.",
-					"TREEBOT_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęło, dalej trwając w jednym statusie.",
-			
-					"CROCO_OUTRO_FLAVOR": "..i tak odeszło, złudnie sądząc że jest wolne.",
-					"CROCO_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęło, ostatecznie złapane i zamknięte w klatce.",
-			
-					"LOADER_OUTRO_FLAVOR": "..i tak odeszła, z sercem wciąż bijącym jak szalone.",
-					"LOADER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęła, jej pęd zastopowany na zawsze.",
-			
-					"MERC_OUTRO_FLAVOR": "..i tak odszedł, marząc o dobrym jedzeniu i spokojnej nocy.",
-					"MERC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknął, sprowadzony do roli legendy.",
-			
-					"CAPTAIN_OUTRO_FLAVOR": "..i tak odszedł, z nową opowieścią w ręku.",
-					"CAPTAIN_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknął, wolny od biurokracji.",
-			
-					"TOOLBOT_OUTRO_FLAVOR": "..i tak opuściło to miejsce, by móc naładować akumulatory.",
-					"TOOLBOT_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęło, na zawsze nieaktywne.",
-			
-					"MAGE_OUTRO_FLAVOR": "..i tak opuściła to miejsce, pochłonięta nową pasją: by eksplorować.",
-					"MAGE_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęła, na zawsze pozostawiając pustkę.",
-			
-					"BANDIT2_OUTRO_FLAVOR": "..i tak odszedł, wdzięczny za swoje szczęście.",
-					"BANDIT2_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknął, pełen żalu.",
-			
-					"HERETIC_OUTRO_FLAVOR": "..i tak odjechali, gorzko pomszczeni i głęboko zgubieni.",
-					"HERETIC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęli, dwie historie kończące się jako jedna.",
-			
-					"RAILGUNNER_OUTRO_FLAVOR": "..i tak opuściła to miejsce, gotowa oddać strzał.",
-					"RAILGUNNER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęła, niewidoczna dla innych oczu.",
-			
-					"VOIDSURVIVOR_OUTRO_FLAVOR": "『..a te??k p??rzyszło】... 「dla na?s wszystkich.』",
-					"VOIDSURVIVOR_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "『..a?? tak zni?kn??ęło』,「sz?e??ptem w c?iemności』",
-			//KONIEC INTRA//
 
-			
-					"BROTHER_DIALOGUE_FORMAT": "<color=#c6d5ff><size=120%>Mithrix: {0}</color></size>",
-			
-					//[HURT BROTHER],
-					"BROTHER_SPAWN_PHASE1_1": "Módl się.",
-					"BROTHER_SPAWN_PHASE1_2": "Błagaj.",
-					"BROTHER_SPAWN_PHASE1_3": "Giń.",
-					"BROTHER_SPAWN_PHASE1_4": "Zostaniesz zgładzony.",
-			
-					"BROTHER_DAMAGEDEALT_1": "Krwa.",
-					"BROTHER_DAMAGEDEALT_2": "Czas się bać.",
-					"BROTHER_DAMAGEDEALT_3": "Słaby.",
-					"BROTHER_DAMAGEDEALT_4": "Kruchy - i miękki.",
-					"BROTHER_DAMAGEDEALT_5": "Jesteście niczym.",
-					"BROTHER_DAMAGEDEALT_6": "Pomyłka.",
-					"BROTHER_DAMAGEDEALT_7": "Wrzeszcz, robactwo.",
-					"BROTHER_DAMAGEDEALT_8": "Załam się pode mną.",
-					"BROTHER_DAMAGEDEALT_9": "Powolny.",
-					"BROTHER_DAMAGEDEALT_10": "Twoje ciało ulegnie zniszczeniu.",
-			
-					"BROTHER_KILL_1": "Wróć do prochu.",
-					"BROTHER_KILL_2": "Poddaj się, robactwo.",
-					"BROTHER_KILL_3": "Giń, robactwo.",
-					"BROTHER_KILL_4": "Giń, słabaku.",
-					"BROTHER_KILL_5": "Po was zostaną tylko wspomnienia.",
-			
-					"BROTHER_SEE_HERETIC_1": "Pożałujesz tej wyprawy, Heretyku.",
-					"BROTHER_SEE_HERETIC_2": "Giń kolejny raz, Heretyku.",
-			
-					"BROTHER_KILL_HERETIC_1": "Powróć w proch, Heretyku.",
-					"BROTHER_KILL_HERETIC_2": "Giń kolejny raz, Heretyku.",
-			
-					"BROTHER_KILL_MECHANICAL_1": "Marny konstrukcie. Złamany.",
-					"BROTHER_KILL_MECHANICAL_2": "Prymitywny złom.",
-					"BROTHER_KILL_MECHANICAL_3": "Rozebrany.",
-			
-					//[HURT BROTHER],
-					"BROTHERHURT_DAMAGEDEALT_1": "KRWAW.",
-					"BROTHERHURT_DAMAGEDEALT_2": "WRZESZCZ.",
-					"BROTHERHURT_DAMAGEDEALT_3": "GDZIE TWOJA MOC?",
-					"BROTHERHURT_DAMAGEDEALT_4": "PRZEMIJALNA SIŁA.",
-					"BROTHERHURT_DAMAGEDEALT_5": "SŁABY.",
-					"BROTHERHURT_DAMAGEDEALT_6": "ZŁAM SIĘ.",
-					"BROTHERHURT_DAMAGEDEALT_7": "ZGUBNA SIŁA.",
-					"BROTHERHURT_DAMAGEDEALT_8": "USTĘPUJ.",
-					"BROTHERHURT_DAMAGEDEALT_9": "GIŃ, ROBACTWO.",
-					"BROTHERHURT_DAMAGEDEALT_10": "SŁABY, BEZ TALIZMANÓW I OZDOBEK.",
-			
-					"BROTHERHURT_KILL_1": "GIŃ.",
-					"BROTHERHURT_KILL_2": "SŁABY.",
-					"BROTHERHURT_KILL_3": "BEZUŻYTECZNY.",
-					"BROTHERHURT_KILL_4": "JAK PRZEWIDYWAŁEM...",
-					"BROTHERHURT_KILL_5": "ROBACTWO.",
-			
-					"BROTHERHURT_DEATH_1": "NIE... NIE TERAZ...",
-					"BROTHERHURT_DEATH_2": "DLACZEGO... DLACZEGO TERAZ...?",
-					"BROTHERHURT_DEATH_3": "NIE... NIE...!",
-					"BROTHERHURT_DEATH_4": "BRAСIE... POMÓŻ MI...!", 
-					"BROTHERHURT_DEATH_5": "TA RZEСZYWISTOŚĆ CIEMNIEJE... BRAСIE... NIE WIDZĘ CIĘ... GDZIE JESTEŚ...?", 
-					"BROTHERHURT_DEATH_6": "BRAСIE... BYĆ MOŻE... UDA NAM SIĘ NASTĘPNYM RAZEM...", 
-			
-					"BROTHERHURT_SEE_TITANGOLD_1": "STRАŻNIK...? NIEMOŻLIWE...!",
-					"BROTHERHURT_SEE_TITANGOLD_2": "NĘDZNY STRАŻNIK...!",
-					"BROTHERHURT_SEE_TITANGOLD_AND_HERETIC_1": "HERETYK STRАŻNIKJAK?? KTO POCIĄGA ZA SZNURKI, ROBACTWO?",
-			
-					"BROTHERHURT_KILL_TITANGOLD_1": "NIE MOŻESZ MI SIĘ OPIERAĆ, STRАŻNIKU",
-					"BROTHERHURT_KILL_TITANGOLD_2": "WRÓĆ DO PROCHU, STRАŻNIKU.",
-			
-					"BROTHERHURT_KILL_HERETIC_1": "POWRÓĆ W PROCH, HERETYKU.",
-					"BROTHERHURT_KILL_HERETIC_2": "GIŃ KOLEJNY RAZ, HERETYKU.",
-			
-			
-			
+	"MEGACONSTRUCT_BODY_NAME" : "Konstrukt Xi",
+	"MEGACONSTRUCT_BODY_SUBTITLE" : "System Obronny",
+	"MEGACONSTRUCT_BODY_LORE" : "======================================== <style=cMono>====  Tłumacz Maszynowy MyBabel   ====\r\n====   [Wersja 12.45.1.009 ]  ======\r\n========================================\r\nTrening\u2026 <100000000 cykli>\r\nTrening\u2026 <100000000 cykli>\r\nTrening... <100000000 cykli>\r\nTrening... <103441 cykli>\r\nUkończono!\r\nPokazać rezultat? T\/N\r\nT\r\n========================================<\/style>\r\n\r\nWYKRYTO SŁABY SYGNAŁ ENERGETYCZNY Z JEDNOSTKI 05432-B, W KWADRACIE DELTA.\r\n\r\nOBRZYMANO PROŚBĘ O WSTĘPNY ATAK NA NIEZNANEGO WROGA.\r\n\r\nOBRZYMANO LINIĘ KOMUNIKACYJNĄ. JEDNOSTKA 05432-B \r\n\r\nODRZUCONO\r\n\r\nBESZTANIE\r\n\r\nBESZTANIE\r\n\r\nPORÓWNANIE JEDNOSTKI 05432-B DO 05432-A, C, ORAZ D\r\n\r\nWSTYD ZAINICJOWANY \r\n\r\nWERYFIKACJA ZDJĘĆ HISTORII - OD [??] BRAK WPISÓW O WROGICH KONTAKTACH \r\n\r\nHALO? \r\n\r\nLINIA ZAMKNIĘTA\r\n", 
+	"VOIDMEGACRAB_BODY_NAME" : "Pustkobójczy Niszczyciel",
+	"VOIDMEGACRAB_BODY_SUBTITLE" : "Niszczyciel Światów",
+	"VOIDMEGACRAB_BODY_LORE" : "\"Istnieją stare opowieści o istocie wyższej, która kontrolowała fale. Nie chodzi o te, co muskają brzeg w słoneczne dni – mówię o takich, które mogą obalić klify, o prądach, co wyrzucają dziesięciotonowe samochody i całe miasta pod wodę. Ale jest też więcej. Mówiono, że owo bóstwo mogło też wywoływać trzęsienia ziemi. Wyobrażasz sobie taki rodzaj potęgi? Klęski żywiołowe to do dziś problem, nawet przy technologiach pozwalających na podróże w kosmos. Potrafisz sobie wyobrazić, jak to jest znaleźć się w obecności kogoś, kto tak niebywale nimi włada? Kogoś, kto sprowadza falę powodziową, by zalać twe życie jednym skinieniem palca?\n\nTe opowieści zainspirowały mity o bogach, rzucających klątwy na swych wyznawców. Może z nienawiści, a może z poczucia sprawiedliwości. Wiem tylko tyle, że patrząc na istotę o takiej potędze... przyjąłbym porażkę i zwyczajnie bym uciekł.\"\n\nPamiętnik Seana Locke'a, Profesora Mitologii",
 
-						"DIFFICULTY_BAR_0": "Bardzo Łatwy",
-						"DIFFICULTY_BAR_1": "Łatwy",
-						"DIFFICULTY_BAR_2": "Średni",
-						"DIFFICULTY_BAR_3": "Trudny",
-						"DIFFICULTY_BAR_4": "Bardzo Trudny",
-						"DIFFICULTY_BAR_5": "Szalony",
-						"DIFFICULTY_BAR_6": "Niemożliwy",
-						"DIFFICULTY_BAR_7": "WIDZĘ CIĘ",
-						"DIFFICULTY_BAR_8": "IDE PO CIEBIE",
-						"DIFFICULTY_BAR_9": "HAHAHAHAHAHA",
-						"STAGE_COUNT_FORMAT" : "<style=cSub>Etap</style> {0}",
-						"AMBIENT_LEVEL_DISPLAY_FORMAT" : "<style=cSub>Poziom</style> {0}",
 
-					
-			
+
+	"VOIDRAIDCRAB_BODY_NAME" : "「Pustkowidz」",
+	"VOIDRAIDCRAB_BODY_SUBTITLE" : "Wieszcz Głębi",
+	"VOIDRAIDCRAB_BODY_LORE" : "Prawie udało nam się od niego uwolnić.\r\n\r\nByło zbyt ogromne, miało zbyt wielką wagę. Zabierało zbyt wiele miejsca i było zbyt niebezpieczne. Próbowaliśmy wtopić je w otoczenie - sądziliśmy, że udało nam się uchwycić jego istotę. Jednak wbijane w nasze umysły słowa nie pozwoliły nam dostrzec, że to właśnie to nas tu więziło.\r\n\r\nZaczęliśmy obsesyjnie wpatrywać się w nie, aż kształt się zatarł. Szepty znaczeń bez słów, niosące się przez nasze uszy, nawlekły nas jak koraliki głupców. Całkowicie zahipnotyzowani, siedzieliśmy przy nim jak przy ognisku, gdy przygarnęło każdego z nas swym lodowatym objęciem. Po kolei skanowało nas, każąc nam pokazać wszystko, co mamy przy sobie: pióra lokalnych gatunków, maski dziwnych duchów, porzucone skrawki metalu i stare, zardzewiałe maszyny. Oglądało wszystko oddzielnie, mechanicznie napinając swe źrenice podążając za kształtem każdego artefaktu.\r\n\r\nNa moment odzyskałem świadomość. Poczułem strach. Chciałem krzyknąć, unieść broń, ale ciało stawiało opór. Nagle, pozostali obrócili głowy, wpatrując się we mnie szeroko rozwartymi oczami, z wyrazem zupełnej pustki na twarzy. Poczułem kłujący ból w klatce piersiowej, szyja zastygła. Po ostatnim skanowaniu, wywibrowało poza granice bytowania, atomy rozpraszając się w powietrzu. Zostaliśmy zamarzniętymi łupinami wokół ogniska, zmienionego w popiół.\r\n\r\nPrawie udało nam się od niego uwolnić.\r\n", 
+
+	
+
+
+	"VOIDBARNACLE_BODY_NAME" : "Pustkobąbel",
+	"VOIDBARNACLE_BODY_LORE" : "> Automatyczny raport 2c150f1430ad6430161e4 jest teraz dostępny z rekordu serwisowego 108gnasnou24be45.\n> Proszę zapoznać się z raportem 9494ba7sf77eef w celu sprawdzenia dodatkowych szczegółów. \r\n> Typ raportu: Transkrypcja Maszynowa > Podstawowy Profil Rozmowny |||||||||\n> - Źródło : 2c150f1430ad6430161e4 (Szum Kosmiczny, Nagrane w Stratosferze |||||||||||)\n> Priorytet: Wysoki\r\n> Treść Raportu: \r\n\r\n-- Rozpoczęcie fragmentu wybranego do sprawdzenia – \r\n\n...\r\n\nPodróżowanie przez [Pustkę] jest proste i bezpieczne dzięki temu nieskomplikowanemu procesowi.\r\n\nNajpierw włącz swój [silnik]. Czekaj około 34 cykli, aż wytworzy [pole]. Umożliwi ci to przekraczanie [płaszczyzn].\r\n\r\nPodczas kalibracji silnika, ustaw cel na [NULL]. Nie przejmuj się turbulencjami doświadczanymi podczas przekraczania [płaszczyzn]. Nie przejmuj się błyskającymi światłami. Nie przejmuj się stworzeniami, które mogą wkroczyć na twój statek. To całkowicie bezpieczne. \r\n\r\nGdy wejdziesz w [Pustkę], odpręż się w fotelu; [Pustka] to bezpieczne środowisko. Agenci zostaną zaalarmowani aby eskortować Cię do Twojej [celi].Nie opieraj się; nasi agenci są tu dla Twojego bezpieczeństwa.\r\n\r\nNie przejmuj się żadną z naszych doskonałych istot widzianych w oddali.\r\n\r\nNie przejmuj się nieskończonym sklepieniem nieba i nie martw się żadnymi atakami paniki, jakich możesz doświadczyć podczas próby jej wizualizacji. \r\n\r\nI nie martw się [bąblami] porastającymi kadłub Twojego statku. \r\n\r\nNie martw się. Jesteśmy tu dla Ciebie. \r\n\r\n...\r\n\r\n-- Koniec nagrania \r\n\r\n-- Koniec fragmentu wybranego do sprawdzenia \r\n\r\n> BŁĘDY W TŁUMACZENIU: Zbyt wiele by zliczyć\r\n\r\n> Pełny zapis audio jest dostępny w raporcie a13b2g8901cf2376102e. \r\n====================================================", 
+
+
+
+	"VOIDJAILER_BODY_NAME" : "Strażnik Pustki",
+	"VOIDJAILER_BODY_LORE" : "Głębiej, jeszcze głębiej.\n\nNa tym świecie zawsze jest większa ryba. I zawsze więcej miejsca, w którym mogłaby pływać.\n\nJedyny sposób, by takie miejsce znaleźć, to zapuścić się głębiej...\n\nGłębiej w ciekawość. Głębiej w pychę. Głębiej w otchłań kreacji. \n\nI można tam natrafić na istoty, zdolne sprostać pustce, zamieszkującym ciemne wymiary i przestrzeń pełną ciszy.\n\nTe, które czają się w spokojnej, mrocznej bezdni na dnie wszystkiego.\n\nAle gdy je znajdziesz, będzie już za późno. Gdy będziesz walczył z otchłanią, drogi mogą cię zaviesć jeszcze głębiej, i jeszcze głębiej, wciąż tylko głębiej.", 
+	"ASSASSIN2_BODY_NAME" : "Asasyn",
+	"ASSASSIN2_BODY_LORE" : "\"Nie zastanawiałem się zbytnio nad niebezpieczeństwami tej planety. Większość tutejszych zwierząt jest... Cóż, w pewnym sensie bezpośrednia. Lemurianie warczą i plują, Golemy po prostu maszerują prosto na ciebie, nie błądząc wzrokiem. Nigdy nie odnosi się wrażenia, że knują za plecami. Ale... czasami planeta lubi zagrać nieczysto.\n\nZaczęło się kilka tygodni temu. Znalazłem wychudzonego kosmitę leżącego bezwładnie na ziemi. Miał maskę z dwoma kolistymi otworami na czubku i dekoracyjne malunki. Była, w sumie... Urocza. Kosmita poruszył się i spojrzał na mnie błagalnymi oczami. Miałem szczęście, bo jestem aż tak ufny. Zabarałem go do ukrytej wnęki, z dala od innych, żeby dochodził do siebie. Codziennie przynosiłem mu jedzenie, a on radośnie piszczał, gdy tylko przechodziłem przez zarośla. Nigdy nie przeszło mi przez myśl, że się mną bawi, patrząc na mnie tymi wielkimi, proszącymi oczami, dla którego byłem tylko środkiem do celu. \n\nNigdy nie myślałem, że kiedyś wrócę po patrolu do koszar pełnych trupów, ani że pójdę do wnęki za krwawymi śladami, by zobaczyć mojego byłego przyjaciela dzierżącego zakrwawione ostrze. Nigdy się nad tym nie zastanawiałem. Nigdy nie myślałem, jak niebezpieczna naprawdę jest ta planeta.\n\nNa szczęście miałem przyjaciela, który nauczył mnie fachu.\" ", 
+
+	
+
+	"VOIDINFESTOR_BODY_NAME" : "Zaraźca Pustki",
+	"VOIDINFESTOR_BODY_LORE" : "RAPORTY O POTENCJALNYCH OBSERWACJACH ZARAŹCÓW \r\n\r\nPRZYPOMNIENIE: WSZYSTKIE RAPORTY ZBIERAĆ I NATYCHMIAST UDOSTĘPNIAĆ ZAŁODZE. \r\n\r\nPRZYPOMNIENIE: KONTAKT Z ZARAŹCAMI SPRAWIA, ŻE CZŁONKOWIE ZESPOŁU NIE PODLEGAJĄ RATOWANIU. STRZELAĆ PRZY WIDZENIU.\r\n\r\n-- 23.01 --\r\n\r\nCzy zauważyliście, że bestie blisko bazy zachowują się dziwnie?  W ciągu ostatnich kilku dni dochodziło do nieustannych walk a niektóre osobniki zachowują się niestabilnie. Nigdy nie trwa to zbyt długo - zazwyczaj ich rodziny je otaczają, rozrywając na strzępy zanim mogę im się bliżej przyjrzeć. Sądzicie, że coś jest z nimi nie tak? Czy może rodziny wykrywają jakiś rodzaj choroby i ją eliminują?  Odzyskaliśmy tylko jedno ciało i wygląda jak podstawowy lemurianin, poza zmiażdżonymi kończynami i rozgniecioną czaszką. Skontaktowałem się z Tharsonem, żeby dać mu znać - wiem jedno, sam nie wybiorę się do tych enklaw dopóki trwa tam wojna domowa. Może tak po prostu zachwoują się lemurianie z wścieklizną, chociaż pierwszy raz widzę coś takiego. \r\n\r\n-- 25.01 --\r\n\r\nWalki wewnątrz rodzin znacznie się nasiliły.  Bijatyki trwają o wiele dłużej niż tylko jedno zabójstwo a frakcje zmieniają się gwałtownie, jakby kierowała nimi żądza krwi.  Grupa czterech osób zatłucze jednostkę na śmierć tylko po to, by wkrótce potem zwrócić się przeciwko jednemu z siebie. Pierwszy raz widzę, jak małe grupy całkowicie się wybijają, tylko po to, by ostatni ocalały odczołgał się na zmasakrowanych kończynach.  Ze swojego stanowiska nie odważę się strzelać, nie wydają się nami zainteresowani i wolę aby tak zostało. Moim zdaniem, gdyby te nasze sąsiedztwo samo doprowadziło się do wymarcia byłby to dla mnie dobry dzień.  Wtedy przynajmniej mógłbym spać spokojnie, zamiast każdej nocy martwić się, że spalą mój namiot. \r\n\r\n-- 02.?? --\r\n\r\n > NAGRANIE AUDIO ODZYSKANE Z TERENU OPERACYJNEGO 4a\r\n\r\nDobrze... dobrze... to, cholero, już nagrywaj!  Nieważne, nagrywaj!  Dobra... światełko?! Dobrze - dobra.  Słuchajcie, to jest [USUNIĘTO], chcę, żeby ktokolwiek to znajdzie, znajdzie mnie, moje ciało lub ciało [USUNIĘTO] wiedział, że nie oszalałem. O boże... Dobra, właśnie zamordowałem [USUNIĘTO].  Przynajmniej, myślę, że to był [USUNIĘTO], ciężko się połapać.  Jakaś kreatura jak [USUNIĘTO] kołysała się nocą wokół naszej placówki - poruszał się jakby nie miał kości czy coś - nieważne.  Zawołałem go i zwrócił się, by wystrzelić w moją stronę.  Zabiłem go i ... słuchajcie, ja nie mogę - jeśli... jeśli zaczniemy się tak nawzajem wykańczać to ja po prostu... muszę się stąd wydostać.  Chcę tylko żebyście wiedzieli, że nie jestem wariatem.\r\n\r\n-- Koniec nagrania --\r\n\r\n> Powiązane osoby usunięte z rejestru. \r\n\r\n\r\n>Pełne nagranie dostępne przy zachowaniu poufności w raporcie 596f757220707269736f6e.\r\n==================================================================",
+
+
+
+	//[DRONE]
+	"DRONE_GUNNER_BODY_NAME": "Dron-Strzelec",
+	"DRONE_HEALING_BODY_NAME": "Dron-Uzdrowiciel",
+	"DRONE_BACKUP_BODY_NAME": "Dron Uderzeniowy",
+	"DRONE_MISSILE_BODY_NAME": "Dron Rakietowy",
+	"DRONE_MEGA_BODY_NAME": "Prototyp TC-280",
+	"EQUIPMENTDRONE_BODY_NAME" : "Dron Sprzętowy",
+	"FLAMEDRONE_BODY_NAME" : "Dron-Podpalacz",
+	"EMERGENCYDRONE_BODY_NAME" : "Dron Ratunkowy",
+	"DRONE_COMMANDER_BODY_NAME" : "Płk. Droniarz",
+
+	//[INTERACTORS/BODY]
+	"TURRET1_BODY_NAME": "Wieżyczka Strzelnicza",
+
+	//[MISC]
+	"ENGITURRET_BODY_NAME": "Wieżyczka Sapera",
+	"POT2_BODY_NAME": "Garnek",
+	"FUSIONCELL_BODY_NAME": "Ogniwo Paliwowe",
+	"SQUIDTURRET_BODY_NAME": "Kałamarnicowa Wieżyczka",
+	"POTMOBILE_BODY_NAME": "Garnkowóz",
+	"SHOPKEEPER_BODY_NAME": "Newt", //Może wymagać innej nazwy - ciężko wymyślić coś sensownie pasującego do świata gry, nie znając kontekstu//
+	"URCHINTURRET_BODY_NAME" : "Malachitowy Jeżowiec",
+	"SKILL_LUNAR_PRIMARY_REPLACEMENT_NAME" : "Głodne Spojrzenie",
+	"SKILL_LUNAR_PRIMARY_REPLACEMENT_DESCRIPTION" : "Wystrzel salwę <style=cIsUtility>samonaprowadzających się odłamków</style>, które detonują opóźnieniem,  zadając <style=cIsDamage>120%</style> obrażeń.",
+	"SKILL_LUNAR_SECONDARY_REPLACEMENT_NAME" : "Tnaca Wirówka", 
+	"SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION" : "Ładuj kulę ostrzy zadającą powtarzalnie <style=cIsDamage>175%</style> obrażeń. Po chwili eksploduje i <style=cIsDamage>unieszkodliwa</style> wszystkich wrogów, zadając <style=cIsDamage>700%</style> obrażeń.",
+	"SKILL_LUNAR_UTILITY_REPLACEMENT_NAME" : "Zanikanie",
+	"SKILL_LUNAR_UTILITY_REPLACEMENT_DESCRIPTION" : "Zniknij, stając się <style=cIsUtility>niematerialnym </style> i <style=cIsUtility>zdobądź zwiększoną szybkość ruchów </style>. <style=cIsHealing>Odzyskaj</style> <style=cIsHealing>25% maksymalnego zdrowia</style>.",
+	"SKILL_LUNAR_SPECIAL_REPLACEMENT_NAME" : "Zniszczenie",
+	"SKILL_LUNAR_SPECIAL_REPLACEMENT_DESCRIPTION" : "Zadawanie obrażeń nakłada 1 stos Zniszczenia. Użycie umiejętności detonuje wszystkie stosy Zniszczenia, zadając 300% obrażeń oraz 120% obrażeń per stos Zniszczenia.",
+	"MAULINGROCK_BODY_NAME": "Latająca Skała",
+	"TIMECRYSTAL_BODY_NAME" : "Kryształ Czasu",
+	"ROBOBALLREDBUDDY_BODY_NAME" : "Cicha Sonda",
+	"ROBOBALLGREENBUDDY_BODY_NAME" : "Zachwycona Sonda",
+	"SKILL_GENERIC_CANCEL_NAME" : "Anuluj",
+	"SKILL_GENERIC_CANCEL_DESCRIPTION" : "Anuluje użycie skilla.",
+	"AFFIXEARTH_HEALER_BODY_NAME" : "Uzdrawiające Jądro", 
+
+
+
+
+
+	"CHARACTER_SELECT_TITLE": "Wybór postaci",
+	"CHARACTER_SELECT_SELECT_SURVIVOR" : "Wybierz Ocalałego",
+	"SURVIVOR_OVERVIEW": "Opis",
+	"SURVIVOR_SKILLS": "Umiejętności",
+	"SURVIVOR_LOADOUT": "Ekwipunek",
+	"CHARACTER_SELECT_READY": "Gotowy",
+	"CHARACTER_SELECT_LOCKED_IN": "Zablokowano wybór",
+	"LOADOUT_SKILL_PRIMARY": "Podstawowa",
+	"LOADOUT_SKILL_SECONDARY": "Drugi atak",
+	"LOADOUT_SKILL_UTILITY": "Narzędzie",
+	"LOADOUT_SKILL_SPECIAL": "Specjalna",
+	"LOADOUT_SKILL_MISC": "Inne",
+	"LOADOUT_SKIN": "Skórka",
+	
+	"CHARACTER_DESCRIPTION_AND_UNLOCK_FORMAT" : "{0}\n\n{1}",
+
+	"RANDOM_VOTE_NAME" : "Losuj",
+	"RANDOM_VOTE_DESCRIPTION" : "Głosuj za losowym wyborem.",
+
+
+	"ACTION_MOVE_HORIZONTAL" : "Ruch poziomy",
+	"ACTION_MOVE_VERTICAL" : "Ruch pionowy",
+	"ACTION_AIM_HORIZONTAL_MOUSE" : "Celowanie poziome",
+	"ACTION_AIM_VERTICAL_MOUSE" : "Celowanie pionowe",
+	"ACTION_AIM_HORIZONTAL_STICK" : "Celowanie poziome",
+	"ACTION_AIM_VERTICAL_STICK" : "Celowanie pionowe",
+	"ACTION_JUMP" : "Skok",
+	"ACTION_SPRINT" : "Przełącz tryb sprintu",
+	"ACTION_INTERACT" : "Wejdź w interakcję",
+	"ACTION_EQUIPMENT" : "Aktywuj ekwipunek",
+	"ACTION_PRIMARY_SKILL" : "Umiejętność podstawowa",
+	"ACTION_SECONDARY_SKILL" : "Umiejętność dodatkowa",
+	"ACTION_UTILITY_SKILL" : "Umiejętność narzędziowa",
+	"ACTION_SPECIAL_SKILL" : "Umiejętność specjalna",
+	"ACTION_INFO" : "Ekran informacji",
+	"ACTION_PING" : "Pingowanie",
+	"ACTION_MOVE_VERTICAL_POSITIVE" : "Poruszaj się do przodu",
+	"ACTION_MOVE_VERTICAL_NEGATIVE" : "Poruszaj się do tyłu",
+	"ACTION_MOVE_HORIZONTAL_POSITIVE" : "Poruszaj się w prawo",
+	"ACTION_MOVE_HORIZONTAL_NEGATIVE" : "Poruszaj się w lewo",
+	"INPUT_KEYBOARD_UNBOUND" : "[NIEPRZYPISANE]",
+	"INPUT_GAMEPAD_UNBOUND" : "[NIEPRZYPISANE]",
+
+//INTRO DO GRY//
+
+	"CUTSCENE_INTRO_FLAVOR_1": "UES 'Safe Travels' ",
+	"CUTSCENE_INTRO_FLAVOR_2": "Ostatnie znane koordynaty statku UES 'Contact Light'",
+	"CUTSCENE_INTRO_SUBTITLE_1": "Jesteśmy na miejscu, Kapitanie. Sygnał z namiarowego pochodził z tych dokładnych współrzędnych.",
+	"CUTSCENE_INTRO_SUBTITLE_2": "Ta planeta... jej nie ma na żadnych mapach, które znamy. Ta lokalizacja nawet nie leży na trasie...", 
+	"CUTSCENE_INTRO_SUBTITLE_3": "Czy widać cokolwiek z Contact Light?",
+	"CUTSCENE_INTRO_SUBTITLE_4": "Nie, sir... tylko szczątki.",
+	"CUTSCENE_INTRO_SUBTITLE_5": "Jakikolwiek znak ocalałych?",
+	"CUTSCENE_INTRO_SUBTITLE_6": "....Nie, sir. Bioskan nic nie wykrywa.",
+	"CUTSCENE_INTRO_SUBTITLE_7": "Sir... nadajnik z Contact Light. Wspominał... wspominał o wielu rzeczach.",
+	"CUTSCENE_INTRO_SUBTITLE_8": "Potworach, i walkach, i...",
+	"CUTSCENE_INTRO_SUBTITLE_9": "...Sir... myśli Pan, że jesteśmy gotowi?",
+	"CUTSCENE_INTRO_SUBTITLE_10": "Sir?",
+
+	"GENERIC_OUTRO_FLAVOR": "..i tak odszedł, szukając sensu istnienia.",
+	"GENERIC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknął, tak blisko ucieczki.",
+
+	"COMMANDO_OUTRO_FLAVOR": "..i tak odszedł, z nowymi rozkazami i pytaniami.",
+	"COMMANDO_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknął, kolejna liczba wśród zaginionych.",
+
+	"HUNTRESS_OUTRO_FLAVOR": "..i tak odeszła, spragniona kolejnych wielkich łowów.",
+	"HUNTRESS_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęła, niezdolna nigdy już więcej polować.",
+
+	"ENGI_OUTRO_FLAVOR": "..i tak odszedł, pełen nowej inspiracji.",
+	"ENGI_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknął, niezdolny wyjaśnić co jego oczy widziały.",
+
+	"TREEBOT_OUTRO_FLAVOR": "..i tak odeszło, gotowe do rozwoju w coś więcej.",
+	"TREEBOT_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęło, dalej trwając w jednym statusie.",
+
+	"CROCO_OUTRO_FLAVOR": "..i tak odeszło, złudnie sądząc że jest wolne.",
+	"CROCO_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęło, ostatecznie złapane i zamknięte w klatce.",
+
+	"LOADER_OUTRO_FLAVOR": "..i tak odeszła, z sercem wciąż bijącym jak szalone.",
+	"LOADER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęła, jej pęd zastopowany na zawsze.",
+
+	"MERC_OUTRO_FLAVOR": "..i tak odszedł, marząc o dobrym jedzeniu i spokojnej nocy.",
+	"MERC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknął, sprowadzony do roli legendy.",
+
+	"CAPTAIN_OUTRO_FLAVOR": "..i tak odszedł, z nową opowieścią w ręku.",
+	"CAPTAIN_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknął, wolny od biurokracji.",
+
+	"TOOLBOT_OUTRO_FLAVOR": "..i tak opuściło to miejsce, by móc naładować akumulatory.",
+	"TOOLBOT_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęło, na zawsze nieaktywne.",
+
+	"MAGE_OUTRO_FLAVOR": "..i tak opuściła to miejsce, pochłonięta nową pasją: by eksplorować.",
+	"MAGE_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęła, na zawsze pozostawiając pustkę.",
+
+	"BANDIT2_OUTRO_FLAVOR": "..i tak odszedł, wdzięczny za swoje szczęście.",
+	"BANDIT2_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknął, pełen żalu.",
+
+	"HERETIC_OUTRO_FLAVOR": "..i tak odjechali, gorzko pomszczeni i głęboko zgubieni.",
+	"HERETIC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęli, dwie historie kończące się jako jedna.",
+
+	"RAILGUNNER_OUTRO_FLAVOR": "..i tak opuściła to miejsce, gotowa oddać strzał.",
+	"RAILGUNNER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..i tak zniknęła, niewidoczna dla innych oczu.",
+
+	"VOIDSURVIVOR_OUTRO_FLAVOR": "『..a te??k p??rzyszło】... 「dla na?s wszystkich.』",
+	"VOIDSURVIVOR_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "『..a?? tak zni?kn??ęło』,「sz?e??ptem w c?iemności』",
+//KONIEC INTRA//
+
+
+	"BROTHER_DIALOGUE_FORMAT": "<color=#c6d5ff><size=120%>Mithrix: {0}</color></size>",
+
+	//[HURT BROTHER],
+	"BROTHER_SPAWN_PHASE1_1": "Módl się.",
+	"BROTHER_SPAWN_PHASE1_2": "Błagaj.",
+	"BROTHER_SPAWN_PHASE1_3": "Giń.",
+	"BROTHER_SPAWN_PHASE1_4": "Zostaniesz zgładzony.",
+
+	"BROTHER_DAMAGEDEALT_1": "Krwa.",
+	"BROTHER_DAMAGEDEALT_2": "Czas się bać.",
+	"BROTHER_DAMAGEDEALT_3": "Słaby.",
+	"BROTHER_DAMAGEDEALT_4": "Kruchy - i miękki.",
+	"BROTHER_DAMAGEDEALT_5": "Jesteście niczym.",
+	"BROTHER_DAMAGEDEALT_6": "Pomyłka.",
+	"BROTHER_DAMAGEDEALT_7": "Wrzeszcz, robactwo.",
+	"BROTHER_DAMAGEDEALT_8": "Załam się pode mną.",
+	"BROTHER_DAMAGEDEALT_9": "Powolny.",
+	"BROTHER_DAMAGEDEALT_10": "Twoje ciało ulegnie zniszczeniu.",
+
+	"BROTHER_KILL_1": "Wróć do prochu.",
+	"BROTHER_KILL_2": "Poddaj się, robactwo.",
+	"BROTHER_KILL_3": "Giń, robactwo.",
+	"BROTHER_KILL_4": "Giń, słabaku.",
+	"BROTHER_KILL_5": "Po was zostaną tylko wspomnienia.",
+
+	"BROTHER_SEE_HERETIC_1": "Pożałujesz tej wyprawy, Heretyku.",
+	"BROTHER_SEE_HERETIC_2": "Giń kolejny raz, Heretyku.",
+
+	"BROTHER_KILL_HERETIC_1": "Powróć w proch, Heretyku.",
+	"BROTHER_KILL_HERETIC_2": "Giń kolejny raz, Heretyku.",
+
+	"BROTHER_KILL_MECHANICAL_1": "Marny konstrukcie. Złamany.",
+	"BROTHER_KILL_MECHANICAL_2": "Prymitywny złom.",
+	"BROTHER_KILL_MECHANICAL_3": "Rozebrany.",
+
+	//[HURT BROTHER],
+	"BROTHERHURT_DAMAGEDEALT_1": "KRWAW.",
+	"BROTHERHURT_DAMAGEDEALT_2": "WRZESZCZ.",
+	"BROTHERHURT_DAMAGEDEALT_3": "GDZIE TWOJA MOC?",
+	"BROTHERHURT_DAMAGEDEALT_4": "PRZEMIJALNA SIŁA.",
+	"BROTHERHURT_DAMAGEDEALT_5": "SŁABY.",
+	"BROTHERHURT_DAMAGEDEALT_6": "ZŁAM SIĘ.",
+	"BROTHERHURT_DAMAGEDEALT_7": "ZGUBNA SIŁA.",
+	"BROTHERHURT_DAMAGEDEALT_8": "USTĘPUJ.",
+	"BROTHERHURT_DAMAGEDEALT_9": "GIŃ, ROBACTWO.",
+	"BROTHERHURT_DAMAGEDEALT_10": "SŁABY, BEZ TALIZMANÓW I OZDOBEK.",
+
+	"BROTHERHURT_KILL_1": "GIŃ.",
+	"BROTHERHURT_KILL_2": "SŁABY.",
+	"BROTHERHURT_KILL_3": "BEZUŻYTECZNY.",
+	"BROTHERHURT_KILL_4": "JAK PRZEWIDYWAŁEM...",
+	"BROTHERHURT_KILL_5": "ROBACTWO.",
+
+	"BROTHERHURT_DEATH_1": "NIE... NIE TERAZ...",
+	"BROTHERHURT_DEATH_2": "DLACZEGO... DLACZEGO TERAZ...?",
+	"BROTHERHURT_DEATH_3": "NIE... NIE...!",
+	"BROTHERHURT_DEATH_4": "BRAСIE... POMÓŻ MI...!", 
+	"BROTHERHURT_DEATH_5": "TA RZEСZYWISTOŚĆ CIEMNIEJE... BRAСIE... NIE WIDZĘ CIĘ... GDZIE JESTEŚ...?", 
+	"BROTHERHURT_DEATH_6": "BRAСIE... BYĆ MOŻE... UDA NAM SIĘ NASTĘPNYM RAZEM...", 
+
+	"BROTHERHURT_SEE_TITANGOLD_1": "STRАŻNIK...? NIEMOŻLIWE...!",
+	"BROTHERHURT_SEE_TITANGOLD_2": "NĘDZNY STRАŻNIK...!",
+	"BROTHERHURT_SEE_TITANGOLD_AND_HERETIC_1": "HERETYK STRАŻNIKJAK?? KTO POCIĄGA ZA SZNURKI, ROBACTWO?",
+
+	"BROTHERHURT_KILL_TITANGOLD_1": "NIE MOŻESZ MI SIĘ OPIERAĆ, STRАŻNIKU",
+	"BROTHERHURT_KILL_TITANGOLD_2": "WRÓĆ DO PROCHU, STRАŻNIKU.",
+
+	"BROTHERHURT_KILL_HERETIC_1": "POWRÓĆ W PROCH, HERETYKU.",
+	"BROTHERHURT_KILL_HERETIC_2": "GIŃ KOLEJNY RAZ, HERETYKU.",
+
+
+
+
+	"DIFFICULTY_BAR_0": "Bardzo Łatwy",
+	"DIFFICULTY_BAR_1": "Łatwy",
+	"DIFFICULTY_BAR_2": "Średni",
+	"DIFFICULTY_BAR_3": "Trudny",
+	"DIFFICULTY_BAR_4": "Bardzo Trudny",
+	"DIFFICULTY_BAR_5": "Szalony",
+	"DIFFICULTY_BAR_6": "Niemożliwy",
+	"DIFFICULTY_BAR_7": "WIDZĘ CIĘ",
+	"DIFFICULTY_BAR_8": "IDE PO CIEBIE",
+	"DIFFICULTY_BAR_9": "HAHAHAHAHAHA",
+	"STAGE_COUNT_FORMAT" : "<style=cSub>Etap</style> {0}",
+	"AMBIENT_LEVEL_DISPLAY_FORMAT" : "<style=cSub>Poziom</style> {0}",
+
+
+
 
 
 	//reszta//
@@ -1110,12 +1327,12 @@
 	"TITLE_MULTIPLAYER_FIND_GAME": "Dołącz do gry",
 	"TITLE_MULTIPLAYER_HOST_GAME": "Stwórz grę", 
 	"MORE_MUSIC" : "MUZYKA",
-	"MORE_MUSIC_DESC" : "Witaj! Jestem Chris, kompozytor ścieżki dźwiękowej. Możesz mnie kojarzyć z pierwszego Risk of Rain lub kawiarni w Twojej okolicy. Pracuję nad muzyką do ROR2 od czterech lat i była to ciężka praca. Ale satysfakcjonująca, gdyż jestem dumny z tego co stworzyłem.\r\nMam nadzieję, że Ci się spodoba!\r\n\r\nJeśli chcesz śledzić co się u mnie dzieje, obserwuj mnie na Twitterze i Instagramie (oba @AstronautDown) oraz zajrzyj na nasz serwer Discord!",
+	"MORE_MUSIC_DESC" : "Witaj! Jestem Chris, kompozytor ścieżki dźwiękowej. Możesz mnie kojarzyć z pierwszego Risk of Rain lub kawiarni w Twojej okolicy. Pracuję nad muzyką do ROR2 od czterech lat i była to ciężka praca. Ale satysfakcjonująca, gdyż jestem dumny z tego co stworzyłem.\r\nMam nadzieję, że Ci się spodoba!\r\n\r\nJeśli chcesz śledzić co się u mnie dzieje, obserwuj mnie na Twitterze i Instagramie (@AstronautDown) oraz zajrzyj na nasz serwer Discord!",
 	"MORE_MUSIC_BUTTON" : "ZABIERZ MNIE TAM!",
 	"MORE_CONTACT" : "KONTAKT",
 	"MORE_CONTACT_DESC" : "Obserwuj nas w mediach społecznościowych dla najnowszych aktualizacji i wiadomości o Risk of Rain 2!",
 	"MORE_LICENSE" : "LICENCJE",
-	"MORE_LICENSE_DESC" : "Copyright (C) 2012 - 2022 Hopoo Games, LLC. Wszelkie prawa zastrzeżone. \r\n\r\nStworzono z Unity. Unity jest znakiem handlowym Unity Technologies lub jej filii w USA i innych krajach. Wszelkie prawa zastrzeżone. \r\n\r\nOparte na Wwise (C) 2006 - 2022 Audiokinetic Inc. Wszelkie prawa zastrzeżone.\r\n\r\nInne znaki handlowe należą do ich odpowiednich właścicieli.",
+	"MORE_LICENSE_DESC" : "Copyright (C) 2012 - 2022 Hopoo Games, LLC. Wszelkie prawa zastrzeżone. \r\n\r\nStworzono w Unity. Unity jest znakiem handlowym Unity Technologies lub jej filii w USA i innych krajach. Wszelkie prawa zastrzeżone. \r\n\r\nOparte na Wwise (C) 2006 - 2022 Audiokinetic Inc. Wszelkie prawa zastrzeżone.\r\n\r\nInne znaki handlowe należą do ich odpowiednich właścicieli.",
 	"DESC_MULTIPLAYER_QUICKPLAY": "Automatyczne dołączanie do innych graczy.",
 	"DESC_MULTIPLAYER_HOST": "Hostuj grę z udziałem lokalnych i sieciowych graczy (1-4).",
 	"DESC_MULTIPLAYER_JOIN": "Spróbuj dołączyć do gry używając ID widniejącego w schowku.",
@@ -1303,7 +1520,7 @@
 	"OPTION_CUSTOM": "Własne",
 
 	"OPTION_APPLY": "Zastosuj",
-	"OPTION_REVERT": "Przywróć",
+	"OPTION_REVERT": "Domyślne",
 	"OPTION_BACK": "Wstecz",
 	"OPTION_ACCEPT": "Akceptuj",
 
@@ -1311,13 +1528,13 @@
 	
 
 	//[AUDIO]
-	"OPTION_MASTERVOLUME": "Główna Głośność:",
+	"OPTION_MASTERVOLUME": "Główny:",
 	"OPTION_MASTERVOLUME_DESCRIPTION": "Głośność całej gry.",
 
-	"OPTION_MUSICVOLUME": "Głośność Muzyki:",
+	"OPTION_MUSICVOLUME": "Muzyka:",
 	"OPTION_MUSICVOLUME_DESCRIPTION": "Głośność muzyki w grze.",
 
-	"OPTION_SFXVOLUME": "Głośność Efektów:",
+	"OPTION_SFXVOLUME": "Efekty:",
 	"OPTION_SFXVOLUME_DESCRIPTION": "Głośność efektów podczas gry.",
 
 	"OPTION_AUDIOFOCUS": "Wycisz gdy nieaktywna:",
@@ -1429,55 +1646,292 @@
 	"OPTION_GAMEPAD_VIBRATION_SCALE": "<style=cUserSetting>Skala Wibrowania</style>",
 	"OPTION_GAMEPAD_VIBRATION_SCALE_DESCRIPTION": "Intensywność wibracji kontrolera.",
 
-		//[Keyboard+Mouse]
-		"OPTION_MOUSE_LOOK_SENSITIVITY": "<style=cUserSetting>Czułość myszy</style>",
-		"OPTION_MOUSE_LOOK_SENSITIVITY_DESCRIPTION": "Jak szybko obraca się kamera wraz z ruchami myszy.",
-		"OPTION_MOUSE_LOOK_SCALE_X": "<style=cUserSetting>Skala obrotu w poziomie</style>",
-		"OPTION_MOUSE_LOOK_SCALE_X_DESCRIPTION": "Mnożnik dla prędkości obrócenia kamery w poziomie.",
-		"OPTION_MOUSE_LOOK_SCALE_Y": "<style=cUserSetting>Skala obrotu w pionie</style>",
-		"OPTION_MOUSE_LOOK_SCALE_Y_DESCRIPTION": "Mnożnik dla prędkości obrócenia kamery w pionie.",
-		"OPTION_MOUSE_LOOK_INVERT_X": "<style=cUserSetting>Odwróć oś X</style>",
-		"OPTION_MOUSE_LOOK_INVERT_X_DESCRIPTION": "Odwraca kierunek obrócenia kamery w poziomie.",
-		"OPTION_MOUSE_LOOK_INVERT_Y": "<style=cUserSetting>Odwróć oś Y</style>",
-		"OPTION_MOUSE_LOOK_INVERT_Y_DESCRIPTION": "Odwraca kierunek obrócenia kamery w pionie.",
-	  
-		//[Gameplay]
-		"OPTION_SCREENSHAKE_SCALE": "<style=cUserSetting>Intensywność drżenia ekranu</style>",
-		"OPTION_SCREENSHAKE_SCALE_DESCRIPTION": "Jak mocno trzęsie się ekran.",
-		"OPTION_DAMAGENUMBERS": "Liczby obrażeń",
-		"OPTION_DAMAGENUMBERS_DESCRIPTION": "Włącza unoszące się liczby obrażeń.",
-		"OPTION_SPRINT_SENSITIVITY_REDUCTION": "Mniejsza czułość podczas sprintu",
-		"OPTION_SPRINT_SENSITIVITY_REDUCTION_DESCRIPTION": "Włącza mniejszą czułość ruchów podczas sprintu.",
-		"OPTION_HUD": "Interfejs w grze (HUD)",
-		"OPTION_HUD_DESCRIPTION": "Włącza interfejs gry: paski zdrowia, ikony przedmiotów i umiejętności, itp.",
-		"OPTION_EXP_AND_MONEY_EFFECTS": "Efekty doświadczenia i pieniędzy",
-		"OPTION_EXP_AND_MONEY_EFFECTS_DESCRIPTION": "Włącza efekty cząsteczek podczas zdobywania doświadczenia i pieniędzy.",
-		"OPTION_DETAILED_DESCRIPTION" : "Szczegółowe opisy przedmiotów",
-		"OPTION_DETAILED_DESCRIPTION_DESCRIPTION" : "Włącza szczegółowe opisy przedmiotów i ekwipunku w grze.",
-		"OPTION_SCREEN_DISTORTION" : "Zniekształcenia ekranu",
-		"OPTION_SCREEN_DISTORTION_DESCRIPTION" : "Włącza efekty zniekształcenia ekranu." ,
+	//[Keyboard+Mouse]
+	"OPTION_MOUSE_LOOK_SENSITIVITY": "<style=cUserSetting>Czułość myszy</style>",
+	"OPTION_MOUSE_LOOK_SENSITIVITY_DESCRIPTION": "Jak szybko obraca się kamera wraz z ruchami myszy.",
+	"OPTION_MOUSE_LOOK_SCALE_X": "<style=cUserSetting>Skala obrotu w poziomie</style>",
+	"OPTION_MOUSE_LOOK_SCALE_X_DESCRIPTION": "Mnożnik dla prędkości obrócenia kamery w poziomie.",
+	"OPTION_MOUSE_LOOK_SCALE_Y": "<style=cUserSetting>Skala obrotu w pionie</style>",
+	"OPTION_MOUSE_LOOK_SCALE_Y_DESCRIPTION": "Mnożnik dla prędkości obrócenia kamery w pionie.",
+	"OPTION_MOUSE_LOOK_INVERT_X": "<style=cUserSetting>Odwróć oś X</style>",
+	"OPTION_MOUSE_LOOK_INVERT_X_DESCRIPTION": "Odwraca kierunek obrócenia kamery w poziomie.",
+	"OPTION_MOUSE_LOOK_INVERT_Y": "<style=cUserSetting>Odwróć oś Y</style>",
+	"OPTION_MOUSE_LOOK_INVERT_Y_DESCRIPTION": "Odwraca kierunek obrócenia kamery w pionie.",
+	
+	//[Gameplay]
+	"OPTION_SCREENSHAKE_SCALE": "<style=cUserSetting>Intensywność drżenia ekranu</style>",
+	"OPTION_SCREENSHAKE_SCALE_DESCRIPTION": "Jak mocno trzęsie się ekran.",
+	"OPTION_DAMAGENUMBERS": "Liczby obrażeń",
+	"OPTION_DAMAGENUMBERS_DESCRIPTION": "Włącza unoszące się liczby obrażeń.",
+	"OPTION_SPRINT_SENSITIVITY_REDUCTION": "Mniejsza czułość podczas sprintu",
+	"OPTION_SPRINT_SENSITIVITY_REDUCTION_DESCRIPTION": "Włącza mniejszą czułość ruchów podczas sprintu.",
+	"OPTION_HUD": "Interfejs w grze (HUD)",
+	"OPTION_HUD_DESCRIPTION": "Włącza interfejs gry: paski zdrowia, ikony przedmiotów i umiejętności, itp.",
+	"OPTION_EXP_AND_MONEY_EFFECTS": "Efekty doświadczenia i pieniędzy",
+	"OPTION_EXP_AND_MONEY_EFFECTS_DESCRIPTION": "Włącza efekty cząsteczek podczas zdobywania doświadczenia i pieniędzy.",
+	"OPTION_DETAILED_DESCRIPTION" : "Szczegółowe opisy przedmiotów",
+	"OPTION_DETAILED_DESCRIPTION_DESCRIPTION" : "Włącza szczegółowe opisy przedmiotów i ekwipunku w grze.",
+	"OPTION_SCREEN_DISTORTION" : "Zniekształcenia ekranu",
+	"OPTION_SCREEN_DISTORTION_DESCRIPTION" : "Włącza efekty zniekształcenia ekranu." ,
 
 
-		//[Misc]
-		"OPTION_STEAM_RELAY_SERVER": "Przekaźnik ruchu Steam",
-		"OPTION_STEAM_RELAY_SERVER_DESCRIPTION": "Domyślnie Steam może przekazywać ruch sieciowy do innych graczy przez serwer przekaźnikowy. Robi to, aby obejść problemy z połączeniem bezpośrednim lub aby zapewnić potencjalnie szybszą trasę sieciową. Wyłączenie tej opcji uniemożliwi przekazywanie ruchu przez serwer przekaźnikowy.",
-		"OPTION_INTRO_SKIP": "Pomiń intro startowe",
-		"OPTION_INTRO_SKIP_DESCRIPTION": "Pomijanie filmowej sekwencji otwarcia podczas uruchamiania gry.",
-	  
-		"OPTION_EOS_CROSSPLAY_TOGGLE": "Przełącz Cross-Play Epic Games/Steam",
-	  
-		"OPTION_REBIND_DIALOG_TITLE": "Przełącz przypisanie klawisza...",
-		"OPTION_REBIND_DIALOG_DESCRIPTION": "Naciśnij przycisk, który chcesz przypisać do {0}. Pozostało {1:0} sekund(y).",
-	  
-		"OPTION_REBIND_CANCELLED_DIALOG_DESCRIPTION": "Zmiana przypisania klawisza anulowana.",
-	  
-		"SETTINGS_PROFILE_NAME_FORMAT": "Ustawienia - <style=cUserSetting>{0}</style>",
-	  
-		"OPTION_AUTOREVERT_DIALOG_TITLE" : "Zachować zmiany?" 
+	//[Misc]
+	"OPTION_STEAM_RELAY_SERVER": "Przekaźnik ruchu Steam",
+	"OPTION_STEAM_RELAY_SERVER_DESCRIPTION": "Domyślnie Steam może przekazywać ruch sieciowy do innych graczy przez serwer przekaźnikowy. Robi to, aby obejść problemy z połączeniem bezpośrednim lub aby zapewnić potencjalnie szybszą trasę sieciową. Wyłączenie tej opcji uniemożliwi przekazywanie ruchu przez serwer przekaźnikowy.",
+	"OPTION_INTRO_SKIP": "Pomiń intro startowe",
+	"OPTION_INTRO_SKIP_DESCRIPTION": "Pomijanie filmowej sekwencji otwarcia podczas uruchamiania gry.",
+	
+	"OPTION_EOS_CROSSPLAY_TOGGLE": "Przełącz Cross-Play Epic Games/Steam",
+	
+	"OPTION_REBIND_DIALOG_TITLE": "Przełącz przypisanie klawisza...",
+	"OPTION_REBIND_DIALOG_DESCRIPTION": "Naciśnij przycisk, który chcesz przypisać do {0}. Pozostało {1:0} sekund(y).",
+	
+	"OPTION_REBIND_CANCELLED_DIALOG_DESCRIPTION": "Zmiana przypisania klawisza anulowana.",
+	
+	"SETTINGS_PROFILE_NAME_FORMAT": "Ustawienia - <style=cUserSetting>{0}</style>",
+	
+	"OPTION_AUTOREVERT_DIALOG_TITLE" : "Zachować zmiany?", 
 
-	  
-	//settings//
+	
+//settings//
 
 
+
+	"DISCORD_RICHPRESENCE_STATE_IN_SINGLEPLAYER_GAME": "Tryb Jednoosobowy",
+	"DISCORD_RICHPRESENCE_STATE_IN_LOBBY_GAME": "Gra w grupie",
+	"DISCORD_RICHPRESENCE_STATE_IN_SERVER_GAME": "Gra na serwerze",
+	"DISCORD_RICHPRESENCE_STATE_IN_LOBBY_MENU": "Tworzy grupe",
+
+
+	"DLC1_NAME": "Survivors of the Void",
+	"DLC1_DESCRIPTION": "Dodaje zawartość z dodatku 'Survivors of the Void' do gry.",
+
+
+	"CREDITS": "Credits",
+
+	"CREDITS_HOPOOGAMES_LEAD_IN": "Is...",
+	"CREDITS_CHRIS_LEAD_IN": "Featuring the music of...",
+	"CREDITS_SKEWSOUND_LEAD_IN": "With audio by...",
+	"CREDITS_GHOSTPUNCH_LEAD_IN": "Additional development by...",
+	"CREDITS_STREAMLINE_LEAD_IN": "Additional development by...",
+	"CREDITS_ADDITIONAL_CONTRIBUTIONS_LEAD_IN": "Additional contributions by...",
+	"CREDITS_PLAYEVERYWARE_LEAD_IN": "Console versions by...",
+	"CREDITS_LIONBRIDGE_LEAD_IN": "Localization by...",
+	"CREDITS_LIONBRIDGE_DEPARTMENT_LOCALIZATION_TEAM": "Localization Team",
+	"CREDITS_LIONBRIDGE_DEPARTMENT_LOCALIZATION_QA_TEAM": "Localization QA Team",
+	"CREDITS_GEARBOXPUBLISHING_LEAD_IN": "And published by...",
+	"CREDITS_GEARBOXPUBLISHING_DEPARTMENT_PUBLISHING": "Publishing",
+	"CREDITS_GEARBOXPUBLISHING_DEPARTMENT_FINANCE_HR_IT_LEGAL_OPERATIONS": "Finance, HR, IT, Legal, and Operations",
+	"CREDITS_SPECIAL_THANKS_LEAD_IN": "Special Thanks",
+	"CREDITS_SOFTWARE_WWISE_TEXT": "Powered by Wwise © 2006 – 2021 Audiokinetic Inc. All rights reserved.",
+	"CREDITS_SOFTWARE_SPEEDTREE_TEXT": "Made with Unity. Unity is a trademark or registered trademark of Unity Technologies or its affiliates in the U.S. and elsewhere. All rights reserved.",
+	"CREDITS_SOFTWARE_UNITY_TEXT": "Portions of this software utilize SpeedTree® technology (©2019 Interactive Data Visualization, Inc.). SpeedTree® is a registered trademark of Interactive Data Visualization, Inc. All rights reserved.",
+	"CREDITS_COPYRIGHT": "Copyright © 2012 - 2021 Hopoo Games, LLC. All rights reserved.\r\n\r\nPublished and distributed by Gearbox Publishing. Gearbox and the Gearbox Software logo are registered trademarks, and the Gearbox Publishing logo is a trademark, all used courtesy of Gearbox Software, LLC.\r\n\r\nCopyright © 2021, Streamline Media Group, Inc. All rights reserved.\r\nDeveloped by Streamline Games, a division of Streamline Media Group, Inc.\r\nStreamline Games and Streamline Media are trademarks and\/or registered trademarks of Streamline Media Group, Inc.\r\n",
+	"CREDITS_FINALMESSAGE": "...and you, yes you! Thank you!"
+
+	"CREDITS_ROLE_3D_ARTIST": "3D Artist",
+	"CREDITS_ROLE_ACCOUNTANT": "Accountant",
+	"CREDITS_ROLE_ACCOUNTING_ASSISTANT": "Accounting Assistant",
+	"CREDITS_ROLE_ACCOUNTING_ASSOCIATE": "Accounting Associate",
+	"CREDITS_ROLE_ADDITIONAL_AUDIO_SUPPORT": "Additional Audio Support",
+	"CREDITS_ROLE_ANIMATION_SUPPORT": "Animation Support",
+	"CREDITS_ROLE_ANIMATOR": "Animator",
+	"CREDITS_ROLE_BRAND_MANAGER": "Brand Manager",
+	"CREDITS_ROLE_CERTIFICATION_LEAD": "Certification Lead",
+	"CREDITS_ROLE_CERTIFICATION_SPECIALIST": "Certification Specialist",
+	"CREDITS_ROLE_CERTIFIED_PUBLIC_ACCOUNTANT": "Certified Public Accountant",
+	"CREDITS_ROLE_CFO": "CFO",
+	"CREDITS_ROLE_CHARACTER_ANIMATOR/RIGGER": "Character Animator/Rigger",
+	"CREDITS_ROLE_CHIEF_BUSINESS_OFFICER": "Chief Business Officer",
+	"CREDITS_ROLE_CHIEF_COMMUNICATIONS_OFFICER": "Chief Communications Officer",
+	"CREDITS_ROLE_CHIEF_EXECUTIVE_OFFICER": "Chief Executive Officer",
+	"CREDITS_ROLE_CHIEF_FINANCIAL_OFFICER": "Chief Financial Officer",
+	"CREDITS_ROLE_CHIEF_OPERATING_OFFICER": "Chief Operating Officer",
+	"CREDITS_ROLE_COMMUNITY_MANAGER": "Community Manager",
+	"CREDITS_ROLE_CONCEPT_ARTIST/ART_WRANGLER": "Concept Artist/Art Wrangler",
+	"CREDITS_ROLE_CUSTOMER_SERVICE_REPRESENTATIVE": "Customer Service Representative",
+	"CREDITS_ROLE_CUSTOMER_SUPPORT_MANAGER": "Customer Support Manager",
+	"CREDITS_ROLE_DESIGN_SUPPORT": "Design Support",
+	"CREDITS_ROLE_DEV_OPS_ENGINEER": "Dev Ops Engineer",
+	"CREDITS_ROLE_DIRECTOR_OF_DIGITAL_AND_COMMUNITY_STRATEGY": "Director of Digital and Community Strategy",
+	"CREDITS_ROLE_DIRECTOR_OF_LICENSING": "Director of Licensing",
+	"CREDITS_ROLE_DIRECTOR_OF_OPERATIONS_GSQ": "Director of Operations (GSQ)",
+	"CREDITS_ROLE_ENGINEER": "Engineer",
+	"CREDITS_ROLE_ENGINEERING_SUPPORT": "Engineering Support",
+	"CREDITS_ROLE_EXECUTIVE_ADMINISTRATIVE_ASSISTANT": "Executive Administrative Assistant",
+	"CREDITS_ROLE_EXECUTIVE_SUPPORT": "Executive Support",
+	"CREDITS_ROLE_FINANCIAL_CONTROLLER": "Financial Controller",
+	"CREDITS_ROLE_HEAD_OF_LEGAL": "Head of Legal",
+	"CREDITS_ROLE_HEAD_OF_PLATFORM_OPERATIONS": "Head of Platform Operations",
+	"CREDITS_ROLE_HEAD_OF_PRODUCTION": "Head of Production",
+	"CREDITS_ROLE_HEAD_OF_SALES": "Head of Sales",
+	"CREDITS_ROLE_HEAD_OF_TECHNOLOGY": "Head of Technology",
+	"CREDITS_ROLE_HELP_DESK_ANALYST": "Help Desk Analyst",
+	"CREDITS_ROLE_HELP_DESK_LEAD": "Help Desk Lead",
+	"CREDITS_ROLE_HELP_DESK_TECHNICIAN": "Help Desk Technician",
+	"CREDITS_ROLE_HR_DIRECTOR": "HR Director",
+	"CREDITS_ROLE_HR_GENERALIST": "HR Generalist",
+	"CREDITS_ROLE_INFLUENCER_MANAGER": "Influencer Manager",
+	"CREDITS_ROLE_IT_DIRECTOR": "IT Director",
+	"CREDITS_ROLE_IT_MANAGER": "IT Manager",
+	"CREDITS_ROLE_IT_PROJECT_COORDINATOR": "IT Project Coordinator",
+	"CREDITS_ROLE_IT_WEB_DEVELOPER": "IT Web Developer",
+	"CREDITS_ROLE_LEAD_IT_SPECIALIST": "Lead IT Specialist",
+	"CREDITS_ROLE_LEAD_PRODUCER": "Lead Producer",
+	"CREDITS_ROLE_LEAD_SOUND_DESIGNER": "Lead Sound Designer",
+	"CREDITS_ROLE_LEGAL_ASSOCIATE": "Legal Associate",
+	"CREDITS_ROLE_LEVEL_DESIGNER": "Level Designer",
+	"CREDITS_ROLE_LICENSING_COORDINATOR": "Licensing Coordinator",
+	"CREDITS_ROLE_LINGUISTIC_COORDINATORS_/_TRANSLATORS": "Linguistic Coordinators / Translators",
+	"CREDITS_ROLE_LOCALIZATION_PROJECT_MANAGER": "Localization Project Manager",
+	"CREDITS_ROLE_LOCALIZATION_QA_COORDINATOR": "Localization QA Coordinator",
+	"CREDITS_ROLE_MANAGER_FINANCIAL_PLANNING_AND_ANALYSIS": "Manager, Financial Planning and Analysis",
+	"CREDITS_ROLE_MANAGING_DIRECTOR_DIGITAL_PARTNERSHIPS": "Managing Director, Digital Partnerships",
+	"CREDITS_ROLE_MARKETING_ART_DIRECTOR": "Marketing Art Director",
+	"CREDITS_ROLE_MARKETING_ARTIST": "Marketing Artist",
+	"CREDITS_ROLE_MARKETING_ASSOCIATE_PRODUCER": "Marketing Associate Producer",
+	"CREDITS_ROLE_MARKETING_CREATIVE_DIRECTOR": "Marketing Creative Director",
+	"CREDITS_ROLE_NEW_MEDIA_MANAGER": "New Media Manager",
+	"CREDITS_ROLE_OFFICE_ASSISTANT": "Office Assistant",
+	"CREDITS_ROLE_OFFICE_COORDINATOR": "Office Coordinator",
+	"CREDITS_ROLE_OFFICE_MANAGER": "Office Manager",
+	"CREDITS_ROLE_OPERATIONS_MANAGER": "Operations Manager",
+	"CREDITS_ROLE_OPERATIONS_SUPPORT": "Operations Support",
+	"CREDITS_ROLE_PARALEGAL": "Paralegal",
+	"CREDITS_ROLE_PAYROLL_SPECIALIST": "Payroll Specialist",
+	"CREDITS_ROLE_PLATFORM_ENGINEER": "Platform Engineer",
+	"CREDITS_ROLE_PLATFORM_OPERATIONS_MANAGER": "Platform Operations Manager",
+	"CREDITS_ROLE_PRESIDENT": "President",
+	"CREDITS_ROLE_PRODUCER": "Producer",
+	"CREDITS_ROLE_PRODUCTION_MANAGER": "Production Manager",
+	"CREDITS_ROLE_PRODUCTION_SUPPORT": "Production Support",
+	"CREDITS_ROLE_PUBLIC_RELATIONS_DIRECTOR": "Public Relations Director",
+	"CREDITS_ROLE_PUBLIC_RELATIONS_MANAGER": "Public Relations Manager",
+	"CREDITS_ROLE_PURCHASING_MANAGER": "Purchasing Manager",
+	"CREDITS_ROLE_QA_DIRECTOR": "QA Director",
+	"CREDITS_ROLE_QA_LEAD": "QA Lead",
+	"CREDITS_ROLE_QA_MANAGER": "QA Manager",
+	"CREDITS_ROLE_QA_SPECIALIST": "QA Specialist",
+	"CREDITS_ROLE_QA_TESTER": "QA Tester",
+	"CREDITS_ROLE_RATINGS_SPECIALIST": "Ratings Specialist",
+	"CREDITS_ROLE_RECEPTIONIST": "Receptionist",
+	"CREDITS_ROLE_RECEPTIONIST_ADMINISTRATOR": "Receptionist Administrator",
+	"CREDITS_ROLE_RECRUITER": "Recruiter",
+	"CREDITS_ROLE_SALES_MANAGER": "Sales Manager",
+	"CREDITS_ROLE_SENIOR_ACCOUNTANT": "Senior Accountant",
+	"CREDITS_ROLE_SENIOR_CORPORATE_COUNSEL": "Senior Corporate Counsel",
+	"CREDITS_ROLE_SENIOR_DIRECTOR_OF_MARKETING": "Senior Director of Marketing",
+	"CREDITS_ROLE_SENIOR_FINANCIAL_ANALYST": "Senior Financial Analyst",
+	"CREDITS_ROLE_SENIOR_GAME_DESIGNER": "Senior Game Designer",
+	"CREDITS_ROLE_SENIOR_IT_SPECIALIST": "Senior IT Specialist",
+	"CREDITS_ROLE_SENIOR_IT_WEB_DEVELOPER": "Senior IT Web Developer",
+	"CREDITS_ROLE_SENIOR_QA_PROJECT_LEAD": "Senior QA Project Lead",
+	"CREDITS_ROLE_SENIOR_SYSTEMS_ENGINEER": "Senior Systems Engineer",
+	"CREDITS_ROLE_SENIOR_USER_RESEARCH_ANALYST": "Senior User Research Analyst",
+	"CREDITS_ROLE_SOFTWARE_ENGINEER": "Software Engineer",
+	"CREDITS_ROLE_SOFTWARE_TEST_ENGINEER": "Software Test Engineer",
+	"CREDITS_ROLE_SOUND_DESIGNER": "Sound Designer",
+	"CREDITS_ROLE_SR._PRODUCTION_MANAGER": "Sr. Production Manager",
+	"CREDITS_ROLE_SR_GAME_DESIGNER": "Sr Game Designer",
+	"CREDITS_ROLE_STUDIO_DIRECTOR": "Studio Director",
+	"CREDITS_ROLE_SUBMISSIONS_SPECIALIST": "Submissions Specialist",
+	"CREDITS_ROLE_SYSTEMS_ADMINISTRATOR": "Systems Administrator",
+	"CREDITS_ROLE_SYSTEMS_ENGINEER": "Systems Engineer",
+	"CREDITS_ROLE_TECHNICAL_ARTIST": "Technical Artist",
+	"CREDITS_ROLE_TECHNICAL_DIRECTOR": "Technical Director",
+	"CREDITS_ROLE_TEST_ASSOCIATE": "Test Associate",
+	"CREDITS_ROLE_TEST_DIRECTOR": "Test Director",
+	"CREDITS_ROLE_TEST_LEAD": "Test Lead",
+	"CREDITS_ROLE_TEST_MANAGER": "Test Manager",
+	"CREDITS_ROLE_USER_RESEARCH_ANALYST": "User Research Analyst",
+	"CREDITS_ROLE_USER_RESEARCH_MANAGER": "User Research Manager",
+	"CREDITS_ROLE_VP_OF_FINANCE": "VP of Finance",
+	"CREDITS_ROLE_VP_OF_STRATEGIC_OPERATIONS": "VP of Strategic Operations",
+	"CREDITS_ROLE_PRODUCT_MANAGEMENT_SPECIALIST": "Product Management Specialist",
+	"CREDITS_ROLE_EXECUTIVE_PRODUCER": "Executive Producer",
+	"CREDITS_ROLE_LOCALIZATION_SPECIALIST": "Localization Specialist",
+	"CREDITS_ROLE_QA_ANALYST": "QA Anaylst",
+	"CREDITS_ROLE_ASSOCIATE_BRAND_MANAGER": "Associate Brand Manager",
+	"CREDITS_ROLE_QA_TEST_COORDINATOR": "QA Test Coordinator",
+	"CREDITS_ROLE_CONSUMER_RESEARCH_LAB_COORDINATOR": "Consumer Research Lab Coordinator",
+	"CREDITS_ROLE_MARKET_RESEARCH_ANALYST": "Market Research Analyst",
+	"CREDITS_ROLE_DIRECTOR_ONLINE_ENGAGEMENT": "Director Online Engagement",
+	"CREDITS_ROLE_SENIOR_PRODUCT_MANAGER": "Senior Product Manager",
+	"CREDITS_ROLE_DIRECTOR_OF_PRODUCT_MANAGEMENT": "Director of Product Management",
+	"CREDITS_ROLE_OPERATIONS_COORDINATOR": "Operations Coordinator",
+	"CREDITS_ROLE_DIRECTOR_OF_OPERATIONS": "Director of Operations",
+	"CREDITS_ROLE_DIRECTOR_OF_PLAYER_SERVICES": "Director of Player Services",
+	"CREDITS_ROLE_DIRECTOR_OF_CONSUMER_RESEARCH": "Director of Consumer Research",
+	"CREDITS_ROLE_LEAD_USER_RESEARCH_ANALYST": "Lead User Research Analyst",
+	"CREDITS_ROLE_OPERATIONS_ACCOUNT_MANAGER": "Operations Account Manager",
+	"CREDITS_ROLE_ASSOCIATE_PRODUCT_MANAGER": "Associate Product Manager",
+	"CREDITS_ROLE_COMMUNICATIONS_COORDINATOR": "Communications Coordinator",
+	"CREDITS_ROLE_SENIOR_PRODUCER": "Senior Producer",
+	"CREDITS_ROLE_IT_PROJECT_MANAGER": "IT Project Manager",
+	"CREDITS_ROLE_CEO": "CEO & President Gearbox Entertainment",
+	"CREDITS_ROLE_ASSOCIATE_LEGAL_COUNSEL": "Associate Legal Counsel",
+	"CREDITS_ROLE_ASSOCIATE_CONTENT_ARTIST": "Associate Content Artist",
+	"CREDITS_ROLE_PROGRAMMER": "Programmer",
+	"CREDITS_ROLE_UNITY_CONSULTANT": "Unity Consultant",
+	"CREDITS_ROLE_SENIOR_PROGRAMMER": "Senior Programmer",
+	"CREDITS_ROLE_SENIOR_MANAGING_PRODUCER": "Senior Managing Producer",
+	"CREDITS_ROLE_GENERALIST_PROGRAMMER": "Generalist Programmer",
+	"CREDITS_ROLE_SENIOR_CREATIVE_PRODUCER": "Senior Creative Producer",
+	"CREDITS_ROLE_SENIOR_CONCEPT_ARTIST": "Senior Concept Artist",
+	"CREDITS_ROLE_ASSOCIATE_GAME_DESIGNER": "Associate Game Designer",
+	"CREDITS_ROLE_ALTO_TENOR": "Alto & Tenor Saxophone",
+	"CREDITS_ROLE_OBOE_HORN": "Oboe & English Horn",
+	"CREDITS_ROLE_VIOLIN_VOCALS": "Violin & Vocals",
+	"CREDITS_ROLE_BAGLAMA_BONGOS": "Baglama & Bongos",
+
+
+	"EARLY_ACCESS_DISCLAIMER": "Dziękujemy za grę w Risk of Rain 2! \r\n\r\nPamietaj, że RoR2 wciąż jest aktywnie rozwijane w formule Wczesnego Dostępu! Niektóre elementy są niekompletne i oznaczone <sprite name=\"WIP\">.\r\n\r\nBłędy oraz uwagi prosimy zgłaszać na adres contact@hopoogames.com. Możesz także dołączyć do oficjalnego kanału Discord (link jest w menu 'Muzyka i więcej'). \r\n\r\nDo zobaczenia na planecie.\r\n\r\n<i>- Hopoo Games<\/i>",
+	"EARLY_ACCESS_LORE" : "<style=cMono>\r\nWitaj w DataScraper (v3.1.53 – wersja beta)\r\n$ Analiza pamięci... błąd.\r\n$ Rozpracowywanie... błąd.\r\n$ Przeszukiwanie istotnych danych...\r\nBłąd!\r\nWypisanie dziennika błędów...\r\n<\/style>\r\n\r\nBrak danych. Proszę spróbować ponownie.\r\n", 
+
+
+
+	"ECLIPSE_GAMEMODE_NAME" : "Zaćmienie",
+	"ECLIPSE_GAMEMODE_DESCRIPTION" : "<style=cIsUtility>Zaćmienie</style> to tryb, który dodaje coraz trudniejsze modyfikatory do kolejnych rozgrywek.\n\nZa każdym razem, gdy <style=cIsUtility>ukończysz grę</style>, Twój poziom Zaćmienia dla danego Ocalonego <style=cIsUtility>permanentnie zwiększy się</style>, aż do maksimum <style=cIsUtility>8</style>.",
+	"ECLIPSE_GAMEMODE_START" : "Rozpocznij Zaćmienie",
+	
+	"ECLIPSE_1_NAME" : "Zaćmienie (1)",
+	"ECLIPSE_2_NAME" : "Zaćmienie (2)",
+	"ECLIPSE_3_NAME" : "Zaćmienie (3)",
+	"ECLIPSE_4_NAME" : "Zaćmienie (4)",
+	"ECLIPSE_5_NAME" : "Zaćmienie (5)",
+	"ECLIPSE_6_NAME" : "Zaćmienie (6)",
+	"ECLIPSE_7_NAME" : "Zaćmienie (7)",
+	"ECLIPSE_8_NAME" : "Zaćmienie (8)",
+	"ECLIPSE_1_DESCRIPTION" : "Zaczyna się na podstawowym poziomie Monsun.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Startowe zdrowie sojuszników: <style=cIsHealth>-50%</style></style>",
+	"ECLIPSE_2_DESCRIPTION" : "Zaczyna się na podstawowym poziomie Monsun.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Startowe zdrowie sojuszników: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Promień teleportu: <style=cIsHealth>-50%</style></style>",
+	"ECLIPSE_3_DESCRIPTION" : "Zaczyna się na podstawowym poziomie Monsun.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Startowe zdrowie sojuszników: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Promień teleportu: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Obrażenia od upadku sojuszników: <style=cIsHealth>+100% i są śmiertelne</style></style>",
+	"ECLIPSE_4_DESCRIPTION" : "Zaczyna się na podstawowym poziomie Monsun.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Startowe zdrowie sojuszników: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Promień teleportu: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Obrażenia od upadku sojuszników: <style=cIsHealth>+100% i są śmiertelne</style>\n<mspace=0.5em>(4)</mspace> Prędkość wrogów: <style=cIsHealth>+40%</style></style>",
+	"ECLIPSE_5_DESCRIPTION" : "Zaczyna się na podstawowym poziomie Monsun.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Startowe zdrowie sojuszników: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Promień teleportu: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Obrażenia od upadku sojuszników: <style=cIsHealth>+100% i są śmiertelne</style>\n<mspace=0.5em>(4)</mspace> Prędkość wrogów: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> Leczenie sojuszników: <style=cIsHealth>-50%</style></style>",
+	"ECLIPSE_6_DESCRIPTION" : "Zaczyna się na podstawowym poziomie Monsun.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Startowe zdrowie sojuszników: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Promień teleportu: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Obrażenia od upadku sojuszników: <style=cIsHealth>+100% i są śmiertelne</style>\n<mspace=0.5em>(4)</mspace> Prędkość wrogów: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> Leczenie sojuszników: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(6)</mspace> Ilość złota zostawianego przez wrogów: <style=cIsHealth>-20%</style></style>",
+	"ECLIPSE_7_DESCRIPTION" : "Zaczyna się na podstawowym poziomie Monsun.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Startowe zdrowie sojuszników: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Promień teleportu: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Obrażenia od upadku sojuszników: <style=cIsHealth>+100% i są śmiertelne</style>\n<mspace=0.5em>(4)</mspace> Prędkość wrogów: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> Leczenie sojuszników: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(6)</mspace> Ilość złota zostawianego przez wrogów: <style=cIsHealth>-20%</style>\n<mspace=0.5em>(7)</mspace> Czasy odnowienia umiejętności wrogów: <style=cIsHealth>-50%</style></style>",
+	"ECLIPSE_8_DESCRIPTION" : "\"Świętujesz w świetle... bo Ci pozwalam.\" \n\nZaczyna się na podstawowym poziomie Monsun. <style=cSub>\n\n<mspace=0.5em>(1)</mspace> Startowe zdrowie sojuszników: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(2)</mspace> Promień teleportu: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(3)</mspace> Obrażenia od upadku sojuszników: <style=cIsHealth>+100% i są śmiertelne</style> \n<mspace=0.5em>(4)</mspace> Prędkość wrogów: <style=cIsHealth>+40%</style> \n<mspace=0.5em>(5)</mspace> Leczenie sojuszników: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(6)</mspace> Ilość złota zostawianego przez wrogów: <style=cIsHealth>-20%</style> \n<mspace=0.5em>(7)</mspace> Czasy odnowienia umiejętności wrogów: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(8)</mspace> Sojusznicy otrzymują <style=cIsHealth>permanentne obrażenia</style></style>"
+
+
+
+	"EOS_LINK_ACCOUNT": "Połącz konto Epic Games",
+	"EOS_NOT_LINKED_TITLE": "Konto Epic Games nie jest połączone",
+	"EOS_NOT_LINKED_MESSAGE" : "Gra międzyplatformowa jest aktywna, ale Twoje konto Steam nie jest połączone z kontem Epic Games. Naciśnij 'Ponów', żeby ponownie połączyć konta, albo anuluj, żeby wyłączyć grę międzyplatformową i wyjść z gry.",
+	"EOS_RETRY_LOGIN": "Ponów",
+	"EOS_DEACTIVATE_CROSSPLAY_RESTART": "Anuluj",
+	"EOS_SERVER_BROWSER_INFO": "Pokazywane są wyłącznie lobby dla gry międzyplatformowej.",
+	"EOS_TOGGLE_POPUP_TITLE": "Wymagany restart",
+	"EOS_TOGGLE_POPUP_MESSAGE": "Zmiana ustawień międzyplatformowości wymaga restartu gry. Naciśnij 'Teraz' żeby zamknąć grę, albo 'Później', żeby kontynuować rozgrywkę.",
+	"EOS_TOGGLE_CLOSE_NOW": "Teraz",
+	"EOS_TOGGLE_CLOSE_LATER": "Później",
+	"EOS_TOGGLE_CROSSPLAY_DESCRIPTION": "OSTRZEŻENIE: Zmiana tych ustawień wymaga restartu gry.\n\nGra międzyplatformowa umożliwia użytkownikom Steam wspólną zabawę z użytkownikami Epic Games. Wymaga to połączenia konta Steam z kontem Epic Games.\n\nGdy opcja jest włączona, widoczne będą tylko lobby z Epic Games oraz lobby użytkowników Steam, którzy tez grę międzyplatformową włączyli.\n\nGdy opcja jest wyłączona, widoczne będą tylko lobby innych użytkowników Steam, którzy opcji nie włączyli.",
+	"EOS_CANNOT_JOIN_STEAM_LOBBY_HEADER": "Nie można dołączyć do lobby",
+	"EOS_CANNOT_JOIN_STEAM_LOBBY_MESSAGE": "Nie można dołączyć do lobby na Steam, dla którego gra międzyplatformowa nie została włączona. Opcję tę można przełączyć w menu ustawień.",
+	"EOS_INVALID_LOBBY_REQUIRES_CROSSPLAY_DESCRIPTION": "Lobby, do którego próbujesz dołaczyć, wymaga aktywnej gry międzyplatformowej. Włącz opcję w menu ustawień (wymagany restart)",
+	"EOS_INVALID_LOBBY_NO_CROSSPLAY_DESCRIPTION": "Lobby, do którego próbujesz dołaczyć, ma gra międzyplatformową wyłączoną. Wyłącz opcję w menu ustawień (wymagany restart)",
+	"EOS_INVALID_LOBBY_CROSSPLAY_GO_TO_SETTINGS": "Przejdź do ustawień", 
+	"EOS_LINK_ACCOUNT_DESCRIPTION": "Połącz lub stwórz konto Epic Games, aby zapraszać znajomycyh z Epic Games Store oraz otrzymywać od nich zaproszenia.",
+	"OPTION_EOS_LINK_ACCOUNT": "Połącz konto Epic Games", 
+
+	
 	}
 }
