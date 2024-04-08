@@ -11,7 +11,7 @@
 
 ### Postęp prac:
 
-- Mechaniczne Tłumaczenie gry jest w 95% ukończone.
+- Mechaniczne Tłumaczenie gry jest w 100% ukończone.
 - Poprawka Mechanicznego Tłumaczenia jest w 30% gotowa.
 - Korekta jest w 3% gotowa.
 
