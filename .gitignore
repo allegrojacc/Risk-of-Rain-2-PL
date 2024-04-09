@@ -13,11 +13,12 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
-
+*.code-workspace
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
 .ionide
+
 
 # Inno
 *.iss
