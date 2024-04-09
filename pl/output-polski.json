@@ -16,7 +16,7 @@
 		"ACHIEVEMENT_HARDHITTER_DESCRIPTION": "Zadaj 5000 obrażeń jednym strzałem.",
 
 		"ACHIEVEMENT_CARRYLUNARITEMS_NAME": "Wyznawca Księżyca",
-		"ACHIEVEMENT_CARRYLUNARITEMS_DESCRIPTION": "Miej przy sobie 5 przedmiotów księżycowych w jednym przejściu.",
+		"ACHIEVEMENT_CARRYLUNARITEMS_DESCRIPTION": "Miej przy sobie 5 przedmiotów księżycowych podczas jednego przejścia.",
 
 		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_NAME": "Chwalebna Bitwa",
 		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_DESCRIPTION": "Naładuj teleporter mając mniej niż 10% zdrowia.",
@@ -28,7 +28,7 @@
 		"ACHIEVEMENT_COMPLETETELEPORTER_DESCRIPTION": "Ukończ wydarzenie teleportera.",
 
 		"ACHIEVEMENT_COMPLETETHREESTAGES_NAME": "Wojownik",
-		"ACHIEVEMENT_COMPLETETHREESTAGES_DESCRIPTION": "Osiągnij i ukończ trzecie wydarzenie teleportera bez umierania.",
+		"ACHIEVEMENT_COMPLETETHREESTAGES_DESCRIPTION": "Dotrzyj do trzeciego wydarzenie teleportera i ukończ go bez umierania.",
 
 		"ACHIEVEMENT_DIE5TIMES_NAME": "Proces uczenia się",
 		"ACHIEVEMENT_DIE5TIMES_DESCRIPTION": "Umrzyj 5 razy.",
@@ -754,7 +754,7 @@
 		"HERETIC_DESCRIPTION": "HERETYK to potężna postać, do której dostęp można otworzyć jedynie nadzwyczajnymi środkami.",
 		"HERETIC_BODY_LORE": "Niebieski błysk pojawił się w jednej z ładowni Kontaktu Świetlistego. Wywołany chaos na statku był idealną dywersją. \r\n\r\nJak tylko Kur-skan wyłoniła się z portalu, od razu rzuciła się do biegu. Nie miała czasu. Przedzierała się pomiędzy ostrzałem i kulami ognia, wybuchami energii Błędnych i pokładowymi systemami bezpieczeństwa. Nikt nie zwracał uwagi na pierzastą postać przemykającą przez zamykające się śluzy.\r\n\r\nSzybko przemieszczała się po korytarzach statku. Pomimo, że była na ludzkim statku po raz pierwszy, potrafiła wyczuć elektromagnesy w ścianach - i miejsca ich połączeń. Zmieniła kierunek, wpadając z hukiem do kanałów wentylacyjnych.\r\n\r\nKapitan ledwo zdążył ją zauważyć, nim rzuciła się w bok do sterowni. Wyjęła dwa wiatrowe ostrza, kiedy ten sięgał po pistolet. Kapitan upadł na podłogę w krótkich odstępach czasu. \r\n\r\nPęd uderzył nią o panele sterowania, gdy stopy zagłębiły się w monitorach. Nie były jej potrzebne. Zwinne, szponiaste palce zaczęły rwać po klawiszach. Szybko rozdzielała i łączyła podzespoły, sięgając do pierzastych torebek po większą ilość połączeń i innych elektronicznych drobiazgów. Różne kondensatory spadały na podłogę. Ten statek był duży, ale niezbyt skomplikowany - a co ważniejsze, wciąż mógł latać. Ale musiała się pospieszyć, albo on -\r\n\r\ni nim zdążyła dokończyć myśl, pojawił się w błysku pioruna. Błękitne i zielone światło odbijało się od jego miecza, opadając kaskadami na cały pokład. Peleryna zakołysała się, a Opatrznośćylądował lekko na stopach.\r\n\r\nKur-skan odchyliła głowę do tyłu, wciąż szarpiąc panele kontrolne. Był znacznie szybszy, niż oczekiwała. Ale może by - \r\n\r\nJej ostatnie myśli zniknęły w mgnieniu oka ścięte kryształowym ostrzem. \r\n",
 
-		"RAILGUNNER_BODY_NAME": "Snajper Magnetyczny",
+		"RAILGUNNER_BODY_NAME": "Railgunner",
 		"RAILGUNNER_BODY_SUBTITLE": "Zapomniany Nomad",
 		"RAILGUNNER_DESCRIPTION": "Snajper Magnetyczny zadaje obrażenia na duży dystans, celując w pojedyncze cele. Może natychmiast wyeliminować zagrożenia priorytetowe bez względu na odległość. <style=cSub>\r\n\r\n< ! > Łatwo radzi sobie z bossami, jednak jest podatna na ataki grup słabych wrogów. Postaraj się mieć przedmioty o sile rażenia na obszarze!\r\n\r\n< ! > Przypisanie strzału do aktywnego przeładowania skraca czas odnowienia, wzmacniając przy tym kolejny pocisk z działa magnetycznego. \r\n\r\n< ! > System Inteligentnych Pocisków XQR to świetny sposób na oczyszczenie pola z pomniejszych wrogów albo ostrzelania zza osłony.\r\n\r\n< ! > Pamiętaj, użycie Doładowania sprawia, że jesteś bardzo podatny na obrażenia podczas resetu systemów. Nie zmarnuj tej szansy! ",
 		"RAILGUNNER_BODY_LORE": "\"Snajperstwo to ściema.\"\n\n\"...Co?\"\n\n\"No bo na tym polega polowanie na snajpy: wyślesz naiwniaka do lasu szukać zwierzęcia, które nie istnieje.\"\n\n\"...Tylko, że istnieją.\"\n\n\"Haha, no pewnie.\"\n\n\"Nie, serio. To ptaki na Ziemi. Maleńkie, zamaskowane ptaszki. Zastanawiałeś się, dlaczego strzelców wyborowych nazywają 'snajperami'? Bo są tak dobrzy, że potrafią trafić snajpy.\"\n\n\"Niemożliwe!\"\n\n\"Jakem żyw.\"\n\n\"Hmm.\"\n\n\"Wiesz, szyny to też rodzaj ptaka.\"\n\n\"Wynoś się.\"\n\n",
@@ -986,13 +986,13 @@
 		"VOIDINFESTOR_BODY_LORE": "RAPORTY O POTENCJALNYCH OBSERWACJACH ZARAŹCÓW \r\n\r\nPRZYPOMNIENIE: WSZYSTKIE RAPORTY ZBIERAĆ I NATYCHMIAST UDOSTĘPNIAĆ ZAŁODZE. \r\n\r\nPRZYPOMNIENIE: KONTAKT Z ZARAŹCAMI SPRAWIA, ŻE CZŁONKOWIE ZESPOŁU NIE PODLEGAJĄ RATOWANIU. STRZELAĆ PRZY WIDZENIU.\r\n\r\n-- 23.01 --\r\n\r\nCzy zauważyliście, że bestie blisko bazy zachowują się dziwnie?  W ciągu ostatnich kilku dni dochodziło do nieustannych walk a niektóre osobniki zachowują się niestabilnie. Nigdy nie trwa to zbyt długo - zazwyczaj ich rodziny je otaczają, rozrywając na strzępy zanim mogę im się bliżej przyjrzeć. Sądzicie, że coś jest z nimi nie tak? Czy może rodziny wykrywają jakiś rodzaj choroby i ją eliminują?  Odzyskaliśmy tylko jedno ciało i wygląda jak podstawowy lemurianin, poza zmiażdżonymi kończynami i rozgniecioną czaszką. Skontaktowałem się z Tharsonem, żeby dać mu znać - wiem jedno, sam nie wybiorę się do tych enklaw dopóki trwa tam wojna domowa. Może tak po prostu zachwoują się lemurianie z wścieklizną, chociaż pierwszy raz widzę coś takiego. \r\n\r\n-- 25.01 --\r\n\r\nWalki wewnątrz rodzin znacznie się nasiliły.  Bijatyki trwają o wiele dłużej niż tylko jedno zabójstwo a frakcje zmieniają się gwałtownie, jakby kierowała nimi żądza krwi.  Grupa czterech osób zatłucze jednostkę na śmierć tylko po to, by wkrótce potem zwrócić się przeciwko jednemu z siebie. Pierwszy raz widzę, jak małe grupy całkowicie się wybijają, tylko po to, by ostatni ocalały odczołgał się na zmasakrowanych kończynach.  Ze swojego stanowiska nie odważę się strzelać, nie wydają się nami zainteresowani i wolę aby tak zostało. Moim zdaniem, gdyby te nasze sąsiedztwo samo doprowadziło się do wymarcia byłby to dla mnie dobry dzień.  Wtedy przynajmniej mógłbym spać spokojnie, zamiast każdej nocy martwić się, że spalą mój namiot. \r\n\r\n-- 02.?? --\r\n\r\n > NAGRANIE AUDIO ODZYSKANE Z TERENU OPERACYJNEGO 4a\r\n\r\nDobrze... dobrze... to, cholero, już nagrywaj!  Nieważne, nagrywaj!  Dobra... światełko?! Dobrze - dobra.  Słuchajcie, to jest [USUNIĘTO], chcę, żeby ktokolwiek to znajdzie, znajdzie mnie, moje ciało lub ciało [USUNIĘTO] wiedział, że nie oszalałem. O boże... Dobra, właśnie zamordowałem [USUNIĘTO].  Przynajmniej, myślę, że to był [USUNIĘTO], ciężko się połapać.  Jakaś kreatura jak [USUNIĘTO] kołysała się nocą wokół naszej placówki - poruszał się jakby nie miał kości czy coś - nieważne.  Zawołałem go i zwrócił się, by wystrzelić w moją stronę.  Zabiłem go i ... słuchajcie, ja nie mogę - jeśli... jeśli zaczniemy się tak nawzajem wykańczać to ja po prostu... muszę się stąd wydostać.  Chcę tylko żebyście wiedzieli, że nie jestem wariatem.\r\n\r\n-- Koniec nagrania --\r\n\r\n> Powiązane osoby usunięte z rejestru. \r\n\r\n\r\n>Pełne nagranie dostępne przy zachowaniu poufności w raporcie 596f757220707269736f6e.\r\n==================================================================",
 
 		//[DRONE]
-		"DRONE_GUNNER_BODY_NAME": "Dron-Strzelec",
-		"DRONE_HEALING_BODY_NAME": "Dron-Uzdrowiciel",
+		"DRONE_GUNNER_BODY_NAME": "Dron Strzelec",
+		"DRONE_HEALING_BODY_NAME": "Dron Uzdrowiciel",
 		"DRONE_BACKUP_BODY_NAME": "Dron Uderzeniowy",
 		"DRONE_MISSILE_BODY_NAME": "Dron Rakietowy",
 		"DRONE_MEGA_BODY_NAME": "Prototyp TC-280",
 		"EQUIPMENTDRONE_BODY_NAME": "Dron Sprzętowy",
-		"FLAMEDRONE_BODY_NAME": "Dron-Podpalacz",
+		"FLAMEDRONE_BODY_NAME": "Dron Podpalacz",
 		"EMERGENCYDRONE_BODY_NAME": "Dron Ratunkowy",
 		"DRONE_COMMANDER_BODY_NAME": "Płk. Droniarz",
 
