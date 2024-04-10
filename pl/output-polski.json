@@ -448,28 +448,28 @@
 		"COMMANDO_BODY_NAME": "Komandos",
 		"COMMANDO_BODY_SUBTITLE": "Osaczony Rewolwerowiec",
 
-		"COMMANDO_PRIMARY_NAME": "Dwukrotne Uderzenie",
+		"COMMANDO_PRIMARY_NAME": "Double Tap",
 		"COMMANDO_PRIMARY_DESCRIPTION": "Szybko strzel do wroga zadając <style=cIsDamage>100% obrażeń</style>.",
 
 		"COMMANDO_SECONDARY_NAME": "Pocisk Fazowy",
-		"COMMANDO_SECONDARY_DESCRIPTION": "Wystrzel <style=cIsDamage>przebijający</style> pocisk zadający <style=cIsDamage>300% obrażeń</style>. Zadaje <style=cIsDamage>40%</style> więcej obrażeń za każdym razem, gdy przejdzie przez wroga.",
+		"COMMANDO_SECONDARY_DESCRIPTION": "Wystrzel <style=cIsDamage>przebijający</style> pocisk zadający <style=cIsDamage>300% obrażeń</style>. Zadaje <style=cIsDamage>40%</style> więcej obrażeń za każdym razem, gdy przeszyje wroga.",
 
 		"COMMANDO_SECONDARY_ALT1_NAME": "Wybuch Fazowy",
 		"COMMANDO_SECONDARY_ALT1_DESCRIPTION": "Wystrzel dwa pociski bliskiego zasięgu zadające razem <style=cIsDamage>8x200% obrażeń</style>.",
 
-		"COMMANDO_UTILITY_NAME": "Nurkowanie Taktyczne",
-		"COMMANDO_UTILITY_DESCRIPTION": "<style=cIsUtility>Wykonaj rzut</style> na krótkim dystansie.",
+		"COMMANDO_UTILITY_NAME": "Taktyczne Przewrót",
+		"COMMANDO_UTILITY_DESCRIPTION": "<style=cIsUtility>Wykonaj przewrót w przód</style> na krótki dystans.",
 
-		"COMMANDO_UTILITY_ALT_NAME": "Ślizg Taktyczny",
-		"COMMANDO_UTILITY_ALT_DESCRIPTION": "<style=cIsUtility>Ślizgaj się</style> po ziemi na krótkim dystansie. Podczas ślizgu możesz <style=cIsDamage>strzelać</style>.",
+		"COMMANDO_UTILITY_ALT_NAME": "Wślizg Taktyczny",
+		"COMMANDO_UTILITY_ALT_DESCRIPTION": "<style=cIsUtility>Wykonaj wślizg</style> po ziemi na krótki dystans. Podczas wślizgu możesz <style=cIsDamage>strzelać</style>.",
 
 		"COMMANDO_SPECIAL_NAME": "Ogień Zaporowy",
-		"COMMANDO_SPECIAL_DESCRIPTION": "<style=cIsDamage>Ogłuszający</style>. Strzelaj wielokrotnie zadając  <style=cIsDamage>100% obrażeń</style> za każdy pocisk. Liczba strzałów rośnie z szybkością ataku.",
+		"COMMANDO_SPECIAL_DESCRIPTION": "<style=cIsDamage>Ogłuszający</style>. Strzelaj wielokrotnie zadając  <style=cIsDamage>100% obrażeń</style> na każdy wystrzelony pocisk. Liczba strzałów rośnie z szybkością ataku.",
 
 		"COMMANDO_SPECIAL_ALT1_NAME": "Granat Odłamkowy",
 		"COMMANDO_SPECIAL_ALT1_DESCRIPTION": "Rzuć granat, który eksploduje zadając <style=cIsDamage>700% obrażeń</style>. Może przechowywać do 2.",
 
-		"COMMANDO_DESCRIPTION": "Komandos to uniwersalna postać sprawdzająca się we wszystkich sytuacjach gry. <style=cSub>\r\n\r\n< ! > Dwukrotne Uderzenie jest skuteczne zarówno z bliska, jak i z daleka, strzela szybko i aktywuje wiele efektów przedmiotów.\r\n\r\n< ! > Umiejętne użycie Nurkowania Taktycznego jest kluczem do unikania oczywistych ataków.\r\n\r\n< ! > Ogienia Zaporowego można użyć wielokrotnie do ogłuszenia pojedynczego celu lub grupy wrogów.\r\n\r\n< ! > Pociski Fazowe mogą przechodzić przez ściany - wykorzystaj to!\r\n</style>\r\n",
+		"COMMANDO_DESCRIPTION": "Komandos to uniwersalna postać sprawdzająca się we wszystkich sytuacjach gry. <style=cSub>\r\n\r\n< ! > Double Tap jest skuteczny zarówno z bliska, jak i z daleka, strzela szybko i aktywuje wiele efektów przedmiotów.\r\n\r\n< ! > Umiejętne użycie Taktycznego Przewroty jest kluczem do unikania oczywistych ataków.\r\n\r\n< ! > Ogienia Zaporowego można użyć wielokrotnie do ogłuszenia pojedynczego celu lub grupy wrogów.\r\n\r\n< ! > Pociski Fazowe mogą przechodzić przez ściany - wykorzystaj to!\r\n</style>\r\n",
 
 		"COMMANDO_SKIN_ALT1_NAME": "Szerszeń",
 		"COMMANDO_SKIN_ALT2_NAME": "Helota",
@@ -480,10 +480,10 @@
 		"MERC_BODY_SUBTITLE": "Wynajęte Ostrze",
 
 		"MERC_PRIMARY_NAME": "Miecz Laserowy",
-		"MERC_PRIMARY_DESCRIPTION": "<style=cIsUtility>Zwinny</style>. Zamachnij się przed sobą zadając <style=cIsDamage>130% obrażeń</style>. Każdy 3. cios uderza na większy obszar i <style=cIsUtility>Odsłania</style> wrogów.",
+		"MERC_PRIMARY_DESCRIPTION": "<style=cIsUtility>Zwinny</style>. Zamachnij się przed siebie zadając <style=cIsDamage>130% obrażeń</style>. Co trzeci cios uderza na większy obszar i <style=cIsUtility>Odsłania</style> wrogów.",
 
 		"MERC_SECONDARY_NAME": "Wicher",
-		"MERC_SECONDARY_DESCRIPTION": "Szybko tnij dwukrotnie w poziomie, zadając <style=cIsDamage>2x200% obrażeń</style>. Jeśli jesteś w powietrzu, zamiast tego tnij w pionie.",
+		"MERC_SECONDARY_DESCRIPTION": "Szybko tnij dwukrotnie w poziomie, zadając <style=cIsDamage>2x200% obrażeń</style>. Jeśli jesteś w powietrzu, zamiast tego tniesz w pionie.",
 
 		"MERC_SECONDARY_ALT1_NAME": "Wznoszący Się Grom",
 		"MERC_SECONDARY_ALT1_DESCRIPTION": "Wyprowadź podcinający cios, zadając <style=cIsDamage>550% obrażeń</style> i wzbij się w powietrze.",
@@ -505,7 +505,7 @@
 		"MERC_DESCRIPTION": "Najemnik to doświadczony wojownik walczący wręcz, który używa swoich licznych uników, by wpleść się w walkę i szybko ją opuścić. <style=cSub>\r\n\r\n< ! > Powietrzny wariant Wicher może być użyty jako dodatkowy skok w podbramkowej sytuacji.\r\n\r\n< ! > Uzyskiwanie kolejnych wykonań Oślepiającego Szturmu jest kluczowe zarówno dla zwiększenia przeżywalności, jak i zadawanych obrażeń. Jednak nie zawsze należy dążyć do ciągłych rzutów - może to prowadzić do śmierci.\r\n\r\n< ! > Pamiętaj, że Wypatroszenie to niezwykle potężne narzędzie obronne do unikania oczywistych ataków.\r\n\r\n< ! > Miecz Laserowy zadaje mnóstwo obrażeń na dużym obszarze, co jest unikalne dla podstawowego ataku.\r\n</style>\r\n",
 
 		"MERC_PASSIVE_NAME": "Cybernetyczne Udoskonalenia",
-		"MERC_PASSIVE_DESCRIPTION": "Najemnik może <style=cIsUtility>skoczyć dwa razy</style>.",
+		"MERC_PASSIVE_DESCRIPTION": "Najemnik może <style=cIsUtility>podskoczyć dwa razy</style>.",
 
 		"MERC_SKIN_ALT1_NAME": "Oni",
 
@@ -516,29 +516,29 @@
 		"ENGI_PRIMARY_DESCRIPTION": "Ładuje do <style=cIsDamage>8</style> granatów, które zadają po <style=cIsDamage>100% obrażeń</style> każdy.",
 
 		"ENGI_SECONDARY_NAME": "Miny Ciśnieniowe",
-		"ENGI_SECONDARY_DESCRIPTION": "Umieszcza dwufazową minę zadającą  <style=cIsDamage>300% obrażeń </style>, lub <style=cIsDamage>900% obrażeń </style> po pełnym uzbrojeniu. Można umieścić do 4 min.",
+		"ENGI_SECONDARY_DESCRIPTION": "Umieszcza dwufazową minę zadającą  <style=cIsDamage>300% obrażeń </style>, lub <style=cIsDamage>900% obrażeń </style> po pełnym naładowaniu. Można umieścić do 4 min na raz.",
 
 		"ENGI_SPIDERMINE_NAME": "Miny Robotyczne",
-		"ENGI_SPIDERMINE_DESCRIPTION": "Stawia minę-robota zadającą <style=cIsDamage>600% obrażeń</style> gdy przeciwnik znajdzie się w pobliżu. Można umieścić do 4 min.",
+		"ENGI_SPIDERMINE_DESCRIPTION": "Stawia minę-robota zadającą <style=cIsDamage>600% obrażeń</style> gdy przeciwnik znajdzie się w pobliżu. Można umieścić do 4 min na raz.",
 
 		"ENGI_UTILITY_NAME": "Osłona Bąblowa",
-		"ENGI_UTILITY_DESCRIPTION": "Stawia <style=cIsUtility>nieprzeniknioną osłonę</style>, która blokuje wszystkie nadchodzące obrażenia.",
+		"ENGI_UTILITY_DESCRIPTION": "Stawia <style=cIsUtility>osłonę</style>, która blokuje wszystkie nadchodzące obrażenia.",
 
 		"ENGI_SPECIAL_NAME": "Działo Automatyczne TR12 Gauss",
-		"ENGI_SPECIAL_DESCRIPTION": "Umieszcza wieżyczkę, która <style=cIsUtility>dziedziczy wszystkie twoje przedmioty</style>. Strzela pociskami zadającymi <style=cIsDamage>100% obrażeń</style>. Można umieścić do 2 wieżyczek.",
+		"ENGI_SPECIAL_DESCRIPTION": "Umieszcza wieżyczkę, która <style=cIsUtility>dziedziczy wszystkie twoje przedmioty</style>. Strzela pociskami zadającymi <style=cIsDamage>100% obrażeń</style>. Można umieścić do max. dwóch wieżyczek.",
 
 		"ENGI_SPECIAL_ALT1_NAME": "Wieżyczka Laserowa TR58",
-		"ENGI_SPECIAL_ALT1_DESCRIPTION": "Umieszcza <style=cIsUtility>mobilną</style> wieżyczkę, która <style=cIsUtility>dziedziczy wszystkie twoje przedmioty</style>. Strzela laserem zadającym <style=cIsDamage>200% obrażeń co sekundę</style>, który <style=cIsUtility>spowlania wrogów</style>.  Można umieścić do 2 wieżyczek.",
+		"ENGI_SPECIAL_ALT1_DESCRIPTION": "Umieszcza <style=cIsUtility>mobilną</style> wieżyczkę, która <style=cIsUtility>dziedziczy wszystkie twoje przedmioty</style>. Strzela laserem zadającym <style=cIsDamage>200% obrażeń co sekundę</style>, który <style=cIsUtility>spowlania wrogów</style>.  Można umieścić do max. dwóch wieżyczek.",
 
 		"ENGI_SKILL_HARPOON_NAME": "Harpuny Termiczne",
-		"ENGI_SKILL_HARPOON_DESCRIPTION": "Wchodzi w <style=cIsUtility>tryb namierzania celów</style> i wystrzeliwuje samonaprowadzające się harpune, które zadają <style=cIsDamage>500% obrażeń</style> każdy. Można przechować do 4 harpunów.",
+		"ENGI_SKILL_HARPOON_DESCRIPTION": "Wchodzi w <style=cIsUtility>tryb namierzania celów</style> i wystrzeliwuje samonaprowadzające  pocisko-harpuny, które zadają <style=cIsDamage>500% obrażeń</style> każdy. Można przechować do 4 harpunów.",
 
 		"ENGI_SKILL_HARPOON_FLAVOR_FULLYARMED": "CELE NAMIERZONE - GOTOWY DO STRZAŁU",
 
 		"ENGI_SKILL_PAINT_NAME": "Namierz Cel",
 		"ENGI_SKILL_PAINT_DESCRIPTION": "Trzymaj wciśnięty, by namierzyć cele dla Harpunów Termicznych.",
 
-		"ENGI_DESCRIPTION": "Inżynier jest wyjątkową klasą, która wymaga planowania i ustawienia się, aby odnieść sukces.<style=cSub>\r\n\r\n< ! > Umieszczanie min z wyprzedzeniem może pomóc w osłanianiu flank i ciasnych korytarzy. \r\n\r\n< ! > Inżynier jest silnie uzależniony od swoich wieżyczek - pamiętaj, aby umieszczać je w miejscach jednocześnie bezpiecznych i korzystnych w walce.\r\n \r\n< ! > Osłona Bąblowa może być potężnym narzędziem przeciwko silnym i zapowiedzianym atakom bossów -  może również chronić twoich sojuszników!\r\n\r\n< ! > Odbijające się granaty, choć potężne, mogą mieć problem z trafieniem mobilnych przeciwników. Staraj się, aby twoje wieżyczki pozostały przy życiu, by radzić sobie z szybkimi lub latającymi potworami.\r\n</style>\r\n",
+		"ENGI_DESCRIPTION": "Inżynier jest wyjątkową klasą, która wymaga planowania i dobrego pozycjonowania, aby odnieść sukces.<style=cSub>\r\n\r\n< ! > Umieszczanie min z wyprzedzeniem może pomóc w osłanianiu flank i ciasnych korytarzy. \r\n\r\n< ! > Inżynier jest silnie uzależniony od swoich wieżyczek - pamiętaj, aby umieszczać je w miejscach jednocześnie bezpiecznych i korzystnych w walce.\r\n \r\n< ! > Osłona Bąblowa może być potężnym narzędziem przeciwko silnym i telegraficzny atakom bossów -  może również chronić twoich sojuszników!\r\n\r\n< ! > Odbijające się granaty, choć potężne, mogą mieć problem z trafieniem mobilnych przeciwników. Staraj się, aby twoje wieżyczki pozostały przy życiu, by radzić sobie z szybkimi lub latającymi potworami.\r\n</style>\r\n",
 
 		"ENGI_SKIN_ALT1_NAME": "Saper",
 		"ENGI_BODY_LORE": "\u201CPrzyszłość jest teraz! Ulepszenia cybernetyczne \u2013 kup je tanio i zostań osobą, którą zawsze marzyłeś być!\u201D \r\n\r\nUlepszenia cybernetyczne były ostatnio w modzie, zwłaszcza odkąd zostały udostępnione do użytku publicznego. Początkowo tylko projekty wojskowe i komercyjne mogły licencjonować procedury niezbędne do zainstalowania implantów cybernetycznych. Ale te dni dawno minęły, a koncepcja \u201Cnowego człowieka\u201D szturmem podbijała galaktykę. \r\n\r\n Oczywiście, z każdym ruchem pojawiała się reakcja.  Co ze świętością ludzkiego ciała? Co z dumą z własnej biologii? Takie argumenty były zazwyczaj wyśmiewane. \u201CIdź z duchem czasu\u201D, mówili ludzie. Ale jeden człowiek spośród wielu wyróżnił się, zdobywając uwagę publiczną i tworząc kontrruch antycybernetyczny.\r\n\r\nTen człowiek postulował, że ludzkość chodzi po linie - kiedy kończą się cybernetyczne udoskonalenia, a gdzie zaczyna się człowiek? Czy ludzkość skończy jako gatunek maszyn, czy też wykorzystamy naszą nową technologię tylko do polepszenia siebie samych - nie tracąc z oczu tego, co czyni nas ludźmi? Słowa tego człowieka odbiły się echem w całej galaktyce, pozostawiając po sobie ślad rewolucji.\r\n",
@@ -588,10 +588,10 @@
 		"MAGE_UTILITY_ICE_NAME": "Szybkie zamrożenie",
 		"MAGE_UTILITY_ICE_DESCRIPTION": "<style=cIsUtility>Zamraża</style>. Tworzy barierę, która rani wrogów zadając <style=cIsDamage>100% obrażeń</style>.",
 		"MAGE_SPECIAL_FIRE_NAME": "Miotacz ognia",
-		"MAGE_SPECIAL_FIRE_DESCRIPTION": "<style=cIsDamage>Podpala</style>. Spala wszystkich wrogów przed tobą zadając <style=cIsDamage>2000% obrażeń</style>.",
+		"MAGE_SPECIAL_FIRE_DESCRIPTION": "<style=cIsDamage>Podpala</style>. Podpala wszystkich wrogów przed tobą zadając <style=cIsDamage>2000% obrażeń</style>.",
 		"MAGE_SPECIAL_LIGHTNING_NAME": "Fala jonów",
-		"MAGE_SPECIAL_LIGHTNING_DESCRIPTION": "<style=cIsDamage>Ogłusza</style>. Wybuchasz w powietrze zadając <style=cIsDamage>800% obrażeń</style>.",
-		"MAGE_DESCRIPTION": "Mag to postać ofensywna z dużym burstem,  skuteczny zarówno w walce z bossami, jak i grupami. <style=cSub>\r\n\r\n< ! > Kula Ognia szybko zużywa pociski, ale powoli je ładuje - staraj się wplatać zwykłe ataki między użyciami umiejętności.\r\n\r\n< ! > Bezpośrednie trafienia Naładowaną Nano-Bombą mogą odwrócić losy bitwy. \r\n\r\n< ! > Zamrożeni wrogowie są egzekwowani na niskim zdrowiu, co czyni tę umiejętność skuteczną przeciwko tankom.\r\n\r\n< ! > Pamiętaj, że Mag NIE ma zdolności defensywnych - pozycjonowanie i defensywne przedmioty są kluczowe! </style>\r\n",
+		"MAGE_SPECIAL_LIGHTNING_DESCRIPTION": "<style=cIsDamage>Ogłusza</style>. Wystrzeliwuje w powietrze zadając <style=cIsDamage>800% obrażeń</style>.",
+		"MAGE_DESCRIPTION": "Mag to postać ofensywna,  skuteczny zarówno w walce z bossami, jak i grupami przeciwników. <style=cSub>\r\n\r\n< ! > Kula Ognia szybko zużywa pociski, ale powoli je ładuje - staraj się wplatać zwykłe ataki między użyciami umiejętności.\r\n\r\n< ! > Bezpośrednie trafienia Naładowaną Nano-Bombą mogą odwrócić losy bitwy. \r\n\r\n< ! > Zamrożeni wrogowie są egzekwowani na niskim zdrowiu, co czyni tę umiejętność skuteczną przeciwko tankom.\r\n\r\n< ! > Pamiętaj, że Mag NIE ma zdolności defensywnych - pozycjonowanie i defensywne przedmioty są kluczowe! </style>\r\n",
 		"MAGE_SKIN_ALT1_NAME": "Chromowa",
 		"MAGE_BODY_LORE": "Z głębokim przekonaniem, że niebo jest planetą, a nie mistycznym miejscem, Wysoka Rada szukała głęboko w kosmosie Ziemi Obiecanej. \r\n\r\nNapędzany zarówno dogmatem jak i nauką, Wysoki Sąd posiada zdumiewające cuda technologiczne - z których prawie wszystkie są ukryte głęboko w ich halach. \r\n\r\nDom Ponad reprezentuje najbardziej ambitnych wyznawców Wysokiego Sądu, przodujących w podróżach w głąb kosmosu w Strefie 5. Dzięki unikalnemu skafandrowi ENV Dom Ponad zapuścił się w kosmos głębiej niż jakikolwiek inny Dom. Skafander ENV, noszony przez magów z Wysokiego Sądu jest cudem inżynierii - zdolnym do dostosowania się do warunków każdego środowiska. Technologia stojąca za skafandrem ENV, jak wszystkie inne technologie Wysokiego Sądu, jest wciąż nieujawniona.",
 
@@ -608,13 +608,13 @@
 		"TOOLBOT_PRIMARY_ALT3_NAME": "Elektryczna piła",
 		"TOOLBOT_PRIMARY_ALT3_DESCRIPTION": "Piłuj pobliskich wrogów zadając <style=cIsDamage>1000% obrażeń na sekundę</style>.",
 		"TOOLBOT_SECONDARY_NAME": "Butla ciśnieniowa",
-		"TOOLBOT_SECONDARY_DESCRIPTION": "<style=cIsDamage>Ogłusza</style>. Wystrzel butlę zadającą <style=cIsDamage>220% obrażeń</style>, która wypuszcza ogłuszające bombki zadające <style=cIsDamage>5x44% obrażeń</style>.",
+		"TOOLBOT_SECONDARY_DESCRIPTION": "<style=cIsDamage>Ogłusza</style>. Wystrzel butlę zadającą <style=cIsDamage>220% obrażeń</style>, która wypuszcza małe ogłuszające pociski zadające <style=cIsDamage>5x44% obrażeń</style>.",
 		"TOOLBOT_UTILITY_NAME": "Tryb transportu",
 		"TOOLBOT_UTILITY_DESCRIPTION": "<style=cIsUtility>Ciężki</style>. Szarżuj do przodu, zyskując <style=cIsUtility>200 punktów pancerza</style> i <style=cIsUtility>220% prędkości ruchu</style>. Zadaje wrogom <style=cIsDamage>250% obrażeń</style>.",
 		"TOOLBOT_SPECIAL_NAME": "Przeprogramowanie",
 		"TOOLBOT_SPECIAL_DESCRIPTION": "Biernie utrzymuj jednocześnie <style=cIsUtility>DWIE sztuki wyposażenia</style>. Aktywacja 'Przeprogramowania' zmienia <style=cIsUtility>aktywne wyposażenie</style> oraz <style=cIsDamage>główny atak MUL-Ta</style>.",
 		"TOOLBOT_SPECIAL_ALT_NAME": "Tryb Mocy",
-		"TOOLBOT_SPECIAL_ALT_DESCRIPTION": "Wejdź w ciężki Tryb Mocy, wyposażając się w oba dostępne <style=cIsDamage>główne ataki</style>. Zyskaj <style=cIsUtility>100 punktów pancerza</style>, ale tracisz <style=cIsHealth>-60% prędkości ruchu</style>.",
+		"TOOLBOT_SPECIAL_ALT_DESCRIPTION": "Wejdź w Tryb Mocy, wyposażając się w oba dostępne <style=cIsDamage>główne ataki</style>. Zyskaj <style=cIsUtility>100 punktów pancerza</style>, ale tracisz <style=cIsHealth>-60% prędkości ruchu</style>.",
 		"TOOLBOT_SPECIAL_ALT_QUIT_NAME": "Anuluj Tryb Mocy",
 		"TOOLBOT_SPECIAL_ALT_QUIT_DESCRIPTION": "Anuluj Tryb Mocy i wróć do normalnego stanu. Beep beep!",
 
