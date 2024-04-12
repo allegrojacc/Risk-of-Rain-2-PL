@@ -1131,7 +1131,7 @@
 		"OPTION_ACCEPT": "Akceptuj",
 		"OPTION_AUTOREVERT_DIALOG_DESCRIPTION": "Zmiany zostaną ustawione na domyślne za {0} sekund. Zachować te zmiany?",
 //[AUDIO],
-		"OPTION_MASTERVOLUME": "Głośność główna",
+		"OPTION_MASTERVOLUME": "Głośność główna:",
 		"OPTION_MASTERVOLUME_DESCRIPTION": "Głośność całej gry.",
 		"OPTION_MUSICVOLUME": "Głośność muzyki:",
 		"OPTION_MUSICVOLUME_DESCRIPTION": "Głośność muzyki w grze.",
