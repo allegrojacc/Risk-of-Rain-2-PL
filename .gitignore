@@ -18,3 +18,9 @@
 # Ignore all local history of files
 .history
 .ionide
+
+#inno
+*.iss
+
+#mody
+mody/
