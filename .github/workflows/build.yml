@@ -15,7 +15,6 @@ jobs:
         with:
           repository: allegrojacc/Instalka
           token: ${{ secrets.GITHUB_TOKEN }}
-          submodules: true
           path: main
 
       - name: Compile .ISS to .EXE Installer
