@@ -5,6 +5,11 @@ jobs:
     name: Build the Inno Setup Installer
     runs-on: windows-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          path: main
+
       - uses: actions/checkout@v4
 
       - name: Compile .ISS to .EXE Installer
