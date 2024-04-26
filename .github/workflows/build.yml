@@ -13,5 +13,5 @@ jobs:
       - name: Compile .ISS to .EXE Installer
         uses: Minionguyjpro/Inno-Setup-Action@v1.2.4
         with:
-          path: script.iss
+          path: main/src/script.iss
           options: /O+
