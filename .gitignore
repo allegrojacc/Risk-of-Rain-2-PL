@@ -20,4 +20,4 @@
 .ionide
 
 #Inno
-script.iss
+*.iss
