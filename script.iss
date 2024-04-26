@@ -29,8 +29,8 @@ AppCopyright=Copyright (C) 2024 allegrojacc
 
 DefaultGroupName={#MyAppName}
 AllowNoIcons=yes
-LicenseFile=C:\Users\alleg\Desktop\PL\Tlumaczenie\Instalka\license.txt
-InfoBeforeFile=C:\Users\alleg\Desktop\PL\Tlumaczenie\Instalka\Changelog.txt
+LicenseFile=C:\Users\alleg\Desktop\PL\Tlumaczenie\Instalka\license.rtf
+InfoBeforeFile=C:\Users\alleg\Desktop\PL\Tlumaczenie\Instalka\Changelog.rtf
 ; Remove the following line to run in administrative install mode (install for all users.)
 PrivilegesRequired=lowest
 OutputDir=D:\Instalka
