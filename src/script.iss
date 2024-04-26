@@ -19,9 +19,9 @@ AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
 DisableWelcomePage=no
 DisableDirPage=no
-SetupIconFile=C:\Users\alleg\Desktop\PL\Tlumaczenie\Instalka\ikona.ico
-WizardImageFile=C:\Users\alleg\Desktop\PL\Tlumaczenie\Instalka\Wizard.bmp
-WizardSmallImageFile=C:\Users\alleg\Desktop\PL\Tlumaczenie\Instalka\ikona.bmp
+SetupIconFile=C:\Users\alleg\Desktop\PL\Tlumaczenie\Ryzyko Deszczu 2\src\ikona.ico
+WizardImageFile=C:\Users\alleg\Desktop\PL\Tlumaczenie\Ryzyko Deszczu 2\src\Wizard.bmp
+WizardSmallImageFile=C:\Users\alleg\Desktop\PL\Tlumaczenie\Ryzyko Deszczu 2\src\ikona.bmp
 DefaultDirName={code:GetInstallationPath}
 ShowTasksTreeLines=yes
 DirExistsWarning=no
@@ -29,8 +29,8 @@ AppCopyright=Copyright (C) 2024 allegrojacc
 
 DefaultGroupName={#MyAppName}
 AllowNoIcons=yes
-LicenseFile=C:\Users\alleg\Desktop\PL\Tlumaczenie\Instalka\license.rtf
-InfoBeforeFile=C:\Users\alleg\Desktop\PL\Tlumaczenie\Instalka\Changelog.rtf
+LicenseFile=C:\Users\alleg\Desktop\PL\Tlumaczenie\Ryzyko Deszczu 2\src\license.rtf
+InfoBeforeFile=C:\Users\alleg\Desktop\PL\Tlumaczenie\Ryzyko Deszczu 2\src\Changelog.rtf
 ; Remove the following line to run in administrative install mode (install for all users.)
 PrivilegesRequired=lowest
 OutputDir=D:\Instalka
