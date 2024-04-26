@@ -1,0 +1,24 @@
+name: Build Installer
+on: push
+jobs:
+  build:
+    name: Build the Inno Setup Installer
+    runs-on: windows-latest
+    steps:
+
+      - uses: actions/checkout@v4
+        with:
+          path: main
+
+      - name: Checkout private tools
+        uses: actions/checkout@v4
+        with:
+          repository: allegrojacc/Instalka
+          token: ${{ secrets.GH_PAT }}
+          path: main
+
+      - name: Compile .ISS to .EXE Installer
+        uses: Minionguyjpro/Inno-Setup-Action@v1.2.4
+        with:
+          path: Instalka/script.iss
+          options: /O+
