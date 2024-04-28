@@ -1,17 +1,19 @@
-name: Build Installer
-on: push
+name: Generate changelog
+on:
+  release:
+    types: [created, edited]
+
 jobs:
-  build:
-    name: Build the Inno Setup Installer
+  generate-changelog:
     runs-on: windows-latest
     steps:
-
-      - uses: actions/checkout@v4
-        with:
-          path: main
-
-      - name: Compile .ISS to .EXE Installer
-        uses: Minionguyjpro/Inno-Setup-Action@v1.2.4
-        with:
-          path: main/src/script.iss
-          options: /O+
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - uses: BobAnkh/auto-generate-changelog@v1.2.5
+      with:
+        REPO_NAME: 'allegrojacc/Risk-of-Rain-2-PL'
+        ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        PATH: 'CHANGELOG.md'
+        COMMIT_MESSAGE: 'docs(CHANGELOG): update release notes'
+        TYPE: 'feat:Feature,fix:Bug Fixes,docs:Documentation,refactor:Refactor,perf:Performance Improvements'
