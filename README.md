@@ -1,7 +1,7 @@
 
 ![Logo](https://github.com/allegrojacc/Risk-of-Rain-2-PL/blob/main/image.png?raw=true)
 
-
+![downloads](https://img.shields.io/github/downloads/allegrojacc/Risk-of-Rain-2-PL/total?label=Pobrano) ![version](https://img.shields.io/github/v/release/allegrojacc/Risk-of-Rain-2-PL?label=Aktualna%20wersja%20spolszczenia)
 ### Chcesz pomóc?:
 [Dołącz do tłumaczenia na gitlocalize](https://gitlocalize.com/repo/9490/).
 
