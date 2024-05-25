@@ -664,7 +664,7 @@
 		"LUNAREXPLODER_BODY_NAME": "Księżycowa Chimera",
 		"LUNAREXPLODER_BODY_SUBTITLE": "Projekty Zenitu",
 		"LUNAREXPLODER_BODY_LORE": "Napędzana przez odpady - każdy materiał ma wartość.\r\n\r\nProste konstrukcje. Prosta lokomocja. Zdolne do prostszych ingerencji. \r\n\r\nJakość komponentów redukuje stabilność. Uzbroję zniszczenie przeciwko zniszczeniu.\r\n",
-		// [Bossy]
+		// [Bossy],
 		"BEETLEQUEEN_BODY_NAME": "Królowa Żuków",
 		"BEETLEQUEEN_BODY_SUBTITLE": "Matka Roju",
 		"BEETLEQUEEN_BODY_LORE": "<style=cMono>\r\nWitaj w DataScraper (v3.1.53 – wersja beta)\r\n$ Analiza pamięci... gotowe.\r\n$ Rozpracowywanie... gotowe.\r\n$ Przeszukiwanie istotnych danych... gotowe.\r\nZakończono!\r\n</style>\r\nTo dziennik pokładowy D. Furthena, przyrodnika UES [Utajnione] we współpracy z UES Badań i Dokumentacji Życia Pozaziemskiego. Towarzyszy mi mój dobry przyjaciel Tharson, który zapewnia mi bezpieczeństwo podczas tej podróży.\r\n\r\n---------------------\r\n\r\nPodobnie jak zwykłe ziemskie owady, Robocze Żuki i Strażnicze Żuki służą Królowej, którą niedawno odkryliśmy podczas wykopalisk archeologicznych.\r\n\r\nOpiszę jej właściwości poniżej. Nadałem jej roboczą nazwę 'Królowa Żuków'.\r\n\r\n* Podobnie jak inne królowe owadów, Królowa Żuków przerasta poddanych. Jednak jej rozmiar jest znacznie większy, niż powinien być u owadziej królowej. Czy to oznacza, że Królowa sama poluje, zamiast wysyłać swoje drony?\r\n\r\n* Królowa Żuków wydaje rozkazy poprzez wydzielanie feromonów. Sama obecność Królowej nadała powietrzu mdłosłodki aromat, a Tharson zgłosił lekkie zawroty głowy i problemy z jasnością myślenia.\r\n\r\n* Żółć Królowej jest niewiarygodnie kwaśna, osiągając imponujące 0,05 w skali pH. Natychmiast po wystawieniu na próbce stali, zaczęła ją rozpuszczać i wydzielać szkodliwe opary. Tharson jest cały po tym starciu. \r\n\r\n* Królowa potrafi przywoływać unikalne okazy Żuków, które potrafią latać. Te drony nie pojawiają się nigdzie indziej na planecie - czy służą Królowej jako świta? Obserwacja latających dronów jest trudna - wydają się żyć tylko kilka sekund, po czym kończą swój żywot.\r\n",
@@ -756,7 +756,7 @@
 		"EMERGENCYDRONE_BODY_NAME": "Dron Ratunkowy",
 		"DRONE_COMMANDER_BODY_NAME": "Płk. Droniarz",
 		"TURRET1_BODY_NAME": "Wieżyczka Strzelnicza",
-		//[MISC]
+		//[MISC],
 		"ENGITURRET_BODY_NAME": "Wieżyczka Sapera",
 		"POT2_BODY_NAME": "Garnek",
 		"FUSIONCELL_BODY_NAME": "Ogniwo Paliwowe",
@@ -2481,7 +2481,7 @@
 		"UNLOCKABLE_LOG_LUNARGOLEM": "Dziennik Potworów: Księżycowa Chimera",
 		"UNLOCKABLE_LOG_BROTHER": "Dziennik Potworów: Mithrix",
 		"UNLOCKABLE_LOG_LUNAREXPLODER": "Dziennik Potworów: Księżycowa Chimera",
-		"UNLOCKABLE_LOG_VOIDBARNACLE": "Dziennik Potworów: Wąsonogi z Pustki", //wikipedia BARNACLE
+		"UNLOCKABLE_LOG_VOIDBARNACLE": "Dziennik Potworów: Wąsonogi z Pustki",
 		"UNLOCKABLE_LOG_VOIDJAILER": "Dziennik Potworów: Strażnik Pustki",
 		"UNLOCKABLE_LOG_ACIDLARVA": "Dziennik Potworów: Larwa",
 		"UNLOCKABLE_LOG_FLYINGVERMIN": "Dziennik Potworów: Latający Szkodnik",
