@@ -1,6 +1,6 @@
 {
 	"strings": {
-		//[Achievementy],
+//[Achievementy],
 		"ACHIEVEMENT_UNLOCKED_MESSAGE": "<color=#ccd3e0>{0} osiągnął <color=#BDE151>{1}</color></color>",
 		"ACHIEVEMENT_UNLOCKED_MESSAGE_2P": "<color=#ccd3e0>Osiągnąłeś <color=#BDE151>{1}</color></color>",
 		"ACHIEVEMENT_LOGCOLLECTOR_NAME": "Mól Książkowy",
@@ -756,7 +756,7 @@
 		"EMERGENCYDRONE_BODY_NAME": "Dron Ratunkowy",
 		"DRONE_COMMANDER_BODY_NAME": "Płk. Droniarz",
 		"TURRET1_BODY_NAME": "Wieżyczka Strzelnicza",
-		//[MISC],
+//[MISC],
 		"ENGITURRET_BODY_NAME": "Wieżyczka Sapera",
 		"POT2_BODY_NAME": "Garnek",
 		"FUSIONCELL_BODY_NAME": "Ogniwo Paliwowe",
