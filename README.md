@@ -24,9 +24,9 @@ Wersja v0.6 (Itemy #2) aktualny postęp: ![](https://geps.dev/progress/70)
 
 ### Postęp prac:
 
-* Mechaniczne Tłumaczenie gry jest w 100% ukończone. ✅
-* Poprawka Mechanicznego Tłumaczenia jest w 40% gotowa.
-* Korekta jest w 20% gotowa.
+* Mechaniczne Tłumaczenie gry jest gotowa w https://geps.dev/progress/100 ✅
+* Poprawka Mechanicznego Tłumaczenia jest gotowa w https://geps.dev/progress/60
+* Korekta jest gotowa w https://geps.dev/progress/20.
 
 
 
@@ -37,7 +37,7 @@ Wersja v0.6 (Itemy #2) aktualny postęp: ![](https://geps.dev/progress/70)
 
 
 
- ### Manualna instalacja STEAM/EGS/Wersja Piracka
+ ### Manualna instalacja STEAM/Epic
 
 
 
