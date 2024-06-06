@@ -1,9 +1,15 @@
 
-![Logo](https://github.com/allegrojacc/Risk-of-Rain-2-PL/blob/main/image.png?raw=true)
+![Logo](ryzyko-deszczu.png)
 
 ![downloads](https://img.shields.io/github/downloads/allegrojacc/Risk-of-Rain-2-PL/total?label=Pobrano) ![version](https://img.shields.io/github/v/release/allegrojacc/Risk-of-Rain-2-PL?label=Aktualna%20wersja%20spolszczenia)
 
-Wersja v0.6 (Itemy #2) aktualny postęp: ![](https://geps.dev/progress/70)
+<p align="center">
+  <a href="https://store.steampowered.com/app/632360/Risk_of_Rain_2/">
+    <img alt="Kup gre" title="Steam" src="steam-store.png" width="140">
+  </a>
+
+Wersja v0.6 (Itemy #2) aktualny postęp: ![](https://geps.dev/progress/80)
+Ostatnia zmiana w pliku:![](https://img.shields.io/badge/06.06.2024-16%3A20-red)
 
 ### Chcesz pomóc?:
 [Dołącz do tłumaczenia na gitlocalize](https://gitlocalize.com/repo/9490/).
