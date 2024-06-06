@@ -5,7 +5,8 @@
 
 
 Wersja v0.6 (Itemy #2) aktualny postęp: ![](https://geps.dev/progress/80)
-# Ostatnia zmiana w pliku:![](https://img.shields.io/badge/06.06.2024-16%3A20-red)
+
+Ostatnia zmiana w pliku:![](https://img.shields.io/badge/06.06.2024-16%3A20-red)
 
 ### Chcesz pomóc?:
 [Dołącz do tłumaczenia na gitlocalize](https://gitlocalize.com/repo/9490/).
