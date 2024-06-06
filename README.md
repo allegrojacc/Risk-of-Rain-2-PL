@@ -43,7 +43,7 @@ Ostatnia zmiana w pliku:![](https://img.shields.io/badge/06.06.2024-16%3A20-red)
 
  ### Manualna instalacja STEAM/Epic:
 
-![Instrukcja obrazkowa dostępna na STEAM](https://steamcommunity.com/sharedfiles/filedetails/?id=3235200757)
+[Instrukcja obrazkowa dostępna na STEAM](https://steamcommunity.com/sharedfiles/filedetails/?id=3235200757 'Instrukcja Steam')
 
 ```
 Pobierz folder PL z repo i przenieś go do:
