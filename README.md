@@ -4,9 +4,9 @@
 ![downloads](https://img.shields.io/github/downloads/allegrojacc/Risk-of-Rain-2-PL/total?label=Pobrano) ![version](https://img.shields.io/github/v/release/allegrojacc/Risk-of-Rain-2-PL?label=Aktualna%20wersja%20spolszczenia)
 
 
-Wersja v0.7 Poprawki #1 aktualny postęp: ![](https://geps.dev/progress/40)
+Wersja v0.75 Poprawki #2 aktualny postęp: ![](https://geps.dev/progress/0)
 
-Ostatnia zmiana w pliku:![](https://img.shields.io/badge/30.07.2024-14%3A27-red)
+Ostatnia zmiana w pliku:![](https://img.shields.io/badge/31.07.2024-18%3A47-red)
 
 ### Chcesz pomóc?:
 [Dołącz do tłumaczenia na gitlocalize](https://gitlocalize.com/repo/9490/).
