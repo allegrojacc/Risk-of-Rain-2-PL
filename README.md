@@ -28,8 +28,8 @@ Ostatnia zmiana w pliku:![](https://img.shields.io/badge/06.08.2024-14%3A21-red)
 ### Postęp prac:
 
 * Mechaniczne Tłumaczenie gry jest gotowa w ![](https://geps.dev/progress/100) ✅
-* Poprawka Mechanicznego Tłumaczenia jest gotowa w ![](https://geps.dev/progress/60)
-* Korekta jest gotowa w ![](https://geps.dev/progress/20)
+* Poprawka Mechanicznego Tłumaczenia jest gotowa w ![](https://geps.dev/progress/90)
+* Korekta jest gotowa w ![](https://geps.dev/progress/40)
 
 
 
