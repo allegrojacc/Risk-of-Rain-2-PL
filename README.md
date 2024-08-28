@@ -5,6 +5,7 @@
 
 
 Wersja v0.90 Seekers of the Storm ![](https://geps.dev/progress/4) 27/565 nowych wpisów przetłumaczono
+
 Wersja v0.99 ?? aktualny postęp: ![](https://geps.dev/progress/30)
 
 Ostatnia zmiana w pliku:![](https://img.shields.io/badge/26.08.2024-17%3A41-red)
