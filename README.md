@@ -4,7 +4,16 @@
 ![downloads](https://img.shields.io/github/downloads/allegrojacc/Risk-of-Rain-2-PL/total?label=Pobrano) ![version](https://img.shields.io/github/v/release/allegrojacc/Risk-of-Rain-2-PL?label=Aktualna%20wersja%20spolszczenia)
 
 
-# Błąd z brakiem polskich znaków naprawiony (04.09.2024), na dniach pojawi sie fix #fixyourshitGearbox
+
+
+
+# Z powodu dziwnych zmian, które wprowadził gearbox spolszczenie zostało przeniesione na Thunderstore. Mimo to repo będzie nadal aktualizowane na bieżąco może kiedyś się naprawi.
+
+
+
+
+
+[Pobierz na Thunderstore](https://thunderstore.io/package/allegrojacc/RyzykoDeszczu2/)
 
 Wersja v0.90 Seekers of the Storm ![](https://geps.dev/progress/40)
 * Osiągniecia ✅
@@ -23,7 +32,7 @@ Ostatnia zmiana w pliku:![](https://img.shields.io/badge/04.09.2024-14%3A30-red)
 
 ### Kontakt
 * Discord: @allegrojacc
-* Email: allegrojacc@gmail.com
+* Email: kontakt@allegrojacc.online
 
 
 ### Celem tego projektu jest stworzenie pełnego spolszczenia gry Risk of Rain 2. Obejmuje to tłumaczenie na język polski:
