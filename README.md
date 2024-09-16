@@ -15,12 +15,12 @@
 
 [Pobierz na Thunderstore](https://thunderstore.io/package/allegrojacc/RyzykoDeszczu2/)
 
-Wersja v0.90 Seekers of the Storm ![](https://geps.dev/progress/40)
+Wersja v0.90 Seekers of the Storm ![](https://geps.dev/progress/60)
 * Osiągniecia ✅
 * Artefakty ✅
 * Postacie ⬜
 * Przedmioty ⬜
-* Inne ⬜
+* Inne ✅
 
 
 Wersja v0.99 ?? aktualny postęp: ![](https://geps.dev/progress/30)
