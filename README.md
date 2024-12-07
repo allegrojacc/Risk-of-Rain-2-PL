@@ -7,7 +7,7 @@
 
 
 
-# Z powodu dziwnych zmian, które wprowadził gearbox spolszczenie zostało przeniesione na Thunderstore. Mimo to repo będzie nadal aktualizowane na bieżąco może kiedyś się naprawi.
+# Z powodu dziwnych zmian, które wprowadził gearbox spolszczenie zostało przeniesione w formie moda na Thunderstore. Mimo to tutaj nadal można pobrać wersje bez polskich znaków która działa świetnie.
 
 
 
@@ -15,17 +15,17 @@
 
 [Pobierz na Thunderstore](https://thunderstore.io/package/allegrojacc/RyzykoDeszczu2/)
 
-Wersja v0.90 Seekers of the Storm ![](https://geps.dev/progress/60)
+Wersja v0.90 Seekers of the Storm ![](https://geps.dev/progress/80)
 * Osiągniecia ✅
 * Artefakty ✅
 * Postacie ⬜
-* Przedmioty ⬜
+* Przedmioty ✅
 * Inne ✅
 
 
-Wersja v0.99 ?? aktualny postęp: ![](https://geps.dev/progress/30)
+Wersja v0.99 ?? aktualny postęp: ![](https://geps.dev/progress/60)
 
-Ostatnia zmiana w pliku:![](https://img.shields.io/badge/04.09.2024-14%3A30-red)
+Ostatnia zmiana w pliku:![](https://img.shields.io/badge/04.12.2024-14%3A30-red)
 
 ### Chcesz pomóc?:
 [Dołącz do tłumaczenia na gitlocalize](https://gitlocalize.com/repo/9490/).
