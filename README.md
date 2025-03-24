@@ -23,9 +23,9 @@ Wersja v0.90 Seekers of the Storm ![](https://geps.dev/progress/60)
 * Inne ✅
 
 
-Wersja v0.99 ?? aktualny postęp: ![](https://geps.dev/progress/30)
+Wersja v0.99 ?? aktualny postęp: ![](https://geps.dev/progress/90)
 
-Ostatnia zmiana w pliku:![](https://img.shields.io/badge/04.09.2024-14%3A30-red)
+Ostatnia zmiana w pliku:![](https://img.shields.io/badge/24.05.2025-14%3A30-red)
 
 ### Chcesz pomóc?:
 [Dołącz do tłumaczenia na gitlocalize](https://gitlocalize.com/repo/9490/).
